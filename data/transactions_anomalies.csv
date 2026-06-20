@@ -1,0 +1,2007 @@
+transaction_id,date,customer_id,merchant,category,amount,payment_mode,month,day_of_week,rolling_avg_7d,anomaly,anomaly_flag
+TXN00735,2025-06-25,CUST001,Johnson Inc,shopping,534.93,UPI,6,2,534.93,1,0
+TXN00567,2025-07-07,CUST001,"Wells, Thompson and Johnson",shopping,719.14,UPI,7,0,627.04,1,0
+TXN01212,2025-07-14,CUST001,Fuentes PLC,travel,19.3,debit card,7,0,424.46,1,0
+TXN00453,2025-07-21,CUST001,Hampton LLC,dining,409.11,debit card,7,0,420.62,1,0
+TXN00558,2025-07-24,CUST001,Williams-Boyd,shopping,81.48,credit card,7,3,352.79,1,0
+TXN01546,2025-07-28,CUST001,Rivera Ltd,shopping,236.25,credit card,7,0,333.37,1,0
+TXN01371,2025-07-30,CUST001,"Norton, Cox and Boyer",dining,505.54,credit card,7,2,357.96,1,0
+TXN00082,2025-07-31,CUST001,Coleman-Gregory,dining,85.85,UPI,7,3,293.81,1,0
+TXN00837,2025-08-05,CUST001,"Chen, White and Stone",groceries,725.02,debit card,8,1,294.65,1,0
+TXN00705,2025-08-29,CUST001,Anderson Ltd,travel,761.54,debit card,8,4,400.68,1,0
+TXN01896,2025-09-21,CUST001,Martin-Washington,groceries,318.75,debit card,9,6,387.78,1,0
+TXN00756,2025-09-27,CUST001,Clark and Sons,utilities,853.52,credit card,9,5,498.07,1,0
+TXN00251,2025-10-07,CUST001,"Willis, Powell and King",utilities,577.53,UPI,10,1,546.82,1,0
+TXN00527,2025-10-10,CUST001,Gray LLC,shopping,392.68,credit card,10,4,530.7,1,0
+TXN01020,2025-10-12,CUST001,"Johns, Reilly and Jones",dining,21.45,net banking,10,6,521.5,1,0
+TXN01270,2025-10-25,CUST001,"Fritz, Anderson and Griffith",utilities,47.09,UPI,10,5,424.65,1,0
+TXN01892,2025-11-02,CUST001,Howell Ltd,groceries,887.03,net banking,11,6,442.58,1,0
+TXN01786,2025-11-03,CUST001,"Massey, Cantu and Smith",entertainment,380.79,debit card,11,0,451.44,1,0
+TXN00614,2025-11-20,CUST001,Bell Inc,travel,674.7,debit card,11,3,425.9,1,0
+TXN01080,2025-11-21,CUST001,Shaw-Smith,groceries,121.42,credit card,11,4,360.74,1,0
+TXN01361,2025-12-23,CUST001,"Porter, Sanchez and Jones",travel,468.55,UPI,12,1,371.58,1,0
+TXN01714,2025-12-31,CUST001,Brown-Stanley,entertainment,759.43,debit card,12,2,477.0,1,0
+TXN01898,2026-01-03,CUST001,Morton-Stein,groceries,670.86,debit card,1,5,566.11,1,0
+TXN01561,2026-01-25,CUST001,"Phillips, Holt and Wallace",shopping,969.8,debit card,1,6,577.94,1,0
+TXN01710,2026-02-20,CUST001,"Rodriguez, Kim and Walton",shopping,895.12,net banking,2,4,651.41,1,0
+TXN01727,2026-02-23,CUST001,Gray-Matthews,utilities,360.76,net banking,2,0,606.56,1,0
+TXN01003,2026-03-06,CUST001,Hill-Johnston,entertainment,177.42,net banking,3,4,614.56,1,0
+TXN01469,2026-03-12,CUST001,Gonzalez LLC,utilities,717.76,credit card,3,3,650.16,1,0
+TXN00524,2026-03-20,CUST001,"Smith, Powell and Martin",travel,531.29,UPI,3,4,617.57,1,0
+TXN00763,2026-04-07,CUST001,Morales-Johnson,shopping,232.42,net banking,4,1,554.94,1,0
+TXN01293,2026-04-22,CUST001,Weeks Group,travel,492.34,net banking,4,2,486.73,1,0
+TXN00929,2026-04-24,CUST001,Schmidt-Li,travel,337.68,credit card,4,4,407.1,1,0
+TXN00168,2026-04-27,CUST001,"Diaz, York and Williams",entertainment,180.89,credit card,4,0,381.4,1,0
+TXN00347,2026-05-01,CUST001,Newman-Ferguson,groceries,105.47,credit card,5,4,371.12,1,0
+TXN01779,2026-05-11,CUST001,Chavez-Santiago,entertainment,139.28,UPI,5,0,288.48,1,0
+TXN00762,2026-05-13,CUST001,"Huang, Briggs and Mccann",shopping,63.41,debit card,5,2,221.64,1,0
+TXN00997,2026-05-15,CUST001,"Martin, Norris and Jones",utilities,424.8,net banking,5,4,249.12,1,0
+TXN01000,2026-05-23,CUST001,"Chavez, Bradford and Hudson",entertainment,985.95,debit card,5,5,319.64,1,0
+TXN01359,2026-06-01,CUST001,Smith-Lane,groceries,572.36,debit card,6,0,353.17,1,0
+TXN00554,2025-06-17,CUST002,Gross-West,utilities,686.28,debit card,6,1,686.28,1,0
+TXN01935,2025-06-28,CUST002,"Jenkins, Tran and George",dining,26.21,debit card,6,5,356.24,1,0
+TXN01092,2025-07-05,CUST002,Pittman Inc,travel,204.11,UPI,7,5,305.53,1,0
+TXN00065,2025-07-06,CUST002,Davenport-Spencer,shopping,57.65,net banking,7,6,243.56,1,0
+TXN00379,2025-07-11,CUST002,Elliott-Mckay,dining,267.79,net banking,7,4,248.41,1,0
+TXN01265,2025-07-11,CUST002,May-Adams,travel,257.97,debit card,7,4,250.0,1,0
+TXN01783,2025-07-13,CUST002,"Morris, Moore and Moreno",travel,185.01,credit card,7,6,240.72,1,0
+TXN00875,2025-07-21,CUST002,Rogers LLC,utilities,7954.23,net banking,7,0,1279.0,-1,1
+TXN00446,2025-07-25,CUST002,Dunn LLC,travel,326.64,net banking,7,4,1321.91,1,0
+TXN00552,2025-08-05,CUST002,Lewis Group,utilities,60.23,debit card,8,1,1301.36,1,0
+TXN01603,2025-08-09,CUST002,Curtis-Hawkins,dining,437.33,credit card,8,5,1355.6,1,0
+TXN01159,2025-08-11,CUST002,Payne-Wilson,shopping,41.99,debit card,8,0,1323.34,-1,1
+TXN01981,2025-08-14,CUST002,"Carr, Guzman and Hanson",groceries,200.44,credit card,8,3,1315.12,1,0
+TXN01455,2025-08-26,CUST002,Obrien-Duffy,dining,592.4,UPI,8,1,1373.32,1,0
+TXN00200,2025-09-02,CUST002,"Curry, Fuller and Davis",groceries,985.96,debit card,9,1,377.86,1,0
+TXN01096,2025-09-03,CUST002,Morgan and Sons,groceries,603.04,net banking,9,2,417.34,1,0
+TXN01186,2025-09-14,CUST002,Bell Inc,shopping,850.1,net banking,9,6,530.18,1,0
+TXN00565,2025-09-24,CUST002,Winters-Ball,groceries,570.85,UPI,9,2,549.25,1,0
+TXN00600,2025-09-26,CUST002,Duke-Bean,shopping,976.65,credit card,9,4,682.78,1,0
+TXN00918,2025-10-07,CUST002,Gonzalez-Hall,groceries,931.88,UPI,10,1,787.27,1,0
+TXN00947,2025-11-15,CUST002,"Shelton, Ramirez and Bennett",shopping,701.68,debit card,11,5,802.88,1,0
+TXN01226,2025-11-18,CUST002,Alvarado PLC,dining,583.38,debit card,11,1,745.37,1,0
+TXN01924,2025-12-02,CUST002,Rios-Kerr,travel,503.84,debit card,12,1,731.2,1,0
+TXN00559,2025-12-19,CUST002,Anderson-Moss,dining,476.99,debit card,12,4,677.9,1,0
+TXN00237,2025-12-26,CUST002,Taylor and Sons,travel,113.91,UPI,12,4,612.62,1,0
+TXN00067,2026-01-05,CUST002,Franklin Group,dining,689.65,UPI,1,0,571.62,1,0
+TXN01978,2026-01-09,CUST002,Rivera and Sons,entertainment,91.39,net banking,1,4,451.55,1,0
+TXN00563,2026-01-23,CUST002,Webster LLC,groceries,374.09,debit card,1,4,404.75,1,0
+TXN00216,2026-01-30,CUST002,"Perez, Boyer and Brennan",dining,560.71,net banking,1,4,401.51,1,0
+TXN01158,2026-02-04,CUST002,"Williams, Padilla and Archer",shopping,571.68,net banking,2,2,411.2,1,0
+TXN00541,2026-02-08,CUST002,"Smith, Baker and Blanchard",groceries,89.98,debit card,2,6,355.92,1,0
+TXN01432,2026-02-09,CUST002,"Grant, Ferguson and Fitzpatrick",shopping,176.86,debit card,2,0,364.91,1,0
+TXN00277,2026-02-15,CUST002,"Garner, Mann and Mcgee",travel,857.73,net banking,2,6,388.92,1,0
+TXN00748,2026-02-22,CUST002,Johnston Inc,groceries,875.97,net banking,2,6,501.0,1,0
+TXN00739,2026-03-16,CUST002,"Thomas, Dominguez and Mendoza",travel,268.2,net banking,3,0,485.88,1,0
+TXN00753,2026-03-23,CUST002,Hansen Ltd,dining,767.92,UPI,3,0,515.48,1,0
+TXN00592,2026-04-01,CUST002,"Whitney, Roberts and Contreras",utilities,466.04,net banking,4,2,500.39,1,0
+TXN00073,2026-04-02,CUST002,Andrews-Kirk,utilities,69.29,UPI,4,3,497.43,1,0
+TXN00218,2026-04-19,CUST002,"Austin, Morris and Jackson",entertainment,456.73,net banking,4,6,537.41,1,0
+TXN00111,2026-04-27,CUST002,Small and Sons,entertainment,234.41,UPI,4,0,448.37,1,0
+TXN00111,2026-04-27,CUST002,Unknown Merchant,entertainment,234.41,UPI,4,0,356.71,1,0
+TXN01570,2026-05-08,CUST002,Ramsey-Moore,entertainment,830.64,debit card,5,4,437.06,1,0
+TXN00870,2026-05-13,CUST002,Reyes Inc,shopping,404.11,credit card,5,2,385.09,1,0
+TXN00500,2026-05-30,CUST002,"Foster, Mccall and Curtis",entertainment,452.98,UPI,5,5,383.22,1,0
+TXN00534,2026-06-01,CUST002,Brown-Ray,utilities,403.81,net banking,6,0,431.01,1,0
+TXN01007,2026-06-01,CUST002,Yates LLC,entertainment,440.76,credit card,6,0,428.73,1,0
+TXN00096,2026-06-07,CUST002,Taylor Ltd,dining,147.99,UPI,6,6,416.39,1,0
+TXN01509,2026-06-07,CUST002,"Curtis, Gomez and Brooks",shopping,676.57,net banking,6,6,479.55,1,0
+TXN00064,2025-06-19,CUST003,Smith Ltd,utilities,389.33,credit card,6,3,389.33,1,0
+TXN00080,2025-06-22,CUST003,Robertson-Vasquez,shopping,621.44,net banking,6,6,505.38,1,0
+TXN01128,2025-06-26,CUST003,Johnson and Sons,dining,471.17,debit card,6,3,493.98,1,0
+TXN01503,2025-07-05,CUST003,Nichols-Herrera,groceries,778.14,debit card,7,5,565.02,1,0
+TXN01838,2025-07-07,CUST003,Lowe-Donaldson,groceries,845.11,debit card,7,0,621.04,1,0
+TXN01301,2025-07-08,CUST003,Gomez-Wright,utilities,449.28,UPI,7,1,592.41,1,0
+TXN01629,2025-07-14,CUST003,Edwards-Hernandez,groceries,304.67,net banking,7,0,551.31,1,0
+TXN01230,2025-07-18,CUST003,Hunter LLC,dining,591.89,debit card,7,4,580.24,1,0
+TXN01017,2025-07-25,CUST003,Wang-Mcintyre,travel,657.54,net banking,7,4,585.4,1,0
+TXN01327,2025-08-08,CUST003,Boyd LLC,groceries,993.26,debit card,8,4,659.98,1,0
+TXN00771,2025-08-24,CUST003,Gallegos-Jacobson,dining,874.52,UPI,8,6,673.75,1,0
+TXN01591,2025-08-24,CUST003,White Ltd,dining,67.35,debit card,8,6,562.64,1,0
+TXN01143,2025-08-28,CUST003,Bird Group,entertainment,741.41,debit card,8,3,604.38,1,0
+TXN01286,2025-09-28,CUST003,"Benton, Wilson and Stephenson",groceries,531.29,net banking,9,6,636.75,1,0
+TXN00242,2025-10-10,CUST003,Cardenas LLC,travel,961.57,UPI,10,4,689.56,1,0
+TXN00695,2025-10-10,CUST003,Benitez PLC,utilities,455.12,debit card,10,4,660.65,1,0
+TXN00435,2025-10-20,CUST003,Kelley PLC,groceries,679.43,debit card,10,0,615.81,1,0
+TXN01307,2025-11-01,CUST003,Lane Group,groceries,104.0,net banking,11,5,505.74,1,0
+TXN01957,2025-11-09,CUST003,Stone Inc,travel,236.8,credit card,11,6,529.95,1,0
+TXN00207,2025-11-17,CUST003,Solis-Mcintyre,entertainment,738.45,credit card,11,0,529.52,1,0
+TXN01712,2025-12-12,CUST003,"Peters, Cox and Klein",shopping,573.46,debit card,12,4,535.55,1,0
+TXN00443,2025-12-13,CUST003,"Miller, Ward and Parker",travel,315.23,credit card,12,5,443.21,1,0
+TXN00045,2025-12-18,CUST003,Kennedy-Smith,shopping,725.64,net banking,12,3,481.86,1,0
+TXN00170,2025-12-21,CUST003,"Gonzalez, Alexander and Hall",shopping,248.1,debit card,12,6,420.24,1,0
+TXN00041,2026-01-02,CUST003,Bass LLC,groceries,692.92,net banking,1,4,504.37,1,0
+TXN01737,2026-01-06,CUST003,"Wright, Brown and Mills",utilities,910.95,net banking,1,1,600.68,1,0
+TXN01610,2026-01-23,CUST003,Sutton and Sons,travel,491.67,debit card,1,4,565.42,1,0
+TXN01160,2026-02-05,CUST003,"Wells, Mercer and Kennedy",utilities,185.86,debit card,2,3,510.05,1,0
+TXN01671,2026-02-16,CUST003,Allen-Hill,utilities,736.37,debit card,2,0,570.22,1,0
+TXN01028,2026-02-19,CUST003,Sutton PLC,travel,531.19,debit card,2,3,542.44,1,0
+TXN01637,2026-02-26,CUST003,Harper Inc,utilities,887.49,credit card,2,3,633.78,1,0
+TXN00636,2026-03-08,CUST003,Bradshaw LLC,shopping,534.11,credit card,3,6,611.09,1,0
+TXN01569,2026-04-07,CUST003,White and Sons,groceries,273.27,debit card,4,1,519.99,1,0
+TXN01462,2026-04-12,CUST003,Ibarra Group,utilities,159.58,credit card,4,6,472.55,1,0
+TXN00493,2026-04-23,CUST003,Cruz Group,entertainment,16.44,debit card,4,3,448.35,1,0
+TXN01874,2026-04-27,CUST003,Lucas-James,shopping,358.05,net banking,4,0,394.3,1,0
+TXN01897,2026-04-27,CUST003,Williams-Martinez,dining,753.48,credit card,4,0,426.06,1,0
+TXN00318,2026-05-25,CUST003,"Hicks, Johnson and Adams",shopping,81.16,net banking,5,0,310.87,1,0
+TXN00505,2026-05-26,CUST003,Unknown Merchant,groceries,154.78,credit card,5,1,256.68,1,0
+TXN01763,2026-05-29,CUST003,Ramos-Sandoval,shopping,869.88,net banking,5,4,341.91,1,0
+TXN01023,2026-05-31,CUST003,"Johnson, Blackburn and Garcia",groceries,231.26,debit card,5,6,352.15,1,0
+TXN01519,2026-06-12,CUST003,Glover and Sons,utilities,277.97,net banking,6,4,389.51,1,0
+TXN01964,2026-06-15,CUST003,Dixon-Davenport,groceries,152.61,debit card,6,0,360.16,1,0
+TXN01664,2025-06-16,CUST004,"Ibarra, Hunter and Alvarez",groceries,747.67,UPI,6,0,747.67,1,0
+TXN00976,2025-06-22,CUST004,Bell-Weiss,utilities,998.01,net banking,6,6,872.84,1,0
+TXN01627,2025-07-06,CUST004,Green Group,groceries,803.72,UPI,7,6,849.8,1,0
+TXN00548,2025-07-07,CUST004,Thomas-Anderson,shopping,472.67,net banking,7,0,755.52,1,0
+TXN01708,2025-07-11,CUST004,Davis LLC,entertainment,392.08,net banking,7,4,682.83,1,0
+TXN00806,2025-07-27,CUST004,Love-Bryan,utilities,23.86,net banking,7,6,573.0,1,0
+TXN00754,2025-07-31,CUST004,Cowan and Sons,groceries,811.38,debit card,7,3,607.06,1,0
+TXN01522,2025-08-12,CUST004,Duran-Mejia,utilities,984.91,credit card,8,1,640.95,1,0
+TXN01974,2025-08-29,CUST004,Woods Ltd,utilities,847.84,debit card,8,4,619.49,1,0
+TXN00382,2025-08-30,CUST004,"Rangel, Mathews and Wong",shopping,846.81,net banking,8,5,625.65,1,0
+TXN00542,2025-09-06,CUST004,Camacho Inc,dining,563.51,net banking,9,5,638.63,1,0
+TXN01343,2025-09-06,CUST004,Hahn-Gould,groceries,169.8,net banking,9,5,606.87,1,0
+TXN01142,2025-10-02,CUST004,"Gillespie, Ward and Wilson",entertainment,430.57,credit card,10,3,664.97,1,0
+TXN00223,2025-10-17,CUST004,"Gomez, Wolfe and Lawrence",groceries,523.01,UPI,10,4,623.78,1,0
+TXN01991,2025-11-01,CUST004,"Nichols, Evans and Gamble",dining,355.04,UPI,11,5,533.8,1,0
+TXN00820,2025-11-28,CUST004,Donovan LLC,travel,245.32,UPI,11,4,447.72,1,0
+TXN01753,2025-12-23,CUST004,Jones LLC,utilities,410.94,debit card,12,1,385.46,1,0
+TXN00504,2026-01-27,CUST004,"Smith, Green and Rice",travel,214.75,credit card,1,1,335.63,1,0
+TXN01155,2026-02-01,CUST004,Elliott-Bolton,groceries,64.47,credit card,2,6,320.59,1,0
+TXN01172,2026-02-22,CUST004,Smith-Smith,travel,10.27,net banking,2,6,260.54,1,0
+TXN00323,2026-02-26,CUST004,Russell Inc,dining,411.64,debit card,2,3,244.63,1,0
+TXN00201,2026-03-02,CUST004,Walker and Sons,utilities,679.15,net banking,3,0,290.93,1,0
+TXN00491,2026-03-11,CUST004,Malone-Williams,utilities,747.4,net banking,3,2,362.66,1,0
+TXN01556,2026-03-23,CUST004,"Dean, Stephens and Jackson",groceries,302.59,UPI,3,0,347.18,1,0
+TXN00800,2026-04-05,CUST004,Hudson-Nelson,dining,960.55,UPI,4,6,453.72,1,0
+TXN01905,2026-04-12,CUST004,Wheeler Inc,utilities,373.44,UPI,4,6,497.86,1,0
+TXN01102,2026-04-26,CUST004,"Knight, Good and Hester",shopping,333.16,debit card,4,6,543.99,1,0
+TXN00189,2026-04-28,CUST004,Bradshaw-Khan,utilities,706.88,net banking,4,1,586.17,1,0
+TXN00101,2026-04-29,CUST004,"Knight, Garza and Roberts",travel,564.24,net banking,4,2,569.75,1,0
+TXN00723,2026-05-23,CUST004,"Galloway, Allen and Smith",groceries,517.41,UPI,5,5,536.9,1,0
+TXN00832,2026-05-28,CUST004,Pham and Sons,shopping,9566.45,debit card,5,3,1860.3,-1,1
+TXN01240,2026-05-28,CUST004,Allen-Ward,dining,831.32,net banking,5,3,1841.84,1,0
+TXN00781,2026-06-03,CUST004,Morgan-Lopez,shopping,931.89,credit card,6,2,1921.62,-1,1
+TXN00868,2025-06-24,CUST005,Trujillo Group,travel,915.61,credit card,6,1,915.61,1,0
+TXN00141,2025-07-19,CUST005,Johnson-Dodson,travel,506.88,net banking,7,5,711.24,1,0
+TXN00129,2025-08-22,CUST005,Davis-Harris,travel,219.87,net banking,8,4,547.45,1,0
+TXN01228,2025-08-27,CUST005,"Mcintosh, Bruce and Chandler",entertainment,527.49,debit card,8,2,542.46,1,0
+TXN00728,2025-09-10,CUST005,"Villarreal, Hogan and Roach",utilities,553.01,net banking,9,2,544.57,1,0
+TXN01261,2025-09-23,CUST005,Conley-Evans,entertainment,648.76,UPI,9,1,561.94,1,0
+TXN00225,2025-10-16,CUST005,"Gamble, Barber and Simpson",entertainment,404.93,debit card,10,3,539.51,1,0
+TXN00370,2025-11-11,CUST005,Mason-Stevens,shopping,159.51,net banking,11,1,431.49,1,0
+TXN01691,2025-11-27,CUST005,Levy Group,groceries,683.22,credit card,11,3,456.68,1,0
+TXN00706,2025-11-28,CUST005,"Davis, Rosario and Edwards",entertainment,340.54,credit card,11,4,473.92,1,0
+TXN01584,2025-12-06,CUST005,Potts LLC,dining,358.86,net banking,12,5,449.83,1,0
+TXN01453,2025-12-07,CUST005,"Browning, Morgan and Berger",entertainment,339.8,debit card,12,6,419.37,1,0
+TXN01857,2025-12-13,CUST005,"Dalton, Perry and Hanson",utilities,569.85,UPI,12,5,408.1,1,0
+TXN00901,2025-12-15,CUST005,Perry-Smith,utilities,698.32,net banking,12,0,450.01,1,0
+TXN00444,2025-12-17,CUST005,"Donovan, Brown and Cooke",groceries,30.66,UPI,12,2,431.61,1,0
+TXN01011,2025-12-22,CUST005,"Mosley, Rush and Phelps",entertainment,766.37,UPI,12,0,443.49,1,0
+TXN00845,2025-12-24,CUST005,Turner-Acosta,utilities,456.23,debit card,12,2,460.01,1,0
+TXN01961,2025-12-24,CUST005,"Stone, Jordan and Buckley",dining,110.34,net banking,12,2,424.51,1,0
+TXN00656,2026-01-02,CUST005,Morgan-Rowland,travel,451.39,credit card,1,4,440.45,1,0
+TXN00173,2026-01-28,CUST005,Gonzalez-Good,groceries,21.17,UPI,1,2,362.07,1,0
+TXN01047,2026-02-01,CUST005,White and Sons,travel,535.7,net banking,2,6,338.84,1,0
+TXN01141,2026-02-19,CUST005,"Rivers, Warner and Thompson",entertainment,985.03,net banking,2,3,475.18,1,0
+TXN00156,2026-03-07,CUST005,Bullock-Miller,utilities,183.25,UPI,3,5,391.87,1,0
+TXN00273,2026-03-10,CUST005,Ruiz-Russo,shopping,381.42,credit card,3,1,381.19,1,0
+TXN00651,2026-03-29,CUST005,"Lane, Sims and Murphy",entertainment,348.19,UPI,3,6,415.16,1,0
+TXN00794,2026-03-31,CUST005,"Zavala, Brown and Flores",utilities,560.15,net banking,3,1,430.7,1,0
+TXN01818,2026-04-03,CUST005,"Joseph, Ramirez and Velez",shopping,690.47,credit card,4,4,526.32,1,0
+TXN01545,2026-04-20,CUST005,Wade-Morris,utilities,892.14,UPI,4,0,577.24,1,0
+TXN00011,2026-04-21,CUST005,"Howard, Guerra and Dominguez",shopping,752.0,debit card,4,1,543.95,1,0
+TXN00411,2026-04-24,CUST005,Wilson-Morris,dining,45.0,credit card,4,4,524.2,1,0
+TXN00746,2026-05-01,CUST005,Wilkinson Inc,entertainment,664.54,UPI,5,4,564.64,1,0
+TXN00478,2026-05-08,CUST005,Pena and Sons,groceries,466.76,credit card,5,4,581.58,1,0
+TXN00198,2026-05-20,CUST005,"Jones, Macias and Beard",entertainment,903.07,credit card,5,2,630.57,1,0
+TXN00980,2026-05-23,CUST005,Neal-Rodriguez,groceries,65.4,UPI,5,5,541.27,1,0
+TXN01124,2025-06-20,CUST006,Braun Inc,shopping,492.64,debit card,6,4,492.64,1,0
+TXN00798,2025-06-22,CUST006,Walker PLC,entertainment,597.35,debit card,6,6,545.0,1,0
+TXN01459,2025-06-27,CUST006,"Lee, Gonzalez and Holmes",groceries,178.84,UPI,6,4,422.94,1,0
+TXN01442,2025-07-23,CUST006,Garcia Group,groceries,353.69,credit card,7,2,405.63,1,0
+TXN00171,2025-07-30,CUST006,Carroll-Wood,utilities,133.67,UPI,7,2,351.24,1,0
+TXN01145,2025-09-03,CUST006,"Walker, Lewis and Carter",utilities,521.22,UPI,9,2,379.57,1,0
+TXN01347,2025-09-05,CUST006,Reyes Ltd,travel,747.47,UPI,9,4,432.13,1,0
+TXN00191,2025-10-04,CUST006,Newman-Bell,travel,272.02,net banking,10,5,400.61,1,0
+TXN00594,2025-10-05,CUST006,Jones-Cox,shopping,828.53,debit card,10,6,433.63,1,0
+TXN01328,2025-10-22,CUST006,Johnson-Ross,entertainment,10.83,credit card,10,2,409.63,1,0
+TXN00892,2025-11-02,CUST006,Adams-Davis,utilities,115.53,net banking,11,6,375.61,1,0
+TXN01843,2025-11-04,CUST006,Ball PLC,utilities,837.25,UPI,11,1,476.12,1,0
+TXN00294,2025-11-06,CUST006,Mccullough-Rivera,travel,242.21,UPI,11,3,436.26,1,0
+TXN00416,2025-11-10,CUST006,"Taylor, Hall and Mann",utilities,901.83,credit card,11,0,458.31,1,0
+TXN00657,2025-11-27,CUST006,"Whitaker, Berry and Sutton",entertainment,325.46,debit card,11,3,465.95,1,0
+TXN00205,2025-12-04,CUST006,Rojas PLC,utilities,486.78,credit card,12,3,417.13,1,0
+TXN00256,2025-12-12,CUST006,Cole-Gray,utilities,934.24,credit card,12,4,549.04,1,0
+TXN00529,2025-12-12,CUST006,"Wilson, Lopez and Barnes",travel,303.11,debit card,12,4,575.84,1,0
+TXN00104,2025-12-13,CUST006,Kelly-Edwards,shopping,719.52,credit card,12,5,559.02,1,0
+TXN01499,2025-12-16,CUST006,Thornton LLC,dining,911.83,UPI,12,1,654.68,1,0
+TXN01937,2025-12-16,CUST006,"Nunez, Chavez and Guzman",dining,168.34,net banking,12,1,549.9,1,0
+TXN01670,2026-01-01,CUST006,"Bruce, Cortez and Johnson",groceries,992.77,debit card,1,3,645.23,1,0
+TXN01401,2026-01-08,CUST006,"Parker, Jackson and Padilla",travel,249.52,debit card,1,3,611.33,1,0
+TXN01257,2026-01-18,CUST006,Mccarthy-Combs,groceries,933.3,debit card,1,6,611.2,1,0
+TXN01828,2026-01-30,CUST006,"Jensen, Smith and Barnes",entertainment,906.79,credit card,1,4,697.44,1,0
+TXN00302,2026-02-04,CUST006,Barnett-Olson,utilities,967.48,credit card,2,2,732.86,1,0
+TXN01662,2026-02-09,CUST006,Winters Ltd,entertainment,231.29,net banking,2,0,635.64,1,0
+TXN01117,2026-03-23,CUST006,Burns Inc,dining,402.8,net banking,3,0,669.14,1,0
+TXN01461,2026-04-03,CUST006,Cruz-Miller,utilities,524.37,credit card,4,4,602.22,1,0
+TXN00645,2026-04-28,CUST006,"Huff, Camacho and Rogers",travel,661.55,debit card,4,1,661.08,1,0
+TXN01429,2026-05-03,CUST006,Patterson-Murray,utilities,871.66,net banking,5,6,652.28,1,0
+TXN00380,2026-05-20,CUST006,Anderson Ltd,groceries,591.31,net banking,5,2,607.21,1,0
+TXN00891,2026-05-21,CUST006,Gonzalez-Russo,dining,688.52,UPI,5,3,567.36,1,0
+TXN00448,2026-05-31,CUST006,"Chavez, Shelton and Jones",travel,517.2,net banking,5,6,608.2,1,0
+TXN00808,2026-05-31,CUST006,Johnson Inc,shopping,665.6,debit card,5,6,645.74,1,0
+TXN00352,2026-06-02,CUST006,"Ponce, Bailey and Cox",utilities,90.41,UPI,6,1,583.75,1,0
+TXN01366,2026-06-08,CUST006,Ramos and Sons,utilities,669.25,credit card,6,0,584.85,1,0
+TXN01587,2025-06-21,CUST007,Torres-Diaz,entertainment,157.52,net banking,6,5,157.52,1,0
+TXN00966,2025-07-02,CUST007,Lee PLC,travel,91.46,net banking,7,2,124.49,1,0
+TXN01766,2025-07-05,CUST007,Brady-Green,groceries,319.89,credit card,7,5,189.62,1,0
+TXN00476,2025-07-13,CUST007,Montgomery and Sons,utilities,305.94,net banking,7,6,218.7,1,0
+TXN01253,2025-07-18,CUST007,Dougherty Group,shopping,548.64,debit card,7,4,284.69,1,0
+TXN00421,2025-07-23,CUST007,Campbell-Thomas,groceries,773.05,net banking,7,2,366.08,1,0
+TXN01864,2025-09-05,CUST007,Montoya-Smith,groceries,81.67,net banking,9,4,325.45,1,0
+TXN00629,2025-09-13,CUST007,Newman Inc,utilities,414.35,debit card,9,5,362.14,1,0
+TXN00913,2025-09-15,CUST007,"Perkins, Cunningham and Brown",shopping,149.5,credit card,9,0,370.43,1,0
+TXN01508,2025-09-21,CUST007,"Stanley, Macdonald and Powers",utilities,800.34,UPI,9,6,439.07,1,0
+TXN00008,2025-09-30,CUST007,"Clarke, Hernandez and Lewis",utilities,764.12,credit card,9,1,504.52,1,0
+TXN00948,2025-10-21,CUST007,Reese Inc,travel,276.04,UPI,10,1,465.58,1,0
+TXN01776,2025-10-30,CUST007,"Moses, Odonnell and Ryan",shopping,131.73,credit card,10,3,373.96,1,0
+TXN00040,2025-11-06,CUST007,Cole Ltd,travel,185.81,UPI,11,3,388.84,1,0
+TXN00368,2025-11-11,CUST007,"Montgomery, Mccullough and Rodriguez",entertainment,151.12,UPI,11,1,351.24,1,0
+TXN01430,2025-11-15,CUST007,Roman-Walker,dining,50.59,credit card,11,5,337.11,1,0
+TXN00015,2025-11-27,CUST007,Ponce Ltd,entertainment,343.75,net banking,11,3,271.88,1,0
+TXN00196,2025-12-19,CUST007,"Hopkins, Wilson and Carter",shopping,745.47,UPI,12,4,269.22,1,0
+TXN00725,2025-12-28,CUST007,Unknown Merchant,groceries,603.04,debit card,12,6,315.93,1,0
+TXN01559,2025-12-31,CUST007,Saunders Inc,entertainment,13310.41,credit card,12,2,2198.6,-1,1
+TXN00733,2026-01-10,CUST007,Mclaughlin LLC,travel,112.2,debit card,1,5,2188.08,-1,1
+TXN01745,2026-01-12,CUST007,Rivers LLC,entertainment,788.26,net banking,1,0,2279.1,-1,1
+TXN00550,2026-02-11,CUST007,"Greene, Morales and Morgan",utilities,149.52,debit card,2,2,2293.24,-1,1
+TXN00774,2026-02-16,CUST007,"Carter, Sanders and Anderson",shopping,309.58,debit card,2,0,2288.35,-1,1
+TXN00396,2026-02-17,CUST007,Gross and Sons,entertainment,308.53,credit card,2,1,2225.93,-1,1
+TXN00881,2026-02-23,CUST007,Smith and Sons,dining,321.86,UPI,2,0,2185.77,-1,1
+TXN01648,2026-02-23,CUST007,King-Travis,travel,208.93,net banking,2,0,314.13,1,0
+TXN00639,2026-02-28,CUST007,Hansen Inc,utilities,922.64,UPI,2,5,429.9,1,0
+TXN00959,2026-03-13,CUST007,Phelps-Caldwell,utilities,789.6,credit card,3,4,430.09,1,0
+TXN01959,2026-03-19,CUST007,Ferrell Inc,utilities,296.62,credit card,3,3,451.11,1,0
+TXN01016,2026-03-22,CUST007,"Reid, Baker and Gilbert",groceries,147.04,debit card,3,6,427.89,1,0
+TXN01031,2026-03-22,CUST007,"Arellano, Kirk and Henry",utilities,488.68,net banking,3,6,453.62,1,0
+TXN01510,2026-03-27,CUST007,Jones-Wong,dining,423.41,UPI,3,4,468.13,1,0
+TXN01115,2026-04-01,CUST007,Hernandez Group,entertainment,481.03,debit card,4,2,507.0,1,0
+TXN01649,2026-04-14,CUST007,Cummings-Davis,shopping,735.66,UPI,4,1,480.29,1,0
+TXN00602,2026-04-16,CUST007,Thomas-Hall,shopping,74.06,net banking,4,3,378.07,1,0
+TXN01479,2026-04-24,CUST007,"Morris, Stewart and Smith",utilities,403.6,net banking,4,4,393.35,1,0
+TXN00761,2026-05-15,CUST007,Moss-Watkins,travel,264.27,debit card,5,4,410.1,1,0
+TXN01782,2026-06-01,CUST007,"Coleman, Bailey and Ellis",dining,15.95,UPI,6,0,342.57,1,0
+TXN01562,2026-06-03,CUST007,Schmitt-Kirk,travel,738.73,debit card,6,2,387.61,1,0
+TXN00185,2026-06-05,CUST007,"Walker, Olson and Jacobs",dining,44.88,net banking,6,4,325.31,1,0
+TXN00079,2026-06-09,CUST007,"Wagner, Lopez and Miller",utilities,110.55,debit card,6,1,236.01,1,0
+TXN00652,2026-06-13,CUST007,"Thomas, Johnson and Diaz",groceries,811.92,UPI,6,5,341.41,1,0
+TXN01118,2025-06-19,CUST008,Ryan and Sons,dining,570.31,net banking,6,3,570.31,1,0
+TXN01263,2025-06-21,CUST008,Unknown Merchant,shopping,996.02,debit card,6,5,783.16,1,0
+TXN00481,2025-07-05,CUST008,Hernandez and Sons,utilities,776.14,UPI,7,5,780.82,1,0
+TXN00270,2025-07-14,CUST008,Garrison-Rogers,shopping,46.52,net banking,7,0,597.25,1,0
+TXN00921,2025-07-20,CUST008,Neal LLC,utilities,758.08,net banking,7,6,629.41,1,0
+TXN00314,2025-07-23,CUST008,"Baker, Murphy and Carroll",groceries,926.64,net banking,7,2,678.95,1,0
+TXN01719,2025-07-26,CUST008,Thompson-Roy,entertainment,469.79,UPI,7,5,649.07,1,0
+TXN00175,2025-07-29,CUST008,"Cole, Castro and Cooper",shopping,717.09,debit card,7,1,670.04,1,0
+TXN00810,2025-08-22,CUST008,Johnson-Walker,shopping,126.74,debit card,8,4,545.86,1,0
+TXN00078,2025-08-23,CUST008,Conner-Cole,groceries,963.47,debit card,8,5,572.62,1,0
+TXN00556,2025-09-05,CUST008,"Dixon, Hammond and Obrien",entertainment,82.06,net banking,9,4,577.7,1,0
+TXN01202,2025-09-22,CUST008,Hart-Bell,shopping,398.75,UPI,9,0,526.36,1,0
+TXN01267,2025-10-24,CUST008,Carter Ltd,travel,706.26,credit card,10,4,494.88,1,0
+TXN00621,2025-11-04,CUST008,Davis-Eaton,groceries,502.77,net banking,11,1,499.59,1,0
+TXN00646,2025-11-04,CUST008,Jones LLC,groceries,421.18,UPI,11,1,457.32,1,0
+TXN00029,2025-11-09,CUST008,Burton Inc,utilities,85.9,net banking,11,6,451.48,1,0
+TXN01690,2025-11-12,CUST008,Ali-Duke,utilities,591.94,net banking,11,2,398.41,1,0
+TXN01589,2025-12-02,CUST008,Solis Inc,travel,440.99,UPI,12,1,449.68,1,0
+TXN01168,2025-12-18,CUST008,Unknown Merchant,groceries,693.0,net banking,12,3,491.72,1,0
+TXN00974,2026-01-07,CUST008,"Horn, Holmes and Mahoney",travel,691.81,debit card,1,2,489.66,1,0
+TXN01035,2026-01-14,CUST008,Collins and Sons,groceries,343.85,UPI,1,2,466.95,1,0
+TXN00631,2026-01-25,CUST008,Davis LLC,entertainment,55.56,credit card,1,6,414.72,1,0
+TXN00026,2026-02-07,CUST008,"Torres, Nelson and Olson",entertainment,632.65,UPI,2,5,492.83,1,0
+TXN00793,2026-02-08,CUST008,Brown Group,dining,100.2,UPI,2,6,422.58,1,0
+TXN01418,2026-02-14,CUST008,Lopez PLC,groceries,842.88,UPI,2,5,479.99,1,0
+TXN00617,2026-02-26,CUST008,Barton-Gonzales,travel,73.62,credit card,2,3,391.51,1,0
+TXN00789,2026-02-28,CUST008,Reed-Carter,travel,829.69,UPI,2,5,411.21,1,0
+TXN00611,2026-03-03,CUST008,Smith Group,groceries,239.92,UPI,3,1,396.36,1,0
+TXN00884,2026-03-06,CUST008,Bailey-Sloan,utilities,665.12,debit card,3,4,483.44,1,0
+TXN00512,2026-03-08,CUST008,"Hernandez, Nguyen and Herrera",utilities,803.67,net banking,3,6,507.87,1,0
+TXN01540,2026-03-16,CUST008,Nixon-Long,groceries,306.16,credit card,3,0,537.29,1,0
+TXN00020,2026-03-30,CUST008,Haley Group,entertainment,640.8,UPI,3,0,508.43,1,0
+TXN01493,2026-04-01,CUST008,Olson LLC,travel,259.01,credit card,4,2,534.91,1,0
+TXN00091,2026-04-11,CUST008,Klein Group,utilities,507.67,credit card,4,5,488.91,1,0
+TXN01749,2026-04-22,CUST008,"Mills, Sanchez and Luna",travel,592.07,net banking,4,2,539.21,1,0
+TXN01394,2026-04-26,CUST008,Smith Ltd,groceries,503.28,credit card,4,6,516.09,1,0
+TXN01550,2026-05-04,CUST008,Vasquez-Thomas,utilities,416.23,debit card,5,0,460.75,1,0
+TXN00313,2026-05-08,CUST008,Garcia-Larson,dining,933.38,UPI,5,4,550.35,1,0
+TXN00455,2026-05-14,CUST008,"Johnson, Jones and Garcia",travel,478.92,credit card,5,3,527.22,1,0
+TXN00022,2026-05-31,CUST008,"Wong, Munoz and Irwin",groceries,437.15,UPI,5,6,552.67,1,0
+TXN00584,2026-06-08,CUST008,Marshall LLC,utilities,422.93,debit card,6,0,540.57,1,0
+TXN00816,2026-06-10,CUST008,White-Eaton,entertainment,801.27,net banking,6,2,570.45,1,0
+TXN01574,2026-06-13,CUST008,Jones-Jenkins,shopping,555.78,net banking,6,5,577.95,1,0
+TXN01213,2026-06-14,CUST008,Coleman-Ellis,dining,711.24,net banking,6,6,620.1,1,0
+TXN01873,2026-06-16,CUST008,Moore-Walter,entertainment,706.48,net banking,6,1,587.68,1,0
+TXN00341,2025-06-23,CUST009,Heath-Miller,groceries,740.02,credit card,6,0,740.02,1,0
+TXN00501,2025-06-28,CUST009,Russell PLC,utilities,943.19,net banking,6,5,841.6,1,0
+TXN00700,2025-07-26,CUST009,Medina and Sons,entertainment,209.5,net banking,7,5,630.9,1,0
+TXN01563,2025-08-22,CUST009,Melendez Inc,entertainment,31.71,debit card,8,4,481.1,1,0
+TXN01746,2025-08-24,CUST009,Ryan-Bishop,travel,463.44,UPI,8,6,477.57,1,0
+TXN00990,2025-09-18,CUST009,Meyer-Henry,shopping,954.02,net banking,9,3,556.98,1,0
+TXN00293,2025-09-19,CUST009,Hogan-Martinez,utilities,889.19,UPI,9,4,604.44,1,0
+TXN01378,2025-09-20,CUST009,Benson-Jones,groceries,262.67,debit card,9,5,536.25,1,0
+TXN01607,2025-09-26,CUST009,"Robertson, Harvey and Morrison",shopping,772.41,UPI,9,4,511.85,1,0
+TXN01566,2025-10-15,CUST009,"Watkins, Carter and Lopez",shopping,462.14,UPI,10,2,547.94,1,0
+TXN01272,2025-10-22,CUST009,"Mason, Hamilton and Conway",entertainment,704.35,credit card,10,2,644.03,1,0
+TXN01449,2025-10-25,CUST009,"Francis, Hines and Smith",utilities,943.58,UPI,10,5,712.62,1,0
+TXN00765,2025-10-31,CUST009,Unknown Merchant,entertainment,344.83,credit card,10,4,625.6,1,0
+TXN01436,2025-11-02,CUST009,Brown LLC,entertainment,938.71,UPI,11,6,632.67,1,0
+TXN00042,2025-11-11,CUST009,Boyd Group,utilities,261.86,debit card,11,1,632.55,1,0
+TXN00433,2025-11-17,CUST009,"Sanchez, Wolfe and Roberts",shopping,4518.51,UPI,11,0,1167.71,-1,1
+TXN01109,2025-11-25,CUST009,"Reed, Castaneda and Myers",groceries,673.08,UPI,11,1,1197.85,1,0
+TXN00361,2025-12-01,CUST009,Smith LLC,travel,16.92,UPI,12,0,1099.64,-1,1
+TXN00854,2025-12-03,CUST009,"Calderon, Dawson and Peterson",dining,338.98,UPI,12,2,1013.27,1,0
+TXN00718,2025-12-16,CUST009,Allen-Bell,groceries,49.61,credit card,12,1,971.1,1,0
+TXN01551,2026-01-05,CUST009,"Bird, Freeman and Smith",dining,799.33,debit card,1,0,951.18,-1,1
+TXN00279,2026-01-18,CUST009,Hebert-Sosa,groceries,311.4,net banking,1,6,958.26,1,0
+TXN01827,2026-01-27,CUST009,Edwards Inc,entertainment,53.27,net banking,1,1,320.37,1,0
+TXN01794,2026-03-03,CUST009,"Wheeler, Clark and Jones",shopping,949.83,net banking,3,1,359.91,1,0
+TXN01121,2026-03-09,CUST009,Jones LLC,shopping,445.92,debit card,3,0,421.19,1,0
+TXN00060,2026-03-16,CUST009,Lawrence PLC,shopping,273.89,credit card,3,0,411.89,1,0
+TXN01260,2026-04-17,CUST009,"Porter, Frost and Fuller",dining,21.35,UPI,4,4,407.86,1,0
+TXN01521,2026-04-29,CUST009,Foster-Baxter,shopping,641.8,debit card,4,2,385.35,1,0
+TXN01740,2026-05-06,CUST009,Hall Group,groceries,891.97,debit card,5,2,468.29,1,0
+TXN00882,2026-05-15,CUST009,Strong-Harris,dining,89.76,net banking,5,4,473.5,1,0
+TXN00492,2026-05-16,CUST009,Unknown Merchant,groceries,558.61,debit card,5,5,417.61,1,0
+TXN01832,2026-05-17,CUST009,Daniels Ltd,dining,428.05,UPI,5,6,415.06,1,0
+TXN01138,2026-06-03,CUST009,"Simpson, Perkins and Graham",groceries,726.52,credit card,6,2,479.72,1,0
+TXN00744,2025-06-19,CUST010,"Davis, Levine and Johnson",dining,53.07,UPI,6,3,53.07,1,0
+TXN01928,2025-06-19,CUST010,Moore-Arroyo,travel,867.32,debit card,6,3,460.2,1,0
+TXN00828,2025-06-27,CUST010,Rodriguez-Marquez,travel,156.06,UPI,6,4,358.82,1,0
+TXN01844,2025-07-04,CUST010,Bryant-Chen,utilities,842.14,debit card,7,4,479.65,1,0
+TXN01908,2025-07-13,CUST010,Phillips-Diaz,groceries,706.84,credit card,7,6,525.09,1,0
+TXN00778,2025-07-18,CUST010,Walker Inc,groceries,331.26,net banking,7,4,492.78,1,0
+TXN00599,2025-07-25,CUST010,"Oliver, Mitchell and Olsen",entertainment,40.7,net banking,7,4,428.2,1,0
+TXN01451,2025-07-27,CUST010,Walker-Rose,utilities,908.57,debit card,7,6,550.41,1,0
+TXN00098,2025-07-29,CUST010,Cole and Sons,entertainment,551.04,debit card,7,1,505.23,1,0
+TXN00930,2025-08-05,CUST010,"Adams, Peterson and Kirk",entertainment,339.36,credit card,8,1,531.42,1,0
+TXN01600,2025-08-07,CUST010,Barnett-Jenkins,groceries,932.89,UPI,8,3,544.38,1,0
+TXN01044,2025-08-16,CUST010,Ochoa Inc,dining,458.06,debit card,8,5,508.84,1,0
+TXN01289,2025-08-16,CUST010,Williams PLC,travel,838.91,UPI,8,5,581.36,1,0
+TXN01501,2025-08-18,CUST010,Dunlap-Rose,groceries,595.65,UPI,8,0,660.64,1,0
+TXN00587,2025-08-23,CUST010,Brown-Lane,groceries,733.31,net banking,8,5,635.6,1,0
+TXN00310,2025-08-24,CUST010,Salazar LLC,utilities,442.17,credit card,8,6,620.05,1,0
+TXN01681,2025-08-27,CUST010,"Archer, Myers and Mack",shopping,210.46,UPI,8,2,601.64,1,0
+TXN01694,2025-09-08,CUST010,Dixon-Pruitt,utilities,554.07,UPI,9,0,547.52,1,0
+TXN01137,2025-09-23,CUST010,Tucker-Blackburn,entertainment,212.31,credit card,9,1,512.41,1,0
+TXN01590,2025-10-03,CUST010,"Conrad, Mathews and Stevenson",dining,963.39,UPI,10,4,530.19,1,0
+TXN00498,2025-10-24,CUST010,"Meza, Stout and Brown",dining,500.87,credit card,10,4,516.65,1,0
+TXN00949,2025-10-28,CUST010,Velasquez-Cooke,travel,844.81,net banking,10,1,532.58,1,0
+TXN01899,2025-10-31,CUST010,Summers LLC,groceries,982.83,debit card,10,4,609.82,1,0
+TXN00306,2025-11-04,CUST010,Williams-Decker,utilities,466.08,net banking,11,1,646.34,1,0
+TXN01942,2025-11-04,CUST010,Pacheco-Miles,travel,263.21,UPI,11,1,604.79,1,0
+TXN00533,2025-12-04,CUST010,Wong LLC,groceries,135.75,debit card,12,3,593.85,1,0
+TXN00467,2025-12-10,CUST010,Harmon Group,entertainment,876.86,debit card,12,2,581.49,1,0
+TXN01071,2025-12-11,CUST010,Burton Group,groceries,139.28,debit card,12,3,529.83,1,0
+TXN00419,2025-12-16,CUST010,Schmidt Ltd,entertainment,892.81,UPI,12,1,536.69,1,0
+TXN00926,2025-12-21,CUST010,Fischer Inc,utilities,55.73,debit card,12,6,404.25,1,0
+TXN00245,2026-01-12,CUST010,Cook and Sons,travel,726.75,net banking,1,0,441.48,1,0
+TXN01612,2026-01-13,CUST010,May-Mclaughlin,travel,835.71,net banking,1,1,523.27,1,0
+TXN00126,2026-01-21,CUST010,Baldwin-Collier,travel,106.67,debit card,1,2,519.12,1,0
+TXN00178,2026-01-21,CUST010,Vazquez-Lloyd,entertainment,607.9,credit card,1,2,480.69,1,0
+TXN00717,2026-01-26,CUST010,Gonzalez-Boone,groceries,526.37,credit card,1,0,535.99,1,0
+TXN00155,2026-01-31,CUST010,"Hendricks, Wright and Campbell",travel,726.75,credit card,1,5,512.27,1,0
+TXN01410,2026-02-01,CUST010,"Carroll, Gonzalez and Soto",travel,585.49,net banking,2,6,587.95,1,0
+TXN01238,2026-02-08,CUST010,Sellers-Curry,travel,571.46,UPI,2,6,565.76,1,0
+TXN01144,2026-02-09,CUST010,"Burns, Martinez and Rasmussen",travel,814.51,UPI,2,0,562.74,1,0
+TXN00841,2026-02-16,CUST010,Anderson-Jensen,utilities,609.56,UPI,2,0,634.58,1,0
+TXN01059,2026-02-25,CUST010,"Woods, Flynn and Martinez",shopping,521.95,credit card,2,2,622.3,1,0
+TXN00544,2026-02-28,CUST010,"Garcia, Rodriguez and Sullivan",dining,877.54,UPI,2,5,672.47,1,0
+TXN01535,2026-03-02,CUST010,"Cook, Herrera and Castro",entertainment,426.63,credit card,3,0,629.59,1,0
+TXN01427,2026-04-03,CUST010,"Ferguson, Dickson and Ochoa",shopping,211.77,net banking,4,4,576.2,1,0
+TXN00437,2026-04-11,CUST010,Guzman-Martinez,entertainment,491.51,UPI,4,5,564.78,1,0
+TXN01705,2026-04-18,CUST010,Taylor LLC,dining,300.22,UPI,4,5,491.31,1,0
+TXN00186,2026-05-15,CUST010,Reese-Smith,groceries,131.69,debit card,5,4,423.04,1,0
+TXN00952,2026-05-19,CUST010,"Woods, Banks and Sanchez",entertainment,675.96,net banking,5,1,445.05,1,0
+TXN01518,2026-05-22,CUST010,Wagner-Sullivan,shopping,569.25,debit card,5,4,401.0,1,0
+TXN01148,2026-05-30,CUST010,Anderson Group,entertainment,571.6,debit card,5,5,421.71,1,0
+TXN00159,2026-06-05,CUST010,Long Group,travel,536.24,UPI,6,4,468.07,1,0
+TXN00721,2026-06-08,CUST010,Jones-Wolfe,entertainment,221.36,debit card,6,0,429.47,1,0
+TXN01025,2026-06-08,CUST010,"Gilbert, Fisher and Khan",groceries,811.47,UPI,6,0,502.51,1,0
+TXN00610,2026-06-16,CUST010,"Lamb, Gutierrez and Dixon",shopping,42.67,credit card,6,1,489.79,1,0
+TXN01106,2025-06-29,CUST011,Montoya-Olsen,groceries,318.3,debit card,6,6,318.3,1,0
+TXN01524,2025-07-02,CUST011,Robinson LLC,groceries,762.63,debit card,7,2,540.46,1,0
+TXN01530,2025-07-04,CUST011,"Ryan, Rios and Kramer",shopping,843.53,debit card,7,4,641.49,1,0
+TXN00595,2025-07-25,CUST011,"Knight, Ramirez and Wade",entertainment,612.97,net banking,7,4,634.36,1,0
+TXN00712,2025-07-25,CUST011,Garza-Ramsey,entertainment,564.07,UPI,7,4,620.3,1,0
+TXN00537,2025-07-27,CUST011,Trevino and Sons,shopping,976.69,UPI,7,6,679.7,1,0
+TXN00780,2025-08-09,CUST011,Mcgee-Solomon,utilities,866.41,net banking,8,5,706.37,1,0
+TXN00483,2025-08-14,CUST011,Santiago-Miller,shopping,801.9,net banking,8,3,775.46,1,0
+TXN00958,2025-08-20,CUST011,Mcdaniel-Taylor,groceries,118.94,UPI,8,2,683.5,1,0
+TXN01379,2025-08-30,CUST011,"Kramer, Kim and Black",shopping,887.2,net banking,8,5,689.74,1,0
+TXN01750,2025-08-30,CUST011,"Lane, Mosley and Gomez",dining,705.49,debit card,8,5,702.96,1,0
+TXN01074,2025-09-04,CUST011,Phelps-Morrison,shopping,14.3,credit card,9,3,624.42,1,0
+TXN00691,2025-11-01,CUST011,Cook-Perry,dining,58.29,credit card,11,5,493.22,1,0
+TXN00858,2025-11-03,CUST011,"Perry, Robinson and Parker",utilities,684.71,net banking,11,0,467.26,1,0
+TXN00372,2025-11-23,CUST011,"Stokes, Warren and Cline",groceries,641.88,debit card,11,6,444.4,1,0
+TXN01696,2025-11-23,CUST011,Molina PLC,entertainment,810.17,credit card,11,6,543.15,1,0
+TXN00981,2025-12-01,CUST011,Beasley LLC,travel,620.53,debit card,12,0,505.05,1,0
+TXN01262,2025-12-09,CUST011,Bishop LLC,shopping,706.72,debit card,12,1,505.23,1,0
+TXN01833,2026-01-21,CUST011,Leach Inc,travel,200.49,debit card,1,2,531.83,1,0
+TXN01697,2026-02-09,CUST011,"Ingram, Clark and Anderson",utilities,181.74,net banking,2,0,549.46,1,0
+TXN01090,2026-02-13,CUST011,Fischer LLC,entertainment,80.92,credit card,2,4,463.21,1,0
+TXN00384,2026-02-26,CUST011,"Nelson, Harvey and Martinez",groceries,711.78,net banking,2,3,473.19,1,0
+TXN00017,2026-03-25,CUST011,Wiley-Huff,shopping,803.49,credit card,3,2,472.24,1,0
+TXN01985,2026-04-01,CUST011,Waters-Stewart,shopping,197.75,UPI,4,2,411.84,1,0
+TXN01125,2026-04-25,CUST011,Villanueva-Carlson,utilities,527.09,net banking,4,5,386.18,1,0
+TXN01376,2026-04-25,CUST011,Arnold LLC,dining,292.69,credit card,4,5,399.35,1,0
+TXN01557,2026-05-06,CUST011,Williams LLC,travel,350.17,UPI,5,2,423.41,1,0
+TXN00603,2026-05-08,CUST011,Lewis-Jensen,groceries,755.67,debit card,5,4,519.81,1,0
+TXN01234,2025-06-19,CUST012,"Webb, Patton and Baker",travel,935.68,credit card,6,3,935.68,1,0
+TXN00259,2025-06-26,CUST012,"Daniel, Richardson and Espinoza",dining,317.42,debit card,6,3,626.55,1,0
+TXN00326,2025-06-30,CUST012,Barber Group,travel,357.54,UPI,6,0,536.88,1,0
+TXN00187,2025-07-25,CUST012,Wallace Group,dining,128.72,debit card,7,4,434.84,1,0
+TXN00643,2025-07-26,CUST012,Lane Group,travel,173.18,net banking,7,5,382.51,1,0
+TXN01104,2025-07-26,CUST012,"Cardenas, Lewis and Gamble",travel,15.64,UPI,7,5,321.36,1,0
+TXN01295,2025-07-26,CUST012,Wilson-Mcdaniel,groceries,675.33,credit card,7,5,371.93,1,0
+TXN00133,2025-07-30,CUST012,Henry-Marshall,groceries,281.23,debit card,7,2,278.44,1,0
+TXN01709,2025-08-04,CUST012,"Owen, Pollard and Peters",utilities,55.34,debit card,8,0,241.0,1,0
+TXN01264,2025-08-11,CUST012,Miller-Kelly,utilities,227.52,debit card,8,0,222.42,1,0
+TXN01252,2025-08-15,CUST012,"Martin, Gray and Campbell",entertainment,649.89,debit card,8,4,296.88,1,0
+TXN01408,2025-08-17,CUST012,Price Group,travel,57.55,net banking,8,6,280.36,1,0
+TXN01728,2025-09-03,CUST012,Davis-Graham,dining,641.07,UPI,9,2,369.7,1,0
+TXN01528,2025-09-05,CUST012,Stevens and Sons,groceries,420.82,net banking,9,4,333.35,1,0
+TXN00508,2025-09-21,CUST012,Sanchez Ltd,groceries,701.63,credit card,9,6,393.4,1,0
+TXN00197,2025-09-26,CUST012,"Morton, Klein and Kelly",shopping,612.86,debit card,9,4,473.05,1,0
+TXN00999,2025-10-05,CUST012,"Livingston, Santos and Ramirez",utilities,934.72,debit card,10,6,574.08,1,0
+TXN00147,2025-10-11,CUST012,Underwood-Campbell,dining,356.97,debit card,10,5,532.23,1,0
+TXN01463,2025-10-12,CUST012,"White, Mills and Willis",dining,72.79,debit card,10,6,534.41,1,0
+TXN01490,2025-10-15,CUST012,Alvarez and Sons,entertainment,756.34,net banking,10,2,550.88,1,0
+TXN01765,2025-10-24,CUST012,Unknown Merchant,entertainment,650.7,UPI,10,4,583.72,1,0
+TXN00622,2025-10-30,CUST012,Moore Inc,groceries,432.78,UPI,10,3,545.31,1,0
+TXN00252,2025-11-07,CUST012,Watts Ltd,travel,356.81,debit card,11,4,508.73,1,0
+TXN00239,2025-11-15,CUST012,"Miller, Marshall and Duke",entertainment,591.59,debit card,11,5,459.71,1,0
+TXN00813,2025-11-23,CUST012,Harrington-Thomas,utilities,166.88,UPI,11,6,432.56,1,0
+TXN00369,2025-12-07,CUST012,Saunders-Cline,dining,602.38,UPI,12,6,508.21,1,0
+TXN00058,2026-01-11,CUST012,Mclaughlin-Maxwell,dining,256.98,net banking,1,6,436.87,1,0
+TXN01511,2026-01-12,CUST012,Robinson-Cooper,shopping,453.79,net banking,1,0,408.74,1,0
+TXN01216,2026-01-16,CUST012,Sanchez-Patterson,utilities,817.87,net banking,1,4,463.76,1,0
+TXN00825,2026-01-19,CUST012,Gomez-Gill,travel,164.81,credit card,1,0,436.33,1,0
+TXN00685,2026-01-27,CUST012,Berry-Miller,utilities,541.16,credit card,1,1,429.12,1,0
+TXN01227,2026-03-01,CUST012,"Raymond, Vazquez and Reynolds",utilities,140.19,debit card,3,6,425.31,1,0
+TXN00301,2026-03-03,CUST012,Jenkins-Sherman,groceries,381.98,UPI,3,1,393.83,1,0
+TXN01971,2026-03-13,CUST012,"Mitchell, Gibson and Gill",travel,327.04,UPI,3,4,403.83,1,0
+TXN00986,2026-03-16,CUST012,Reese and Sons,dining,331.06,debit card,3,0,386.3,1,0
+TXN01382,2026-03-30,CUST012,Young PLC,groceries,351.97,net banking,3,0,319.74,1,0
+TXN00857,2026-04-05,CUST012,Bond and Sons,travel,828.89,debit card,4,6,414.61,1,0
+TXN01439,2026-04-16,CUST012,Hernandez Ltd,travel,909.21,credit card,4,3,467.19,1,0
+TXN01868,2026-04-16,CUST012,Russo and Sons,dining,238.43,net banking,4,3,481.23,1,0
+TXN01506,2026-04-19,CUST012,Hamilton and Sons,dining,413.01,credit card,4,6,485.66,1,0
+TXN00543,2026-04-27,CUST012,"Perry, Powers and Ward",entertainment,227.03,net banking,4,0,471.37,1,0
+TXN01424,2026-05-12,CUST012,Garner LLC,travel,496.05,credit card,5,1,494.94,1,0
+TXN01945,2026-05-15,CUST012,Smith-Lawrence,dining,533.84,net banking,5,4,520.92,1,0
+TXN00247,2026-05-20,CUST012,Martin Ltd,groceries,510.45,UPI,5,2,475.43,1,0
+TXN00307,2026-06-13,CUST012,"Johnson, Garcia and Ellis",dining,322.1,UPI,6,5,391.56,1,0
+TXN00334,2026-06-14,CUST012,"Gonzalez, Cummings and Ballard",entertainment,583.03,UPI,6,6,440.79,1,0
+TXN00641,2025-06-22,CUST013,Unknown Merchant,entertainment,839.14,debit card,6,6,839.14,1,0
+TXN00730,2025-06-30,CUST013,Ellis and Sons,entertainment,413.96,credit card,6,0,626.55,1,0
+TXN01407,2025-08-29,CUST013,Wheeler-Acosta,shopping,16.15,net banking,8,4,423.08,1,0
+TXN01520,2025-09-04,CUST013,Martin-Blair,dining,562.49,credit card,9,3,457.94,1,0
+TXN01412,2025-09-26,CUST013,Benton Group,dining,585.66,UPI,9,4,483.48,1,0
+TXN00246,2025-10-02,CUST013,Ray-Ortiz,utilities,938.79,net banking,10,3,559.36,1,0
+TXN00988,2025-11-07,CUST013,Brock LLC,groceries,10619.91,debit card,11,4,1996.59,-1,1
+TXN00219,2025-11-08,CUST013,Unknown Merchant,travel,183.23,credit card,11,5,1902.88,-1,1
+TXN00305,2025-11-25,CUST013,May-Kline,utilities,279.47,UPI,11,1,1883.67,-1,1
+TXN00457,2025-12-07,CUST013,Wright-Flores,shopping,157.52,credit card,12,6,1903.87,-1,1
+TXN00315,2025-12-23,CUST013,Duran-Boyd,travel,932.19,net banking,12,1,1956.68,-1,1
+TXN00714,2026-01-04,CUST013,Blair LLC,entertainment,640.75,UPI,1,6,1964.55,-1,1
+TXN00613,2026-01-09,CUST013,Carter Group,dining,784.28,credit card,1,4,1942.48,-1,1
+TXN01063,2026-01-21,CUST013,Thompson-Harper,entertainment,802.75,credit card,1,2,540.03,1,0
+TXN01773,2026-01-29,CUST013,Everett-Griffin,shopping,938.37,net banking,1,3,647.9,1,0
+TXN00788,2026-01-30,CUST013,Ellis-Stephenson,dining,370.6,UPI,1,4,660.92,1,0
+TXN01917,2026-02-04,CUST013,"Bennett, Jackson and Johnson",groceries,757.33,debit card,2,2,746.61,1,0
+TXN01038,2026-02-11,CUST013,Sanchez-Higgins,groceries,703.27,UPI,2,2,713.91,1,0
+TXN01517,2026-02-13,CUST013,Boyle-Bryan,utilities,210.24,UPI,2,4,652.41,1,0
+TXN00090,2026-02-23,CUST013,Cooley-Weber,groceries,508.17,UPI,2,0,612.96,1,0
+TXN01650,2026-03-16,CUST013,"Pena, Wall and Miller",dining,374.69,UPI,3,0,551.81,1,0
+TXN01119,2026-03-22,CUST013,Mclaughlin-Melendez,travel,73.04,debit card,3,6,428.19,1,0
+TXN01419,2026-05-05,CUST013,Aguirre and Sons,utilities,26.4,net banking,5,1,379.02,1,0
+TXN01693,2026-05-10,CUST013,"Hays, White and Green",entertainment,536.85,net banking,5,6,347.52,1,0
+TXN01100,2026-05-19,CUST013,"Daniels, Tran and Brennan",dining,505.54,credit card,5,1,319.28,1,0
+TXN00034,2026-05-22,CUST013,"Singh, Cook and Norman",groceries,653.73,UPI,5,4,382.63,1,0
+TXN01852,2026-05-28,CUST013,Yoder-Robertson,entertainment,959.61,debit card,5,3,447.12,1,0
+TXN01849,2026-06-08,CUST013,Lam-Miller,travel,234.95,credit card,6,0,427.16,1,0
+TXN00553,2026-06-13,CUST013,"Washington, Hernandez and Ortiz",shopping,999.82,net banking,6,5,559.56,1,0
+TXN01993,2025-06-23,CUST014,Williams PLC,shopping,39.23,net banking,6,0,39.23,1,0
+TXN01058,2025-07-14,CUST014,Miles-Pierce,groceries,712.14,UPI,7,0,375.68,1,0
+TXN01093,2025-07-23,CUST014,"Compton, Carroll and Wells",shopping,251.08,debit card,7,2,334.15,1,0
+TXN00162,2025-07-28,CUST014,Miller-Peck,travel,765.67,debit card,7,0,442.03,1,0
+TXN01781,2025-07-31,CUST014,Romero Group,travel,672.77,credit card,7,3,488.18,1,0
+TXN00898,2025-08-16,CUST014,Hayes PLC,entertainment,456.78,UPI,8,5,482.94,1,0
+TXN01223,2025-08-23,CUST014,"Rogers, Smith and Gray",groceries,208.04,credit card,8,5,443.67,1,0
+TXN01114,2025-08-25,CUST014,"Willis, Gilbert and Johnston",utilities,909.23,net banking,8,0,567.96,1,0
+TXN00119,2025-09-06,CUST014,Elliott Inc,utilities,281.26,net banking,9,5,506.4,1,0
+TXN00051,2025-09-20,CUST014,Unknown Merchant,utilities,34.4,credit card,9,5,475.45,1,0
+TXN01567,2025-10-09,CUST014,Thomas Ltd,travel,761.03,debit card,10,3,474.79,1,0
+TXN00130,2025-10-14,CUST014,"Grant, Friedman and Paul",shopping,554.38,credit card,10,1,457.87,1,0
+TXN00983,2025-10-29,CUST014,"Smith, Anderson and Sutton",utilities,755.31,credit card,10,2,500.52,1,0
+TXN01624,2025-11-05,CUST014,Mathis PLC,utilities,946.66,net banking,11,2,606.04,1,0
+TXN00450,2025-11-13,CUST014,Thompson LLC,shopping,280.01,debit card,11,3,516.15,1,0
+TXN00979,2025-12-23,CUST014,"Hays, Wagner and Nelson",entertainment,265.21,net banking,12,1,513.86,1,0
+TXN00049,2025-12-25,CUST014,"Zuniga, Scott and Gonzalez",entertainment,643.11,credit card,12,3,600.82,1,0
+TXN00054,2025-12-26,CUST014,White-Kirby,groceries,158.81,UPI,12,4,514.78,1,0
+TXN01458,2025-12-27,CUST014,Davis-Howell,utilities,317.89,UPI,12,5,481.0,1,0
+TXN00280,2025-12-30,CUST014,"Fry, Perry and Moore",shopping,907.5,credit card,12,1,502.74,1,0
+TXN01652,2026-01-08,CUST014,Rosales-Day,groceries,644.66,UPI,1,3,459.6,1,0
+TXN01120,2026-01-17,CUST014,Hernandez-Macdonald,groceries,872.62,net banking,1,5,544.26,1,0
+TXN01865,2026-01-17,CUST014,Armstrong-Allen,utilities,409.12,credit card,1,5,564.82,1,0
+TXN00167,2026-01-20,CUST014,"Wright, Martin and Austin",dining,638.91,debit card,1,1,564.22,1,0
+TXN01544,2026-02-14,CUST014,Ramirez and Sons,groceries,833.03,credit card,2,5,660.53,1,0
+TXN00354,2026-03-01,CUST014,Goodwin Group,entertainment,198.56,debit card,3,6,643.49,1,0
+TXN00581,2026-03-01,CUST014,Ward Ltd,groceries,909.98,debit card,3,6,643.84,1,0
+TXN00445,2026-03-15,CUST014,Medina Ltd,groceries,353.85,debit card,3,6,602.3,1,0
+TXN01645,2026-03-15,CUST014,"Howell, Mendoza and Lamb",dining,920.61,credit card,3,6,609.15,1,0
+TXN01400,2026-03-27,CUST014,Gonzalez LLC,groceries,809.3,UPI,3,4,666.32,1,0
+TXN01457,2026-04-11,CUST014,"Gamble, Rodgers and Roberson",shopping,371.05,net banking,4,5,628.05,1,0
+TXN00598,2026-04-17,CUST014,Browning Group,travel,841.68,debit card,4,4,629.29,1,0
+TXN01167,2026-04-19,CUST014,"Anderson, Chavez and Eaton",entertainment,839.15,UPI,4,6,720.8,1,0
+TXN00473,2026-04-24,CUST014,"Smith, Holmes and Hale",travel,969.84,net banking,4,4,729.35,1,0
+TXN00742,2026-05-06,CUST014,"Brown, Willis and Morgan",groceries,896.79,UPI,5,2,806.92,1,0
+TXN01660,2026-05-10,CUST014,"Mcdonald, Wells and Harrison",utilities,192.58,net banking,5,6,702.91,1,0
+TXN01965,2026-05-10,CUST014,Landry-Stokes,dining,834.83,UPI,5,6,706.56,1,0
+TXN01201,2026-05-12,CUST014,"Long, Spencer and Richardson",travel,946.45,net banking,5,1,788.76,1,0
+TXN00330,2026-05-17,CUST014,Parker and Sons,entertainment,74.85,debit card,5,6,679.21,1,0
+TXN01885,2026-06-05,CUST014,Myers-Rodriguez,shopping,397.29,credit card,6,4,616.09,1,0
+TXN00115,2026-06-12,CUST014,Williamson-James,entertainment,368.7,credit card,6,4,530.21,1,0
+TXN00217,2025-07-15,CUST015,"Nguyen, Rodriguez and Rodriguez",utilities,282.63,credit card,7,1,282.63,1,0
+TXN00823,2025-07-28,CUST015,Webb LLC,utilities,97.85,net banking,7,0,190.24,1,0
+TXN00945,2025-08-11,CUST015,"Jackson, Cook and Glover",groceries,648.09,credit card,8,0,342.86,1,0
+TXN00843,2025-08-14,CUST015,Mahoney-Zamora,groceries,99.87,debit card,8,3,282.11,1,0
+TXN00271,2025-08-20,CUST015,Hendricks PLC,groceries,630.73,net banking,8,2,351.83,1,0
+TXN00139,2025-09-10,CUST015,Mccarthy Inc,groceries,358.25,UPI,9,2,352.9,1,0
+TXN01973,2025-09-30,CUST015,"Garcia, Scott and Lyons",dining,861.33,credit card,9,1,425.54,1,0
+TXN00995,2025-10-01,CUST015,Potter Ltd,entertainment,745.65,net banking,10,2,491.68,1,0
+TXN00013,2025-10-08,CUST015,"Bolton, Baker and Foster",entertainment,510.68,credit card,10,2,550.66,1,0
+TXN01312,2025-10-18,CUST015,Bradley-Koch,entertainment,540.3,debit card,10,5,535.26,1,0
+TXN00360,2025-10-26,CUST015,"Nunez, Wilson and Davidson",travel,630.97,net banking,10,6,611.13,1,0
+TXN01069,2025-11-07,CUST015,Anderson Ltd,shopping,493.89,net banking,11,4,591.58,1,0
+TXN00904,2025-11-12,CUST015,"Brewer, Walker and White",travel,382.13,net banking,11,2,594.99,1,0
+TXN00713,2025-11-26,CUST015,Vincent-Gonzalez,shopping,901.75,net banking,11,2,600.77,1,0
+TXN01015,2025-12-11,CUST015,Smith-Hendricks,travel,710.01,UPI,12,3,595.68,1,0
+TXN01089,2025-12-15,CUST015,Carey-Bartlett,groceries,686.07,credit card,12,0,620.73,1,0
+TXN01399,2025-12-27,CUST015,Stone Inc,utilities,255.38,net banking,12,5,580.03,1,0
+TXN01309,2026-01-02,CUST015,Bush-Wood,utilities,536.96,debit card,1,4,566.6,1,0
+TXN00238,2026-01-11,CUST015,"Chen, Torres and Adams",travel,944.51,credit card,1,6,630.97,1,0
+TXN01953,2026-01-28,CUST015,"Perkins, Vasquez and Watts",entertainment,32.63,credit card,1,2,581.04,1,0
+TXN01283,2026-03-18,CUST015,Wilkinson PLC,entertainment,293.29,UPI,3,2,494.12,1,0
+TXN00782,2026-03-25,CUST015,Logan-Scott,shopping,773.45,net banking,3,2,503.18,1,0
+TXN00057,2026-03-27,CUST015,"Decker, Flores and Davis",travel,9390.15,net banking,3,4,1746.62,-1,1
+TXN01507,2026-03-29,CUST015,Shepherd Group,entertainment,296.51,UPI,3,6,1752.5,-1,1
+TXN01914,2026-03-29,CUST015,"Henderson, Bond and Thomas",utilities,860.05,UPI,3,6,1798.66,-1,1
+TXN00944,2026-04-20,CUST015,Gonzalez-Thompson,groceries,491.35,credit card,4,0,1733.92,-1,1
+TXN01244,2026-04-28,CUST015,Morales Inc,travel,557.94,UPI,4,1,1808.96,1,0
+TXN00783,2026-05-27,CUST015,Miles PLC,travel,118.24,net banking,5,2,1783.96,-1,1
+TXN01675,2026-06-01,CUST015,Stanley-Knox,travel,280.68,net banking,6,0,1713.56,-1,1
+TXN01925,2026-06-05,CUST015,Tran-Harper,entertainment,790.34,UPI,6,4,485.02,1,0
+TXN01805,2026-06-07,CUST015,"Martinez, Forbes and Bautista",entertainment,172.56,UPI,6,6,467.31,1,0
+TXN00817,2026-06-08,CUST015,"Jones, Randolph and Frazier",utilities,613.54,debit card,6,0,432.09,1,0
+TXN00107,2026-06-14,CUST015,Hunter-Bowers,travel,476.67,net banking,6,6,430.0,1,0
+TXN00766,2025-06-20,CUST016,Pineda-Green,entertainment,114.32,UPI,6,4,114.32,1,0
+TXN01605,2025-06-25,CUST016,"Kennedy, Johnson and Lee",shopping,233.34,credit card,6,2,173.83,1,0
+TXN01788,2025-07-29,CUST016,Johnson-Werner,groceries,792.92,debit card,7,1,380.19,1,0
+TXN00103,2025-08-13,CUST016,"Sims, Johnson and Brown",dining,872.6,credit card,8,2,503.29,1,0
+TXN01560,2025-08-13,CUST016,Martin PLC,travel,612.9,net banking,8,2,525.22,1,0
+TXN00327,2025-08-26,CUST016,"Mack, Perez and Jones",entertainment,322.65,net banking,8,1,491.46,1,0
+TXN00268,2025-08-28,CUST016,Jensen-Montes,groceries,494.73,credit card,8,3,491.92,1,0
+TXN01321,2025-09-03,CUST016,Johnson-Stephenson,dining,840.74,credit card,9,2,595.7,1,0
+TXN00791,2025-09-20,CUST016,Santiago Inc,utilities,442.87,net banking,9,5,625.63,1,0
+TXN00829,2025-09-20,CUST016,Cook Inc,entertainment,473.88,debit card,9,5,580.05,1,0
+TXN00566,2025-10-04,CUST016,Wilcox-Bautista,shopping,101.72,UPI,10,5,469.93,1,0
+TXN00220,2025-10-24,CUST016,"Martin, Valencia and Lewis",shopping,718.17,UPI,10,4,484.97,1,0
+TXN00887,2025-11-01,CUST016,Johnson Ltd,groceries,835.24,net banking,11,5,558.19,1,0
+TXN01165,2025-11-16,CUST016,Pratt Group,travel,291.96,debit card,11,6,529.23,1,0
+TXN01979,2025-11-25,CUST016,Campos PLC,dining,155.2,credit card,11,1,431.29,1,0
+TXN00006,2025-12-14,CUST016,Fields and Sons,dining,898.07,UPI,12,6,496.32,1,0
+TXN00964,2025-12-15,CUST016,"Blake, Ramos and Cooper",travel,346.52,UPI,12,0,478.13,1,0
+TXN00616,2026-01-11,CUST016,Herrera-Ortega,utilities,6126.92,debit card,1,6,1338.87,-1,1
+TXN01039,2026-02-07,CUST016,Gonzalez-Banks,entertainment,209.31,credit card,2,5,1266.17,1,0
+TXN00417,2026-03-27,CUST016,Rangel Group,entertainment,197.66,credit card,3,4,1175.09,1,0
+TXN00985,2026-03-28,CUST016,"Campos, Mays and Suarez",groceries,569.14,net banking,3,5,1214.69,1,0
+TXN00387,2026-03-29,CUST016,Edwards Group,entertainment,125.3,UPI,3,6,1210.42,-1,1
+TXN01474,2026-03-29,CUST016,Ray-Johnson,dining,491.01,net banking,3,6,1152.27,1,0
+TXN01717,2026-04-15,CUST016,Schmitt-Meyer,travel,581.01,debit card,4,2,1185.76,1,0
+TXN00393,2026-04-22,CUST016,Booth Group,utilities,509.65,net banking,4,2,383.3,1,0
+TXN00000,2026-04-29,CUST016,Mcintyre-Jones,shopping,594.07,debit card,4,2,438.26,1,0
+TXN01107,2026-05-11,CUST016,"Lopez, Bernard and Hubbard",groceries,381.68,debit card,5,0,464.55,1,0
+TXN00719,2026-05-14,CUST016,Mcintyre Inc,shopping,111.05,net banking,5,3,399.11,1,0
+TXN01012,2026-05-17,CUST016,"Davis, Huff and Wang",utilities,289.25,debit card,5,6,422.53,1,0
+TXN01182,2026-05-19,CUST016,Gay-Hernandez,groceries,596.82,credit card,5,1,437.65,1,0
+TXN00215,2026-05-22,CUST016,Jackson Inc,dining,572.98,credit card,5,4,436.5,1,0
+TXN01273,2026-06-14,CUST016,Perez and Sons,utilities,253.67,UPI,6,6,399.93,1,0
+TXN01027,2025-06-18,CUST017,Lopez-Taylor,travel,216.15,net banking,6,2,216.15,1,0
+TXN01841,2025-06-25,CUST017,Montoya Group,utilities,605.63,UPI,6,2,410.89,1,0
+TXN01715,2025-07-17,CUST017,Bruce-Padilla,utilities,317.59,debit card,7,3,379.79,1,0
+TXN01195,2025-07-29,CUST017,Cunningham Ltd,utilities,309.43,UPI,7,1,362.2,1,0
+TXN01577,2025-09-15,CUST017,"Adams, Schultz and Hart",dining,886.0,debit card,9,0,466.96,1,0
+TXN00511,2025-10-02,CUST017,"Rogers, Cherry and Marks",entertainment,699.01,net banking,10,3,505.64,1,0
+TXN01704,2025-10-05,CUST017,Forbes and Sons,travel,144.16,debit card,10,6,454.0,1,0
+TXN01478,2025-10-19,CUST017,Parker Group,entertainment,715.14,credit card,10,6,525.28,1,0
+TXN01817,2025-10-20,CUST017,Carroll Inc,groceries,380.22,debit card,10,0,493.08,1,0
+TXN01840,2025-10-24,CUST017,Pitts Ltd,entertainment,167.89,net banking,10,4,471.69,1,0
+TXN00998,2025-10-30,CUST017,Rivera-Lopez,dining,465.71,debit card,10,3,494.02,1,0
+TXN01842,2025-11-04,CUST017,Rodriguez-Howard,entertainment,394.05,UPI,11,1,423.74,1,0
+TXN00210,2025-11-05,CUST017,"Carpenter, Walters and Evans",utilities,924.05,debit card,11,2,455.89,1,0
+TXN00920,2025-11-12,CUST017,Oliver-Tapia,groceries,177.91,credit card,11,2,460.71,1,0
+TXN00206,2025-11-22,CUST017,Warren Inc,dining,534.75,credit card,11,5,434.94,1,0
+TXN00164,2025-11-24,CUST017,Bentley LLC,groceries,877.17,debit card,11,0,505.93,1,0
+TXN00890,2025-11-25,CUST017,Smith LLC,utilities,166.75,net banking,11,1,505.77,1,0
+TXN00431,2025-12-03,CUST017,"Lewis, Carpenter and Thompson",utilities,977.25,net banking,12,2,578.85,1,0
+TXN01377,2025-12-08,CUST017,Herrera-Richards,utilities,374.54,debit card,12,0,576.06,1,0
+TXN00092,2025-12-24,CUST017,Smith-Kelly,entertainment,261.75,debit card,12,2,481.45,1,0
+TXN01538,2025-12-27,CUST017,Allison PLC,travel,455.28,UPI,12,5,521.07,1,0
+TXN00449,2025-12-29,CUST017,"Stanton, Hawkins and Henry",utilities,107.96,debit card,12,0,460.1,1,0
+TXN01018,2025-12-30,CUST017,Hardy-Pacheco,shopping,905.46,UPI,12,1,464.14,1,0
+TXN01771,2026-01-19,CUST017,Cline-Baker,shopping,234.92,debit card,1,0,473.88,1,0
+TXN00668,2026-01-20,CUST017,Smith and Sons,dining,100.3,net banking,1,1,348.6,1,0
+TXN01758,2026-01-22,CUST017,Watson Inc,dining,177.17,debit card,1,3,320.41,1,0
+TXN01579,2026-01-28,CUST017,Sawyer-Peterson,dining,893.16,net banking,1,2,410.61,1,0
+TXN00578,2026-02-15,CUST017,"Jenkins, Moon and Sanchez",travel,155.78,credit card,2,6,367.82,1,0
+TXN00056,2026-02-20,CUST017,"Hill, Robinson and Knight",dining,39.1,debit card,2,4,357.98,1,0
+TXN01189,2026-02-20,CUST017,"Benson, Wu and Rivera",shopping,921.74,credit card,2,4,360.31,1,0
+TXN00295,2026-03-05,CUST017,Jackson Inc,shopping,857.82,credit card,3,3,449.3,1,0
+TXN00122,2026-03-09,CUST017,Fowler Group,utilities,623.25,net banking,3,0,524.0,1,0
+TXN00261,2026-03-12,CUST017,Caldwell-Mendoza,dining,659.51,net banking,3,3,592.91,1,0
+TXN00855,2026-03-21,CUST017,Nguyen LLC,entertainment,539.4,debit card,3,5,542.37,1,0
+TXN00724,2026-03-29,CUST017,Small-Cain,utilities,682.84,debit card,3,6,617.67,1,0
+TXN01778,2026-04-05,CUST017,Diaz and Sons,entertainment,994.43,credit card,4,6,754.14,1,0
+TXN01775,2026-04-24,CUST017,"Mcdonald, Ramsey and Ellis",groceries,957.84,net banking,4,4,759.3,1,0
+TXN00490,2026-04-29,CUST017,Mercer Group,travel,133.38,credit card,4,2,655.81,1,0
+TXN01161,2026-05-12,CUST017,Berry Group,dining,66.35,credit card,5,1,576.25,1,0
+TXN01836,2026-05-13,CUST017,Barrett-Kennedy,travel,785.04,debit card,5,2,594.18,1,0
+TXN00181,2026-05-29,CUST017,"Shah, Cooper and Parker",utilities,147.81,credit card,5,4,538.24,1,0
+TXN00679,2026-06-10,CUST017,Wallace-Mitchell,utilities,468.81,UPI,6,2,507.67,1,0
+TXN00254,2025-06-23,CUST018,"Smith, Butler and Ballard",groceries,147.59,net banking,6,0,147.59,1,0
+TXN00312,2025-06-24,CUST018,Torres-Cross,entertainment,74.81,debit card,6,1,111.2,1,0
+TXN01310,2025-06-26,CUST018,Jones-Jordan,travel,434.93,net banking,6,3,219.11,1,0
+TXN00349,2025-07-01,CUST018,Jones Ltd,travel,888.52,credit card,7,1,386.46,1,0
+TXN00266,2025-07-03,CUST018,Flynn Ltd,utilities,624.82,net banking,7,3,434.13,1,0
+TXN01236,2025-07-10,CUST018,Clark-Levine,dining,898.35,credit card,7,3,511.5,1,0
+TXN01123,2025-07-11,CUST018,Kelly Ltd,dining,335.15,net banking,7,4,486.31,1,0
+TXN00842,2025-07-13,CUST018,Carpenter and Sons,shopping,24.4,credit card,7,6,468.71,1,0
+TXN01136,2025-07-17,CUST018,Yu Group,groceries,535.08,UPI,7,3,534.46,1,0
+TXN00790,2025-07-18,CUST018,Unknown Merchant,shopping,465.75,net banking,7,4,538.87,1,0
+TXN01617,2025-07-21,CUST018,Reed-Turner,dining,712.33,UPI,7,0,513.7,1,0
+TXN00120,2025-09-08,CUST018,Steele and Sons,dining,476.52,UPI,9,0,492.51,1,0
+TXN00009,2025-09-14,CUST018,Perry-Taylor,entertainment,131.22,net banking,9,6,382.92,1,0
+TXN00451,2025-09-14,CUST018,"Hunt, Baker and Sandoval",groceries,751.56,credit card,9,6,442.41,1,0
+TXN01422,2025-09-18,CUST018,Davenport-Wong,utilities,60.12,debit card,9,3,447.51,1,0
+TXN01679,2025-09-21,CUST018,"Shaffer, Kim and Meadows",utilities,86.3,credit card,9,6,383.4,1,0
+TXN01934,2025-09-25,CUST018,"Suarez, Sanders and Morrison",entertainment,913.95,debit card,9,3,447.43,1,0
+TXN00568,2025-10-09,CUST018,Romero-Hood,travel,743.52,UPI,10,3,451.88,1,0
+TXN01630,2025-10-20,CUST018,"Buckley, Vargas and Weber",entertainment,924.5,net banking,10,0,515.88,1,0
+TXN00572,2025-10-21,CUST018,Carlson PLC,shopping,553.63,debit card,10,1,576.23,1,0
+TXN00638,2025-10-29,CUST018,Berry-Garrison,dining,965.19,debit card,10,2,606.74,1,0
+TXN01360,2025-11-12,CUST018,Gonzalez-Matthews,groceries,779.44,debit card,11,2,709.5,1,0
+TXN01176,2025-11-13,CUST018,Garcia PLC,entertainment,217.74,net banking,11,3,728.28,1,0
+TXN01803,2025-11-14,CUST018,Lowe-Montoya,entertainment,527.77,credit card,11,4,673.11,1,0
+TXN00014,2025-11-20,CUST018,Patrick-Reyes,entertainment,790.72,debit card,11,3,679.86,1,0
+TXN01032,2025-11-27,CUST018,Jimenez Ltd,shopping,291.23,debit card,11,3,589.39,1,0
+TXN00025,2025-12-23,CUST018,Moore Ltd,dining,327.69,credit card,12,1,557.11,1,0
+TXN01373,2025-12-31,CUST018,Mccoy-Fernandez,shopping,978.1,UPI,12,2,558.96,1,0
+TXN00121,2026-01-14,CUST018,Thornton-Rice,entertainment,334.13,UPI,1,2,495.34,1,0
+TXN00675,2026-01-27,CUST018,Porter PLC,entertainment,449.16,credit card,1,1,528.4,1,0
+TXN00681,2026-02-08,CUST018,"Alvarado, Aguilar and Garcia",shopping,231.92,debit card,2,6,486.14,1,0
+TXN00084,2026-02-17,CUST018,"Rice, Cannon and Warren",dining,874.88,net banking,2,1,498.16,1,0
+TXN00535,2026-03-11,CUST018,"Clarke, Lindsey and Mckinney",utilities,615.32,credit card,3,2,544.46,1,0
+TXN01657,2026-03-18,CUST018,"Johnston, Mullins and Baxter",dining,821.96,credit card,3,2,615.07,1,0
+TXN01456,2026-03-21,CUST018,Weaver Ltd,entertainment,640.91,net banking,3,5,566.9,1,0
+TXN00303,2026-03-29,CUST018,Patterson Inc,dining,189.19,net banking,3,6,546.19,1,0
+TXN01701,2026-04-08,CUST018,"Brown, Young and Lopez",utilities,708.56,credit card,4,2,583.25,1,0
+TXN00378,2026-04-16,CUST018,"Ford, Hoffman and Mcdonald",travel,198.93,credit card,4,3,578.54,1,0
+TXN01716,2026-04-30,CUST018,Cox and Sons,utilities,386.46,UPI,4,3,508.76,1,0
+TXN01208,2026-05-14,CUST018,Robinson-Morgan,dining,18.56,UPI,5,3,423.51,1,0
+TXN01702,2026-05-15,CUST018,Cabrera LLC,shopping,977.99,net banking,5,4,445.8,1,0
+TXN00288,2026-05-31,CUST018,Wall Group,groceries,80.95,credit card,5,6,365.81,1,0
+TXN00081,2026-06-07,CUST018,Unknown Merchant,dining,306.96,UPI,6,6,382.63,1,0
+TXN01598,2025-06-23,CUST019,"Mendez, Fisher and Robinson",dining,159.81,credit card,6,0,159.81,1,0
+TXN01211,2025-06-29,CUST019,Oconnor-Caldwell,travel,222.91,credit card,6,6,191.36,1,0
+TXN01998,2025-07-02,CUST019,Fernandez-Young,groceries,368.41,UPI,7,2,250.38,1,0
+TXN01815,2025-07-10,CUST019,"Hardy, Doyle and Fox",groceries,21.77,net banking,7,3,193.22,1,0
+TXN00458,2025-07-11,CUST019,Golden-Morales,dining,411.95,credit card,7,4,236.97,1,0
+TXN00580,2025-07-17,CUST019,"Davidson, Griffin and Turner",dining,143.66,debit card,7,3,221.42,1,0
+TXN00069,2025-08-01,CUST019,Richards PLC,entertainment,243.96,debit card,8,4,224.64,1,0
+TXN01871,2025-08-10,CUST019,Williams Inc,travel,45.61,credit card,8,6,208.32,1,0
+TXN00530,2025-09-24,CUST019,"Weiss, Copeland and Ward",entertainment,805.59,credit card,9,2,291.56,1,0
+TXN01752,2025-09-24,CUST019,Dixon-Gomez,groceries,377.21,credit card,9,2,292.82,1,0
+TXN01870,2025-09-25,CUST019,Ford Inc,entertainment,872.25,UPI,9,3,414.32,1,0
+TXN01552,2025-10-03,CUST019,"Willis, Fry and Welch",groceries,492.07,UPI,10,4,425.76,1,0
+TXN00673,2025-10-04,CUST019,Johnson-Figueroa,dining,305.58,net banking,10,5,448.9,1,0
+TXN01890,2025-10-05,CUST019,Maldonado Inc,shopping,494.79,UPI,10,6,484.73,1,0
+TXN00278,2025-10-22,CUST019,"Hood, Miller and Rodriguez",shopping,875.0,credit card,10,2,603.21,1,0
+TXN00797,2025-11-26,CUST019,"Garza, Matthews and Farmer",entertainment,955.1,UPI,11,2,624.57,1,0
+TXN00795,2025-11-29,CUST019,Wyatt Inc,shopping,429.46,net banking,11,5,632.04,1,0
+TXN00576,2025-11-30,CUST019,Bartlett-Jones,utilities,182.56,net banking,11,6,533.51,1,0
+TXN01278,2025-12-08,CUST019,Graham-Jordan,shopping,364.92,credit card,12,0,515.34,1,0
+TXN01233,2025-12-09,CUST019,"Gordon, Williams and Hernandez",groceries,882.53,UPI,12,1,597.77,1,0
+TXN01894,2025-12-19,CUST019,"Lowe, Thompson and Black",entertainment,834.35,debit card,12,4,646.27,1,0
+TXN01471,2026-01-05,CUST019,Lam-Friedman,entertainment,58.19,UPI,1,0,529.59,1,0
+TXN00413,2026-01-07,CUST019,Hudson-Brown,travel,403.13,UPI,1,2,450.73,1,0
+TXN00927,2026-01-07,CUST019,Norton-Christian,shopping,182.86,UPI,1,2,415.51,1,0
+TXN00480,2026-03-01,CUST019,"Davis, Davidson and Thomas",entertainment,575.71,debit card,3,6,471.67,1,0
+TXN00332,2026-03-11,CUST019,Baldwin-Howe,groceries,382.74,credit card,3,2,474.22,1,0
+TXN00677,2026-03-11,CUST019,"Clark, Pham and Robbins",utilities,995.19,UPI,3,2,490.31,1,0
+TXN01193,2026-03-11,CUST019,Fisher Group,shopping,602.68,credit card,3,2,457.21,1,0
+TXN00715,2026-04-13,CUST019,Moore PLC,dining,11.9,debit card,4,0,450.6,1,0
+TXN01711,2026-04-18,CUST019,"Gill, Douglas and Mcintyre",groceries,9804.97,UPI,4,5,1793.72,-1,1
+TXN00212,2026-04-21,CUST019,Richardson-Smith,entertainment,815.25,debit card,4,1,1884.06,-1,1
+TXN00125,2026-04-27,CUST019,Rodriguez Inc,groceries,962.11,UPI,4,0,1939.26,-1,1
+TXN00688,2026-05-05,CUST019,"Lopez, Ryan and Lee",groceries,567.16,net banking,5,1,1965.61,-1,1
+TXN00412,2026-05-14,CUST019,"Douglas, Weiss and Holland",entertainment,16.07,credit card,5,3,1825.73,1,0
+TXN00925,2026-05-27,CUST019,Kelley-Trujillo,travel,174.55,debit card,5,2,1764.57,-1,1
+TXN00666,2026-06-02,CUST019,Whitaker Group,dining,959.1,debit card,6,1,1899.89,-1,1
+TXN00962,2026-06-15,CUST019,David-Gardner,dining,873.54,debit card,6,0,623.97,1,0
+TXN00388,2025-06-19,CUST020,Guzman-Roberson,utilities,476.48,net banking,6,3,476.48,1,0
+TXN01207,2025-06-23,CUST020,"Ramsey, Herrera and Walters",groceries,636.02,credit card,6,0,556.25,1,0
+TXN01311,2025-06-24,CUST020,Shaw Inc,travel,45.57,net banking,6,1,386.02,1,0
+TXN00847,2025-07-20,CUST020,"Morris, Garcia and Greene",utilities,108.18,UPI,7,6,316.56,1,0
+TXN00329,2025-07-24,CUST020,"Morgan, Knapp and Morrison",dining,207.33,UPI,7,3,294.72,1,0
+TXN01002,2025-08-05,CUST020,Garcia-Henry,travel,196.32,debit card,8,1,278.32,1,0
+TXN01297,2025-08-05,CUST020,Thomas-Garcia,groceries,598.18,credit card,8,1,324.01,1,0
+TXN00768,2025-08-09,CUST020,Smith-Henry,entertainment,834.15,UPI,8,5,375.11,1,0
+TXN00551,2025-08-16,CUST020,Brown and Sons,groceries,753.67,debit card,8,5,391.91,1,0
+TXN01733,2025-08-23,CUST020,"Davis, Burton and Peterson",entertainment,548.32,credit card,8,5,463.74,1,0
+TXN00300,2025-09-02,CUST020,Gordon-Gonzales,dining,485.02,UPI,9,1,517.57,1,0
+TXN00538,2025-09-07,CUST020,"Mcclain, Smith and Rios",groceries,519.74,UPI,9,6,562.2,1,0
+TXN00286,2025-09-11,CUST020,Gray-Palmer,groceries,236.84,credit card,9,3,567.99,1,0
+TXN01967,2025-09-13,CUST020,"Cortez, Wilkinson and Nelson",shopping,971.28,net banking,9,5,621.29,1,0
+TXN00297,2025-09-16,CUST020,"James, Paul and Mathews",travel,398.25,net banking,9,1,559.02,1,0
+TXN01966,2025-09-17,CUST020,Sanders Group,shopping,935.79,UPI,9,2,585.03,1,0
+TXN00391,2025-09-28,CUST020,Mejia Group,shopping,650.44,credit card,9,6,599.62,1,0
+TXN00055,2025-09-29,CUST020,"Blackwell, Berry and Johnson",dining,739.48,net banking,9,0,635.97,1,0
+TXN00812,2025-11-09,CUST020,"Carpenter, Chapman and Johnson",dining,167.38,net banking,11,6,585.64,1,0
+TXN00582,2025-11-11,CUST020,Fisher-Clark,travel,26.61,debit card,11,1,555.6,1,0
+TXN00285,2025-11-24,CUST020,"Leonard, Davis and Bowman",entertainment,293.12,net banking,11,0,458.72,1,0
+TXN00452,2025-11-24,CUST020,Lee PLC,shopping,533.63,credit card,11,0,478.06,1,0
+TXN00716,2025-11-27,CUST020,"Middleton, Griffith and Flores",utilities,202.2,debit card,11,3,373.27,1,0
+TXN01911,2025-12-24,CUST020,Freeman-Washington,utilities,721.98,net banking,12,2,383.49,1,0
+TXN01659,2026-01-09,CUST020,"Garcia, Simpson and Fox",shopping,13.74,debit card,1,4,279.81,1,0
+TXN01940,2026-01-12,CUST020,Reed-Price,dining,970.64,net banking,1,0,394.56,-1,1
+TXN00127,2026-01-17,CUST020,"Long, Donaldson and Garcia",dining,269.91,credit card,1,5,429.32,1,0
+TXN01287,2026-01-24,CUST020,"Campbell, Randall and Marks",entertainment,771.45,UPI,1,5,497.65,1,0
+TXN00179,2026-01-31,CUST020,Sweeney-Duran,groceries,608.0,credit card,1,5,508.27,1,0
+TXN00536,2026-02-16,CUST020,Wallace Ltd,travel,213.36,credit card,2,0,509.87,1,0
+TXN00658,2026-02-20,CUST020,Johnston-White,groceries,799.53,UPI,2,4,520.95,1,0
+TXN01496,2026-03-04,CUST020,Lopez-Powell,dining,168.37,net banking,3,2,543.04,1,0
+TXN01413,2026-04-23,CUST020,"Robinson, Hall and Patel",entertainment,226.63,credit card,4,3,436.75,1,0
+TXN00811,2026-04-26,CUST020,Unknown Merchant,utilities,150.99,debit card,4,6,419.76,1,0
+TXN00844,2026-06-01,CUST020,Potter Group,travel,87.06,net banking,6,0,321.99,1,0
+TXN00466,2026-06-15,CUST020,Conner-Rosario,dining,814.56,net banking,6,0,351.5,1,0
+TXN01846,2025-06-29,CUST021,"Woods, Lane and Huang",travel,257.96,debit card,6,6,257.96,1,0
+TXN00140,2025-07-27,CUST021,Wells-Bell,dining,601.07,net banking,7,6,429.52,1,0
+TXN00936,2025-08-04,CUST021,"Morse, Mitchell and Pace",utilities,869.53,UPI,8,0,576.19,1,0
+TXN00941,2025-08-13,CUST021,"Stephenson, Romero and Petty",travel,50.37,credit card,8,2,444.73,1,0
+TXN00094,2025-08-25,CUST021,"King, Robertson and Shah",utilities,209.51,UPI,8,0,397.69,1,0
+TXN01963,2025-08-26,CUST021,Smith PLC,dining,76.49,net banking,8,1,344.16,1,0
+TXN01534,2025-10-02,CUST021,"Romero, Johnson and Lopez",shopping,762.33,credit card,10,3,403.89,1,0
+TXN00427,2025-10-22,CUST021,Spence PLC,groceries,143.41,debit card,10,2,387.53,1,0
+TXN01340,2025-10-23,CUST021,Dawson-Phillips,dining,919.4,UPI,10,3,433.01,1,0
+TXN01777,2025-11-02,CUST021,"Brown, Santiago and Hughes",entertainment,111.97,debit card,11,6,324.78,1,0
+TXN00627,2025-11-28,CUST021,"Miller, Gates and Vaughan",groceries,506.58,net banking,11,4,389.96,1,0
+TXN01739,2025-12-04,CUST021,"Wu, Knight and Stout",groceries,450.64,UPI,12,3,424.4,1,0
+TXN01389,2025-12-08,CUST021,Weiss-Marshall,groceries,543.17,net banking,12,0,491.07,1,0
+TXN01079,2025-12-17,CUST021,"Ibarra, Stevenson and Williams",entertainment,351.44,credit card,12,2,432.37,1,0
+TXN00399,2025-12-18,CUST021,Stout PLC,groceries,95.69,debit card,12,3,425.56,1,0
+TXN00987,2026-01-04,CUST021,"Hunter, Johnston and Webster",entertainment,882.24,debit card,1,6,420.25,1,0
+TXN01900,2026-01-06,CUST021,"Jones, James and White",entertainment,825.65,UPI,1,1,522.2,1,0
+TXN00939,2026-01-08,CUST021,"Wagner, Gomez and Torres",groceries,870.22,debit card,1,3,574.15,1,0
+TXN01242,2026-01-17,CUST021,West-Young,shopping,718.61,credit card,1,5,612.43,1,0
+TXN01687,2026-01-19,CUST021,Howell-Long,entertainment,890.51,debit card,1,0,662.05,1,0
+TXN00184,2026-01-22,CUST021,Washington PLC,travel,129.98,credit card,1,3,630.41,1,0
+TXN01222,2026-01-25,CUST021,Richardson LLC,shopping,131.61,UPI,1,6,635.55,1,0
+TXN01744,2026-02-03,CUST021,"Rivas, Garza and Evans",entertainment,170.88,net banking,2,1,533.92,1,0
+TXN00749,2026-02-11,CUST021,"Short, Kennedy and Vazquez",travel,876.74,UPI,2,2,541.22,1,0
+TXN01174,2026-02-14,CUST021,Cunningham-Smith,travel,388.12,UPI,2,5,472.35,1,0
+TXN00669,2026-03-01,CUST021,George-Collins,utilities,951.82,UPI,3,6,505.67,1,0
+TXN01950,2026-03-05,CUST021,"Norman, Aguilar and Smith",entertainment,328.35,net banking,3,3,425.36,1,0
+TXN01363,2026-03-12,CUST021,Schroeder-Rogers,utilities,555.24,debit card,3,3,486.11,1,0
+TXN01052,2026-03-16,CUST021,"Villarreal, Snyder and Schmidt",travel,357.81,net banking,3,0,518.42,1,0
+TXN01802,2026-03-16,CUST021,Luna Group,travel,217.85,net banking,3,0,525.13,1,0
+TXN00877,2026-03-20,CUST021,Lutz-Anderson,utilities,690.96,net banking,3,4,498.59,1,0
+TXN00398,2026-03-25,CUST021,Black PLC,shopping,925.04,UPI,3,2,575.3,1,0
+TXN01019,2026-04-19,CUST021,Sanders-Mayer,travel,960.47,debit card,4,6,576.53,1,0
+TXN00737,2026-04-23,CUST021,"Smith, Smith and Ortiz",groceries,712.61,net banking,4,3,631.43,1,0
+TXN01994,2026-04-27,CUST021,Espinoza-Golden,groceries,151.44,UPI,4,0,573.74,1,0
+TXN00100,2026-05-08,CUST021,Mills LLC,travel,494.65,net banking,5,4,593.29,1,0
+TXN01001,2026-06-12,CUST021,Fox LLC,utilities,740.0,debit card,6,4,667.88,1,0
+TXN01194,2026-06-16,CUST021,"Scott, Patton and Moore",dining,322.02,debit card,6,1,615.18,1,0
+TXN01051,2025-06-25,CUST022,"Williams, Matthews and Tapia",entertainment,331.51,debit card,6,2,331.51,1,0
+TXN00630,2025-06-27,CUST022,Gibson PLC,dining,342.07,debit card,6,4,336.79,1,0
+TXN01367,2025-07-02,CUST022,"Smith, James and Chavez",travel,266.19,credit card,7,2,313.26,1,0
+TXN00004,2025-07-17,CUST022,Cuevas-Johnson,shopping,125.45,debit card,7,3,266.3,1,0
+TXN00157,2025-07-17,CUST022,Fields Inc,utilities,624.94,debit card,7,3,338.03,1,0
+TXN00304,2025-07-29,CUST022,Sullivan LLC,travel,941.37,credit card,7,1,438.59,1,0
+TXN01755,2025-08-07,CUST022,"Arellano, Taylor and Porter",groceries,273.94,credit card,8,3,415.07,1,0
+TXN00895,2025-08-15,CUST022,"Johnson, Diaz and Hanson",travel,279.57,UPI,8,4,407.65,1,0
+TXN00086,2025-08-24,CUST022,Castillo-Thomas,travel,357.46,net banking,8,6,409.85,1,0
+TXN00796,2025-08-26,CUST022,Douglas-Newton,travel,134.22,credit card,8,1,390.99,1,0
+TXN01210,2025-08-28,CUST022,Sherman Inc,travel,583.05,net banking,8,3,456.36,1,0
+TXN00308,2025-09-13,CUST022,"Meyer, Smith and Carlson",travel,118.05,credit card,9,5,383.95,1,0
+TXN01084,2025-09-13,CUST022,Robbins Ltd,groceries,746.96,debit card,9,5,356.18,1,0
+TXN00833,2025-09-14,CUST022,Perry-Myers,entertainment,722.81,debit card,9,6,420.3,1,0
+TXN00047,2025-09-27,CUST022,Prince-Reynolds,shopping,334.39,net banking,9,5,428.13,1,0
+TXN00362,2025-09-30,CUST022,"Riley, Sosa and Taylor",dining,523.52,credit card,9,1,451.86,1,0
+TXN01655,2025-10-27,CUST022,"Joseph, Palmer and Scott",dining,952.08,debit card,10,0,568.69,1,0
+TXN00729,2025-10-28,CUST022,"Kelly, Cherry and Andrews",groceries,833.78,UPI,10,1,604.51,1,0
+TXN00213,2025-11-03,CUST022,Bradford Group,utilities,512.37,credit card,11,0,660.84,1,0
+TXN00967,2025-11-07,CUST022,Crawford Inc,shopping,373.17,credit card,11,4,607.45,1,0
+TXN01651,2025-11-08,CUST022,Ochoa-Edwards,groceries,758.6,debit card,11,5,612.56,1,0
+TXN01677,2025-11-08,CUST022,"Gallagher, Collins and Coleman",entertainment,814.22,net banking,11,5,681.11,1,0
+TXN01907,2025-11-30,CUST022,Greene Ltd,dining,986.68,debit card,11,6,747.27,1,0
+TXN01800,2025-12-07,CUST022,Velazquez-Stanley,utilities,137.67,debit card,12,6,630.93,1,0
+TXN01759,2025-12-12,CUST022,"Frost, Vargas and Alvarez",groceries,393.69,credit card,12,4,568.06,1,0
+TXN01564,2025-12-29,CUST022,Owens-Foster,shopping,617.17,debit card,12,0,583.03,1,0
+TXN01837,2025-12-31,CUST022,"Smith, Nicholson and Brown",utilities,739.17,debit card,12,2,635.31,1,0
+TXN00750,2026-01-14,CUST022,"Floyd, Gonzales and Olsen",shopping,461.12,credit card,1,2,592.82,1,0
+TXN01553,2026-02-11,CUST022,Wade and Sons,dining,474.71,net banking,2,2,544.32,1,0
+TXN00068,2026-02-25,CUST022,"White, King and Smith",entertainment,965.93,UPI,2,2,541.35,1,0
+TXN01632,2026-03-05,CUST022,"Nelson, Manning and Stephenson",travel,252.62,credit card,3,3,557.77,1,0
+TXN00969,2026-03-07,CUST022,Galloway Ltd,utilities,854.61,debit card,3,5,623.62,1,0
+TXN00906,2026-03-16,CUST022,Hunter-Martin,shopping,880.36,credit card,3,0,661.22,1,0
+TXN00785,2026-03-25,CUST022,"Watson, Vang and Medina",groceries,870.66,debit card,3,2,680.0,1,0
+TXN01473,2026-04-01,CUST022,"Diaz, King and Alvarado",utilities,562.81,net banking,4,2,694.53,1,0
+TXN00166,2026-04-02,CUST022,Smith PLC,travel,330.95,UPI,4,3,673.99,1,0
+TXN00671,2026-04-08,CUST022,"Parker, Hernandez and Austin",travel,528.59,debit card,4,2,611.51,1,0
+TXN01724,2026-04-28,CUST022,"Johnston, Myers and Francis",travel,327.54,net banking,4,1,622.22,1,0
+TXN01275,2026-05-11,CUST022,"Davies, Bruce and Hernandez",dining,37.64,UPI,5,0,505.51,1,0
+TXN01921,2026-05-19,CUST022,"Jones, Edwards and Martinez",groceries,436.86,UPI,5,1,442.15,1,0
+TXN01073,2026-05-23,CUST022,"Wilkinson, Cruz and Miller",shopping,395.49,net banking,5,5,374.27,1,0
+TXN00392,2026-06-15,CUST022,"Burke, Mcintosh and Horne",travel,420.4,debit card,6,0,353.92,1,0
+TXN00770,2025-06-17,CUST023,Moran-Phillips,dining,621.73,net banking,6,1,621.73,1,0
+TXN00459,2025-06-25,CUST023,"Gilbert, Gonzalez and Pratt",dining,115.11,net banking,6,2,368.42,1,0
+TXN01926,2025-06-30,CUST023,Taylor-Hill,groceries,357.63,credit card,6,0,364.82,1,0
+TXN00163,2025-07-01,CUST023,Unknown Merchant,entertainment,169.82,debit card,7,1,316.07,1,0
+TXN01197,2025-07-11,CUST023,Levy Ltd,shopping,369.87,UPI,7,4,326.83,1,0
+TXN00385,2025-07-13,CUST023,Unknown Merchant,utilities,771.32,net banking,7,6,400.91,1,0
+TXN00418,2025-07-21,CUST023,Lambert Group,groceries,334.58,UPI,7,0,391.44,1,0
+TXN00177,2025-07-23,CUST023,Lawson-Porter,utilities,886.42,credit card,7,2,429.25,1,0
+TXN01969,2025-07-24,CUST023,Johnson-Dixon,groceries,144.84,UPI,7,3,433.5,1,0
+TXN00805,2025-07-27,CUST023,Villa Ltd,entertainment,324.33,debit card,7,6,428.74,1,0
+TXN01078,2025-07-29,CUST023,Gonzalez-Gonzalez,groceries,22.45,credit card,7,1,407.69,1,0
+TXN01294,2025-08-01,CUST023,Quinn Inc,utilities,718.4,debit card,8,4,457.48,1,0
+TXN00376,2025-08-02,CUST023,Henderson and Sons,groceries,640.54,credit card,8,5,438.79,1,0
+TXN01215,2025-08-18,CUST023,Smith-Smith,dining,264.62,UPI,8,0,428.8,1,0
+TXN01247,2025-08-23,CUST023,Galloway-Peterson,shopping,658.36,credit card,8,5,396.22,1,0
+TXN01464,2025-09-06,CUST023,"Foster, Smith and Chang",groceries,748.12,net banking,9,5,482.4,1,0
+TXN01483,2025-09-10,CUST023,Warner-Murphy,dining,191.67,net banking,9,2,463.45,1,0
+TXN00401,2025-09-25,CUST023,"Page, Snyder and Lambert",utilities,458.24,net banking,9,3,525.71,1,0
+TXN01787,2025-10-10,CUST023,Coleman PLC,travel,37.85,UPI,10,4,428.49,1,0
+TXN01251,2025-10-13,CUST023,Moore and Sons,shopping,796.73,debit card,10,0,450.8,1,0
+TXN00424,2025-10-16,CUST023,Taylor-Gardner,shopping,941.62,UPI,10,3,547.51,1,0
+TXN01200,2025-10-17,CUST023,Dominguez-Thompson,travel,322.36,net banking,10,4,499.51,1,0
+TXN00678,2025-10-24,CUST023,Rodriguez-Keller,shopping,319.23,UPI,10,4,438.24,1,0
+TXN01126,2025-11-14,CUST023,"Garcia, Jackson and Barajas",shopping,198.88,UPI,11,4,439.27,1,0
+TXN00436,2025-11-18,CUST023,Hartman-Luna,utilities,690.7,credit card,11,1,472.48,1,0
+TXN01772,2025-11-18,CUST023,Robles Ltd,travel,836.82,credit card,11,1,586.62,1,0
+TXN00136,2025-11-29,CUST023,"Jenkins, Johnson and Cruz",shopping,478.37,UPI,11,5,541.14,1,0
+TXN01599,2025-12-01,CUST023,Bishop Ltd,utilities,126.96,credit card,12,0,424.76,1,0
+TXN01254,2025-12-02,CUST023,Byrd Inc,shopping,558.01,net banking,12,1,458.42,1,0
+TXN00637,2025-12-10,CUST023,"Wright, Edwards and Franklin",shopping,230.68,net banking,12,2,445.77,1,0
+TXN01992,2025-12-14,CUST023,Rice and Sons,shopping,118.25,credit card,12,6,434.26,1,0
+TXN00931,2025-12-20,CUST023,Smith PLC,travel,289.1,credit card,12,5,376.88,1,0
+TXN01111,2025-12-22,CUST023,Ware Inc,groceries,877.26,credit card,12,0,382.66,1,0
+TXN01384,2025-12-26,CUST023,Parker Inc,dining,636.46,net banking,12,4,405.25,1,0
+TXN01549,2025-12-31,CUST023,"Martinez, Johnson and Walters",utilities,277.26,debit card,12,2,426.72,1,0
+TXN01821,2026-01-05,CUST023,"Medina, Watkins and Aguilar",groceries,143.59,UPI,1,0,367.51,1,0
+TXN00787,2026-01-09,CUST023,Washington-Turner,groceries,499.89,UPI,1,4,405.97,1,0
+TXN01643,2026-01-12,CUST023,Coleman-Johnson,shopping,395.68,UPI,1,0,445.61,1,0
+TXN00684,2026-01-29,CUST023,Higgins PLC,shopping,888.69,net banking,1,3,531.26,1,0
+TXN01472,2026-02-07,CUST023,Ramirez-Banks,dining,916.1,UPI,2,5,536.81,1,0
+TXN01947,2026-02-07,CUST023,Robles and Sons,dining,132.38,credit card,2,5,464.8,1,0
+TXN00989,2026-02-08,CUST023,Anderson-Taylor,groceries,766.51,credit card,2,6,534.69,1,0
+TXN00751,2026-02-19,CUST023,"Cochran, Daniel and Mccarthy",groceries,809.89,debit card,2,3,629.88,1,0
+TXN01960,2026-02-19,CUST023,Morales-Moore,entertainment,132.05,credit card,2,3,577.33,1,0
+TXN00192,2026-03-12,CUST023,Fry LLC,groceries,194.32,debit card,3,3,548.56,1,0
+TXN00776,2026-04-01,CUST023,Larson LLC,entertainment,811.34,UPI,4,2,537.51,1,0
+TXN00182,2026-04-23,CUST023,"West, Coleman and Brown",shopping,458.37,net banking,4,3,472.12,1,0
+TXN01280,2026-05-02,CUST023,Mccormick-Thomas,shopping,107.34,debit card,5,5,468.55,1,0
+TXN01097,2026-05-14,CUST023,"Clay, Hawkins and Rice",utilities,912.05,net banking,5,3,489.34,1,0
+TXN01494,2026-05-19,CUST023,"Brown, Smith and Lee",utilities,443.44,debit card,5,1,436.99,1,0
+TXN01129,2026-05-28,CUST023,Kerr Group,dining,733.51,UPI,5,3,522.91,1,0
+TXN01580,2026-05-30,CUST023,"Garcia, Shaffer and Villa",groceries,622.3,debit card,5,5,584.05,1,0
+TXN01041,2026-06-02,CUST023,Watts LLC,shopping,217.51,UPI,6,1,499.22,1,0
+TXN01005,2026-06-11,CUST023,Goodman Inc,groceries,758.46,net banking,6,3,542.09,1,0
+TXN01531,2025-07-03,CUST024,Andrews PLC,entertainment,514.8,net banking,7,3,514.8,1,0
+TXN01597,2025-07-07,CUST024,Collins-White,shopping,309.34,net banking,7,0,412.07,1,0
+TXN01640,2025-07-17,CUST024,Hall Group,groceries,131.4,UPI,7,3,318.51,1,0
+TXN01824,2025-07-27,CUST024,Mitchell-Lynch,dining,551.76,net banking,7,6,376.82,1,0
+TXN00954,2025-08-01,CUST024,"Ingram, Martinez and Ballard",utilities,401.98,net banking,8,4,381.86,1,0
+TXN01987,2025-08-10,CUST024,Myers-Silva,utilities,933.98,UPI,8,6,473.88,1,0
+TXN00395,2025-08-16,CUST024,Edwards and Sons,dining,242.1,debit card,8,5,440.77,1,0
+TXN00777,2025-08-16,CUST024,"Osborn, Vang and Smith",shopping,501.89,net banking,8,5,438.92,1,0
+TXN01933,2025-08-22,CUST024,Richardson Group,utilities,46.3,net banking,8,4,401.34,1,0
+TXN00745,2025-08-25,CUST024,"Burton, Jordan and Espinoza",entertainment,952.12,debit card,8,0,518.59,1,0
+TXN01191,2025-08-31,CUST024,Smith Group,dining,179.15,net banking,8,6,465.36,1,0
+TXN01291,2025-09-18,CUST024,Haynes Inc,shopping,901.33,net banking,9,3,536.7,1,0
+TXN01543,2025-09-19,CUST024,Gibbs-Hanson,entertainment,107.28,net banking,9,4,418.6,1,0
+TXN00659,2025-09-23,CUST024,Benson Group,entertainment,491.87,credit card,9,1,454.28,1,0
+TXN01004,2025-10-02,CUST024,Ashley Group,travel,908.72,UPI,10,3,512.4,1,0
+TXN01663,2025-10-19,CUST024,Webster-Williams,travel,301.86,net banking,10,6,548.9,1,0
+TXN00260,2025-10-20,CUST024,White-Alvarez,entertainment,14.73,credit card,10,0,414.99,1,0
+TXN01481,2025-11-01,CUST024,"Dudley, Thomas and Phillips",utilities,438.5,net banking,11,5,452.04,1,0
+TXN00821,2025-11-12,CUST024,"Jensen, Ellis and Smith",shopping,563.7,UPI,11,2,403.81,1,0
+TXN01858,2025-11-18,CUST024,"Austin, Cook and Garcia",shopping,745.96,credit card,11,1,495.05,1,0
+TXN01487,2025-11-22,CUST024,Padilla Ltd,dining,673.23,UPI,11,5,520.96,1,0
+TXN00612,2026-01-14,CUST024,Mcconnell PLC,entertainment,301.74,debit card,1,2,434.25,1,0
+TXN00160,2026-01-16,CUST024,"Munoz, Jenkins and Newton",dining,842.97,net banking,1,4,511.55,1,0
+TXN01110,2026-01-20,CUST024,Sexton-Newton,entertainment,714.6,UPI,1,1,611.53,1,0
+TXN01196,2026-01-20,CUST024,Davis-Glover,travel,463.95,net banking,1,1,615.16,1,0
+TXN01619,2026-01-21,CUST024,"Stark, Cardenas and Thornton",travel,347.84,credit card,1,2,584.33,1,0
+TXN00199,2026-01-29,CUST024,French PLC,dining,368.17,debit card,1,3,530.36,1,0
+TXN01214,2026-01-29,CUST024,Reyes-Fischer,dining,328.85,net banking,1,3,481.16,1,0
+TXN01178,2026-02-06,CUST024,Vincent-Lynn,groceries,596.59,credit card,2,4,523.28,1,0
+TXN00910,2026-02-10,CUST024,Davis Inc,dining,744.14,UPI,2,1,509.16,1,0
+TXN01537,2026-02-24,CUST024,"Long, Hill and Smith",shopping,708.7,credit card,2,1,508.32,1,0
+TXN01682,2026-03-04,CUST024,Sexton-Baldwin,travel,267.74,debit card,3,2,480.29,1,0
+TXN00547,2026-03-22,CUST024,Payne-Hansen,groceries,434.8,net banking,3,6,492.71,1,0
+TXN01492,2026-03-25,CUST024,"James, Roberson and Turner",travel,64.42,debit card,3,2,449.32,1,0
+TXN00331,2026-03-27,CUST024,Barker Inc,shopping,485.18,credit card,3,4,471.65,1,0
+TXN00624,2026-03-30,CUST024,"Pierce, Kelly and Williams",travel,992.55,debit card,3,0,528.22,1,0
+TXN01403,2026-03-31,CUST024,"Munoz, Sullivan and Burns",shopping,25.04,UPI,3,1,425.49,1,0
+TXN00484,2026-04-10,CUST024,Wagner PLC,shopping,957.96,UPI,4,4,461.1,1,0
+TXN00063,2026-05-03,CUST024,"Allen, Harrington and Melendez",dining,513.07,UPI,5,6,496.15,1,0
+TXN01931,2026-05-05,CUST024,Cain-Banks,shopping,389.81,debit card,5,1,489.72,1,0
+TXN00531,2026-05-29,CUST024,Hickman-Pena,utilities,836.62,net banking,5,4,600.03,1,0
+TXN01595,2026-06-08,CUST024,Foster Ltd,travel,811.43,net banking,6,0,646.64,1,0
+TXN01703,2026-06-15,CUST024,"Mitchell, Alexander and Barnett",utilities,532.53,debit card,6,0,580.92,1,0
+TXN01990,2025-06-18,CUST025,Simmons-Flores,groceries,812.45,net banking,6,2,812.45,1,0
+TXN00758,2025-07-15,CUST025,Williams and Sons,dining,290.03,debit card,7,1,551.24,1,0
+TXN00932,2025-07-25,CUST025,"Russell, Ramirez and Kane",entertainment,11457.71,UPI,7,4,4186.73,-1,1
+TXN01930,2025-07-30,CUST025,Camacho-Rodgers,entertainment,871.84,debit card,7,2,3358.01,-1,1
+TXN00144,2025-08-13,CUST025,Hawkins-Johnson,entertainment,738.82,UPI,8,2,2834.17,-1,1
+TXN00519,2025-08-15,CUST025,Soto-Morgan,travel,23.48,UPI,8,4,2365.72,-1,1
+TXN00503,2025-08-26,CUST025,Perez LLC,travel,321.09,credit card,8,1,2073.63,-1,1
+TXN01390,2025-08-26,CUST025,"Lopez, Jones and Hamilton",travel,101.32,UPI,8,1,1972.04,-1,1
+TXN00507,2025-09-11,CUST025,"Russell, Green and Chavez",shopping,196.6,debit card,9,3,1958.69,-1,1
+TXN01932,2025-10-16,CUST025,Mitchell-Barnes,dining,533.61,debit card,10,3,398.11,1,0
+TXN00264,2025-10-29,CUST025,Simon-Hodge,groceries,2837.41,credit card,10,2,678.9,1,0
+TXN01241,2025-10-31,CUST025,Mills Inc,groceries,797.89,credit card,10,4,687.34,1,0
+TXN01723,2025-10-31,CUST025,Rangel LLC,travel,695.31,debit card,10,4,783.32,1,0
+TXN01784,2025-11-01,CUST025,Washington PLC,entertainment,214.71,credit card,11,5,768.12,1,0
+TXN00001,2025-12-03,CUST025,"Acosta, Wilson and Johnson",utilities,782.21,debit card,12,2,865.39,1,0
+TXN00605,2025-12-03,CUST025,Watkins LLC,groceries,662.66,credit card,12,2,931.97,1,0
+TXN01622,2025-12-05,CUST025,"Mccoy, Smith and Duarte",groceries,406.81,credit card,12,4,913.86,1,0
+TXN00244,2026-01-04,CUST025,Brooks-Rhodes,groceries,174.08,UPI,1,6,533.38,1,0
+TXN00044,2026-01-05,CUST025,Thompson and Sons,entertainment,213.36,UPI,1,0,449.88,1,0
+TXN01862,2026-01-08,CUST025,Price PLC,entertainment,611.06,UPI,1,3,437.84,1,0
+TXN00701,2026-01-20,CUST025,"Pierce, Davenport and Smith",shopping,303.31,UPI,1,1,450.5,1,0
+TXN00203,2026-01-21,CUST025,Roberts Inc,entertainment,679.64,net banking,1,2,435.85,1,0
+TXN01387,2026-01-26,CUST025,Meadows PLC,entertainment,550.63,net banking,1,0,419.84,1,0
+TXN00866,2026-02-02,CUST025,Rasmussen-Arnold,shopping,771.65,UPI,2,0,471.96,1,0
+TXN01248,2026-02-04,CUST025,"Ortiz, Waters and Coleman",utilities,263.3,UPI,2,2,484.71,1,0
+TXN01512,2026-03-03,CUST025,Davis-Jones,dining,528.48,credit card,3,1,529.72,1,0
+TXN01929,2026-04-21,CUST025,Stanley-Lynch,groceries,985.36,UPI,4,1,583.2,1,0
+TXN01108,2026-04-22,CUST025,Obrien Inc,entertainment,378.05,credit card,4,2,593.87,1,0
+TXN01006,2026-05-09,CUST025,"Reyes, Norton and Peterson",entertainment,246.51,debit card,5,5,532.0,1,0
+TXN01101,2026-05-20,CUST025,"Martinez, Hodges and Harris",dining,874.65,debit card,5,2,578.29,1,0
+TXN00593,2026-06-08,CUST025,Holmes-Brown,groceries,68.27,debit card,6,0,477.8,1,0
+TXN01391,2026-06-12,CUST025,"Simmons, Jackson and Garrison",shopping,284.28,debit card,6,4,480.8,1,0
+TXN01374,2025-06-16,CUST026,Fleming and Sons,groceries,463.11,UPI,6,0,463.11,1,0
+TXN00775,2025-06-27,CUST026,Young LLC,travel,829.84,debit card,6,4,646.48,1,0
+TXN00704,2025-07-06,CUST026,Perez-Taylor,utilities,860.03,credit card,7,6,717.66,1,0
+TXN00346,2025-07-09,CUST026,Bradley-Le,travel,359.95,net banking,7,2,628.23,1,0
+TXN00142,2025-07-10,CUST026,Solis-Kent,dining,941.23,debit card,7,3,690.83,1,0
+TXN01322,2025-08-07,CUST026,Johnson Inc,travel,943.33,credit card,8,3,732.92,1,0
+TXN00502,2025-08-09,CUST026,"Cisneros, Fletcher and Reeves",travel,470.17,net banking,8,5,695.38,1,0
+TXN01611,2025-09-02,CUST026,"Rollins, Martinez and Roberson",entertainment,661.27,debit card,9,1,723.69,1,0
+TXN01302,2025-09-03,CUST026,"Scott, Middleton and Pruitt",travel,184.49,debit card,9,2,631.5,1,0
+TXN00722,2025-09-13,CUST026,"Bush, Sims and Adams",travel,611.19,credit card,9,5,595.95,1,0
+TXN00134,2025-09-14,CUST026,Mathis and Sons,dining,298.14,net banking,9,6,587.12,1,0
+TXN01646,2025-09-17,CUST026,Porter PLC,groceries,329.56,UPI,9,2,499.74,1,0
+TXN00032,2025-09-27,CUST026,"Mitchell, Reid and Dawson",shopping,68.68,net banking,9,5,374.79,1,0
+TXN00148,2025-10-03,CUST026,Massey-Bryant,dining,197.36,UPI,10,4,335.81,1,0
+TXN01386,2025-10-09,CUST026,"Olson, Hill and Rivera",utilities,503.89,credit card,10,3,313.33,1,0
+TXN00146,2025-10-28,CUST026,Smith-Lucas,groceries,995.54,credit card,10,1,429.19,1,0
+TXN01349,2025-10-30,CUST026,Shea Group,travel,145.37,debit card,10,3,362.65,1,0
+TXN01146,2025-11-09,CUST026,Jones Ltd,dining,295.94,credit card,11,6,362.33,1,0
+TXN01010,2025-11-22,CUST026,Unknown Merchant,groceries,44.92,credit card,11,5,321.67,1,0
+TXN00814,2025-11-24,CUST026,Lam-Thomas,dining,980.45,net banking,11,0,451.92,1,0
+TXN01866,2025-11-28,CUST026,Reynolds-Singh,dining,58.74,credit card,11,4,432.12,1,0
+TXN01565,2025-12-23,CUST026,"Allen, Simpson and Martinez",dining,912.99,debit card,12,1,490.56,1,0
+TXN01046,2025-12-31,CUST026,"Vargas, Norman and Brown",entertainment,59.81,net banking,12,2,356.89,1,0
+TXN01594,2026-01-01,CUST026,Singh and Sons,entertainment,322.53,debit card,1,3,382.2,1,0
+TXN01434,2026-01-05,CUST026,"Martin, Wolfe and Torres",utilities,267.86,UPI,1,0,378.19,1,0
+TXN00653,2026-01-07,CUST026,Mason PLC,groceries,200.75,UPI,1,2,400.45,1,0
+TXN00221,2026-01-08,CUST026,"Ruiz, Martinez and Dickson",utilities,282.95,credit card,1,3,300.8,1,0
+TXN00269,2026-01-08,CUST026,Stein Inc,utilities,925.96,net banking,1,3,424.69,1,0
+TXN00970,2026-01-09,CUST026,Hendrix LLC,utilities,590.46,debit card,1,4,378.62,1,0
+TXN01814,2026-01-12,CUST026,"Owen, Gomez and Holmes",travel,661.98,credit card,1,0,464.64,1,0
+TXN00114,2026-02-20,CUST026,"Mckee, Martin and Kirby",utilities,12.48,debit card,2,4,420.35,1,0
+TXN00991,2026-02-24,CUST026,"Harvey, Clark and Butler",shopping,644.15,credit card,2,1,474.1,1,0
+TXN01831,2026-03-03,CUST026,Rivers Ltd,entertainment,742.06,credit card,3,1,551.43,1,0
+TXN01199,2026-03-31,CUST026,Maxwell Ltd,utilities,737.07,credit card,3,1,616.31,1,0
+TXN01181,2026-04-19,CUST026,Shelton PLC,shopping,650.56,debit card,4,6,576.97,1,0
+TXN01077,2026-05-08,CUST026,Elliott Group,entertainment,958.58,UPI,5,4,629.55,1,0
+TXN01853,2026-05-19,CUST026,Ruiz-Mahoney,utilities,461.69,debit card,5,1,600.94,1,0
+TXN00406,2026-05-23,CUST026,"Thomas, Anderson and Santiago",utilities,287.59,credit card,5,5,640.24,1,0
+TXN01064,2025-07-21,CUST027,Reed Inc,travel,950.67,debit card,7,0,950.67,1,0
+TXN01761,2025-07-21,CUST027,Ray and Sons,travel,663.48,debit card,7,0,807.08,1,0
+TXN00732,2025-08-01,CUST027,"Hunt, Randolph and Smith",dining,438.33,UPI,8,4,684.16,1,0
+TXN01103,2025-08-22,CUST027,Davis Inc,utilities,683.15,credit card,8,4,683.91,1,0
+TXN01601,2025-08-24,CUST027,Ferrell-Thompson,groceries,57.35,net banking,8,6,558.6,1,0
+TXN01734,2025-08-25,CUST027,Bauer-Paul,utilities,564.41,UPI,8,0,559.56,1,0
+TXN00174,2025-09-01,CUST027,Hernandez Group,dining,97.79,debit card,9,0,493.6,1,0
+TXN00569,2025-09-03,CUST027,Murray-Short,entertainment,410.86,UPI,9,2,416.48,1,0
+TXN00497,2025-09-28,CUST027,"Sutton, Morrison and Stevens",travel,768.82,credit card,9,6,431.53,1,0
+TXN00414,2025-10-07,CUST027,Bailey-Smith,entertainment,543.75,UPI,10,1,446.59,1,0
+TXN00625,2025-10-15,CUST027,Suarez Group,travel,539.13,credit card,10,2,426.02,1,0
+TXN00282,2025-10-20,CUST027,Davis-Snyder,travel,128.6,UPI,10,0,436.19,1,0
+TXN00351,2025-10-28,CUST027,Unknown Merchant,travel,692.42,debit card,10,1,454.48,1,0
+TXN01613,2025-11-30,CUST027,Fritz PLC,dining,141.34,credit card,11,6,460.7,1,0
+TXN00240,2025-12-07,CUST027,"Lewis, Cooper and Meza",groceries,132.14,net banking,12,6,420.89,1,0
+TXN00935,2025-12-19,CUST027,Stephens PLC,dining,45.66,net banking,12,4,317.58,1,0
+TXN01891,2025-12-23,CUST027,Gallagher Group,dining,171.46,debit card,12,1,264.39,1,0
+TXN01055,2025-12-25,CUST027,Melton LLC,entertainment,736.86,net banking,12,3,292.64,1,0
+TXN00048,2026-01-02,CUST027,Watkins Group,dining,983.98,UPI,1,4,414.84,1,0
+TXN01292,2026-01-13,CUST027,Fuller Inc,dining,892.68,net banking,1,1,443.45,1,0
+TXN01943,2026-01-26,CUST027,"Mcdowell, Li and Potter",dining,552.79,net banking,1,0,502.22,1,0
+TXN01098,2026-02-14,CUST027,Thomas-Taylor,utilities,732.46,net banking,2,5,587.98,1,0
+TXN01489,2026-02-19,CUST027,"Gallegos, White and Cunningham",travel,729.26,debit card,2,3,685.64,1,0
+TXN01623,2026-02-19,CUST027,"Gomez, Humphrey and Hinton",utilities,291.14,debit card,2,3,702.74,1,0
+TXN01224,2026-02-21,CUST027,"Yang, Jones and Hogan",dining,147.47,UPI,2,5,618.54,1,0
+TXN01533,2026-02-23,CUST027,Lane PLC,shopping,541.87,UPI,2,0,555.38,1,0
+TXN01825,2026-03-06,CUST027,"Alvarez, Perry and Foster",groceries,751.09,debit card,3,4,535.15,1,0
+TXN00292,2026-03-11,CUST027,Mckinney PLC,shopping,327.12,debit card,3,2,502.92,1,0
+TXN01614,2026-03-25,CUST027,Perez-Howard,dining,24.13,debit card,3,2,401.73,1,0
+TXN00257,2026-03-28,CUST027,"White, Duncan and Russell",dining,220.96,net banking,3,5,329.11,1,0
+TXN01881,2026-04-02,CUST027,Dorsey Ltd,entertainment,700.66,debit card,4,3,387.61,1,0
+TXN00525,2026-04-18,CUST027,Simmons Inc,utilities,941.59,UPI,4,5,501.06,1,0
+TXN00321,2026-04-24,CUST027,"Arias, Avila and Hall",utilities,867.72,UPI,4,4,547.61,1,0
+TXN00809,2026-04-26,CUST027,"Martin, Davidson and Matthews",dining,272.31,net banking,4,6,479.21,1,0
+TXN01792,2026-04-30,CUST027,Black Ltd,groceries,108.24,net banking,4,3,447.94,1,0
+TXN01688,2026-05-06,CUST027,Montgomery and Sons,entertainment,138.8,UPI,5,2,464.33,1,0
+TXN01848,2026-05-16,CUST027,Pollard-Rogers,entertainment,321.62,credit card,5,5,478.71,1,0
+TXN00010,2026-05-21,CUST027,Sparks Group,travel,361.28,credit card,5,3,430.22,1,0
+TXN01204,2026-05-22,CUST027,Baker-Elliott,utilities,763.0,net banking,5,4,404.71,1,0
+TXN01760,2026-05-27,CUST027,"Levine, Bird and White",travel,750.34,debit card,5,2,387.94,1,0
+TXN01313,2026-06-03,CUST027,Thomas and Sons,utilities,133.51,credit card,6,2,368.11,1,0
+TXN01362,2026-06-15,CUST027,Sanford Ltd,dining,251.59,debit card,6,0,388.59,1,0
+TXN01946,2025-06-22,CUST028,Guzman Inc,utilities,743.89,debit card,6,6,743.89,1,0
+TXN01013,2025-06-25,CUST028,Clark-Webb,dining,720.53,debit card,6,2,732.21,1,0
+TXN01525,2025-06-26,CUST028,Stevens Ltd,utilities,48.85,net banking,6,3,504.42,1,0
+TXN00440,2025-07-06,CUST028,Mack-Scott,groceries,305.84,credit card,7,6,454.78,1,0
+TXN01099,2025-07-06,CUST028,"Wilson, Parsons and Young",groceries,17.21,debit card,7,6,367.26,1,0
+TXN00532,2025-07-12,CUST028,Burton-Wilson,shopping,921.8,UPI,7,5,459.69,1,0
+TXN00227,2025-07-28,CUST028,Gardner-Tyler,shopping,778.9,net banking,7,0,505.29,1,0
+TXN00736,2025-08-07,CUST028,"Cunningham, Obrien and Moody",entertainment,552.93,debit card,8,3,478.01,1,0
+TXN01477,2025-08-21,CUST028,Harrison Ltd,travel,476.83,net banking,8,3,443.19,1,0
+TXN00356,2025-08-24,CUST028,"Taylor, Powell and Young",utilities,894.96,UPI,8,6,564.07,1,0
+TXN00374,2025-08-28,CUST028,"Miller, Johnson and Wade",groceries,340.88,debit card,8,3,569.07,1,0
+TXN00357,2025-09-12,CUST028,"Case, Gilbert and Rojas",entertainment,104.91,debit card,9,4,581.6,1,0
+TXN01875,2025-09-12,CUST028,Schaefer Group,travel,192.44,net banking,9,4,477.41,1,0
+TXN01185,2025-10-01,CUST028,Campbell-Sandoval,dining,447.87,net banking,10,2,430.12,1,0
+TXN00764,2025-10-05,CUST028,Clark and Sons,groceries,122.72,debit card,10,6,368.66,1,0
+TXN00642,2025-10-20,CUST028,Rivera-Pierce,groceries,589.29,UPI,10,0,384.72,1,0
+TXN01804,2025-10-28,CUST028,Spencer-Mora,utilities,968.42,UPI,10,1,395.22,1,0
+TXN00024,2025-11-22,CUST028,Mckee-Crawford,dining,702.77,UPI,11,5,446.92,1,0
+TXN00172,2025-12-05,CUST028,Gaines Ltd,utilities,93.53,credit card,12,4,445.29,1,0
+TXN01936,2025-12-19,CUST028,Warner-Patel,travel,595.67,debit card,12,4,502.9,1,0
+TXN00772,2025-12-29,CUST028,"Woods, Oneal and Foster",groceries,273.04,UPI,12,0,477.92,1,0
+TXN00076,2026-01-01,CUST028,"Harris, Rogers and Larson",groceries,679.3,UPI,1,3,557.43,1,0
+TXN00235,2026-01-16,CUST028,Garza Ltd,groceries,326.65,UPI,1,4,519.91,1,0
+TXN00672,2026-01-24,CUST028,Reyes LLC,dining,12.13,UPI,1,5,383.3,1,0
+TXN00840,2026-01-30,CUST028,"Thomas, Bradley and Kramer",groceries,956.67,credit card,1,4,419.57,1,0
+TXN00971,2026-02-12,CUST028,"Joyce, Shaffer and Wells",entertainment,780.43,UPI,2,3,517.7,1,0
+TXN00755,2026-02-18,CUST028,Ramirez and Sons,shopping,141.67,debit card,2,2,452.84,1,0
+TXN01809,2026-02-18,CUST028,Unknown Merchant,groceries,936.33,net banking,2,2,547.6,1,0
+TXN01488,2026-02-19,CUST028,"Harmon, Schmidt and Warren",utilities,234.61,UPI,2,3,484.07,1,0
+TXN01203,2026-03-10,CUST028,Acevedo-Crawford,shopping,798.03,credit card,3,1,551.41,1,0
+TXN01316,2026-03-13,CUST028,Cole Ltd,entertainment,221.09,UPI,3,4,581.26,1,0
+TXN01585,2026-03-14,CUST028,"Calhoun, Nolan and Powers",dining,895.07,credit card,3,5,572.46,1,0
+TXN01678,2026-03-25,CUST028,Randolph Group,utilities,11475.82,UPI,3,2,2100.37,-1,1
+TXN00438,2026-03-29,CUST028,Sullivan-Horne,shopping,324.65,UPI,3,6,2126.51,-1,1
+TXN01713,2026-03-31,CUST028,"Holmes, Ellis and Harris",shopping,352.03,UPI,3,1,2043.04,-1,1
+TXN01916,2026-03-31,CUST028,Olsen PLC,utilities,97.81,net banking,3,1,2023.5,-1,1
+TXN01337,2026-04-12,CUST028,Jones Inc,groceries,137.74,UPI,4,6,1929.17,-1,1
+TXN01515,2026-04-26,CUST028,Soto-Mcfarland,groceries,252.9,credit card,4,6,1933.72,-1,1
+TXN01741,2026-05-02,CUST028,"Huff, James and Peterson",travel,777.92,debit card,5,5,1916.98,-1,1
+TXN00345,2026-05-04,CUST028,Ward and Sons,travel,412.91,debit card,5,0,336.57,1,0
+TXN01583,2026-05-15,CUST028,Andrews-Smith,groceries,256.61,credit card,5,4,326.85,1,0
+TXN00839,2026-06-15,CUST028,Miller Inc,shopping,426.56,credit card,6,0,337.49,1,0
+TXN01060,2026-06-15,CUST028,Mays LLC,entertainment,573.73,UPI,6,0,405.48,1,0
+TXN00150,2025-06-23,CUST029,"Davis, Hernandez and Leonard",travel,400.52,UPI,6,0,400.52,1,0
+TXN00441,2025-06-25,CUST029,Jones-Smith,shopping,925.43,net banking,6,2,662.97,1,0
+TXN01795,2025-07-07,CUST029,Villanueva Ltd,shopping,360.06,credit card,7,0,562.0,1,0
+TXN00404,2025-07-26,CUST029,"Hendrix, Watson and Porter",groceries,217.7,UPI,7,5,475.93,1,0
+TXN00615,2025-08-15,CUST029,Shaw-Gilbert,shopping,361.1,net banking,8,4,452.96,1,0
+TXN00456,2025-08-16,CUST029,"Morton, Wright and Rose",utilities,863.7,UPI,8,5,521.42,1,0
+TXN01975,2025-08-28,CUST029,Smith PLC,entertainment,965.15,UPI,8,3,584.81,1,0
+TXN01243,2025-09-03,CUST029,"Hansen, Harris and Adams",dining,996.28,net banking,9,2,669.92,1,0
+TXN00482,2025-09-09,CUST029,Brewer Ltd,groceries,412.84,credit card,9,1,596.69,1,0
+TXN00571,2025-09-12,CUST029,"Cruz, Ware and Pugh",entertainment,479.93,debit card,9,4,613.81,1,0
+TXN00654,2025-09-13,CUST029,"Travis, Adams and Chandler",groceries,642.69,net banking,9,5,674.53,1,0
+TXN00364,2025-09-30,CUST029,Elliott-Miller,shopping,313.25,debit card,9,1,667.69,1,0
+TXN01684,2025-09-30,CUST029,Lee-Wolf,travel,347.29,net banking,9,1,593.92,1,0
+TXN01539,2025-10-04,CUST029,"Moyer, Figueroa and Washington",shopping,978.65,debit card,10,5,595.85,1,0
+TXN00267,2025-11-06,CUST029,"Mills, Santos and Woods",dining,707.04,debit card,11,3,554.53,1,0
+TXN00938,2025-11-06,CUST029,Baldwin-Calhoun,entertainment,618.87,credit card,11,3,583.96,1,0
+TXN01588,2025-11-24,CUST029,"Martin, Carter and Brown",entertainment,981.04,UPI,11,0,655.55,1,0
+TXN01743,2025-11-26,CUST029,"Gonzales, King and Hardin",groceries,195.99,UPI,11,2,591.73,1,0
+TXN00911,2025-12-12,CUST029,Moore-Foster,shopping,403.26,debit card,12,4,604.59,1,0
+TXN01514,2025-12-18,CUST029,Cline-Flores,groceries,351.62,UPI,12,3,605.21,1,0
+TXN01180,2025-12-31,CUST029,French and Sons,entertainment,252.26,UPI,12,2,501.44,1,0
+TXN00030,2026-01-05,CUST029,Sanchez-Vega,groceries,184.73,UPI,1,0,426.82,1,0
+TXN00687,2026-01-28,CUST029,Fischer and Sons,dining,760.96,UPI,1,2,447.12,1,0
+TXN01751,2026-02-01,CUST029,Dean-Ross,groceries,729.25,debit card,2,6,411.15,1,0
+TXN00942,2026-02-28,CUST029,Smith-Barron,dining,133.52,debit card,2,5,402.23,1,0
+TXN01468,2026-03-13,CUST029,Jackson-Callahan,groceries,919.09,credit card,3,4,475.92,1,0
+TXN00408,2026-04-15,CUST029,Yu LLC,entertainment,225.98,net banking,4,2,457.97,1,0
+TXN01962,2026-04-24,CUST029,"Baxter, Anderson and Jones",groceries,957.11,UPI,4,4,558.66,1,0
+TXN01571,2026-04-26,CUST029,Cantu-Hamilton,dining,859.58,UPI,4,6,655.07,1,0
+TXN01057,2026-04-29,CUST029,Hart and Sons,groceries,655.51,debit card,4,2,640.01,1,0
+TXN00075,2026-05-05,CUST029,"Gonzalez, Wilson and Wright",shopping,767.37,net banking,5,1,645.45,1,0
+TXN00202,2026-05-06,CUST029,Armstrong and Sons,entertainment,321.83,net banking,5,2,672.35,1,0
+TXN00262,2026-05-21,CUST029,Galvan LLC,groceries,811.65,net banking,5,3,657.0,1,0
+TXN01040,2026-06-08,CUST029,Vaughn-Kidd,entertainment,976.62,debit card,6,0,764.24,1,0
+TXN00919,2026-06-09,CUST029,Smith-Mann,dining,506.37,UPI,6,1,699.85,1,0
+TXN00325,2026-06-10,CUST029,"Doyle, Adams and Boone",entertainment,314.53,net banking,6,2,621.98,1,0
+TXN01022,2025-06-23,CUST030,Unknown Merchant,utilities,528.56,net banking,6,0,528.56,1,0
+TXN01505,2025-06-26,CUST030,"Blair, Young and Dillon",groceries,859.23,UPI,6,3,693.9,1,0
+TXN01246,2025-07-11,CUST030,"Edwards, Richards and Alexander",utilities,264.4,debit card,7,4,550.73,1,0
+TXN01813,2025-07-22,CUST030,Hutchinson Ltd,dining,368.57,net banking,7,1,505.19,1,0
+TXN01878,2025-07-31,CUST030,Hart-Owen,utilities,863.69,net banking,7,3,576.89,1,0
+TXN01807,2025-08-15,CUST030,"Cook, Foster and Johnston",travel,548.98,credit card,8,4,572.24,1,0
+TXN01799,2025-08-24,CUST030,"Green, Lopez and Sanders",groceries,184.29,credit card,8,6,516.82,1,0
+TXN01996,2025-08-27,CUST030,"Webb, Patel and Howard",entertainment,268.11,debit card,8,2,479.61,1,0
+TXN00570,2025-09-25,CUST030,Hunt-Clark,entertainment,342.77,net banking,9,3,405.83,1,0
+TXN00366,2025-10-04,CUST030,Harris Inc,entertainment,137.74,net banking,10,5,387.74,1,0
+TXN01229,2025-10-04,CUST030,Rodriguez LLC,shopping,653.37,debit card,10,5,428.42,1,0
+TXN00425,2025-10-11,CUST030,Rodriguez PLC,shopping,736.36,debit card,10,5,410.23,1,0
+TXN01184,2025-10-11,CUST030,White Inc,entertainment,998.48,UPI,10,5,474.45,1,0
+TXN00915,2025-10-24,CUST030,"Tate, Li and Hale",travel,240.31,net banking,10,4,482.45,1,0
+TXN00865,2025-11-30,CUST030,"Stewart, Norman and Brooks",entertainment,854.45,debit card,11,6,566.21,1,0
+TXN01470,2025-12-03,CUST030,Wade-Gonzalez,entertainment,127.34,debit card,12,2,535.44,1,0
+TXN01190,2025-12-24,CUST030,Lee LLC,utilities,681.64,credit card,12,2,613.14,1,0
+TXN00880,2025-12-27,CUST030,Bowers Ltd,dining,921.73,UPI,12,5,651.47,1,0
+TXN01977,2025-12-31,CUST030,Stevenson Inc,entertainment,206.82,UPI,12,2,575.82,1,0
+TXN01699,2026-01-06,CUST030,Holloway-Graham,entertainment,578.48,debit card,1,1,515.82,1,0
+TXN01420,2026-02-07,CUST030,"Stanley, King and Harrison",groceries,973.0,net banking,2,5,620.49,1,0
+TXN01308,2026-02-19,CUST030,Morgan LLC,travel,510.13,UPI,2,3,571.31,1,0
+TXN00151,2026-02-28,CUST030,Hardin-Garcia,entertainment,22.67,credit card,2,5,556.35,1,0
+TXN01790,2026-03-01,CUST030,Robles-Aguilar,entertainment,368.88,net banking,3,6,511.67,1,0
+TXN01797,2026-03-07,CUST030,"Campos, Suarez and Harris",entertainment,220.55,UPI,3,5,411.5,1,0
+TXN01548,2026-03-15,CUST030,"Byrd, Stone and Myers",dining,277.57,net banking,3,6,421.61,1,0
+TXN01997,2026-03-22,CUST030,Wells Group,utilities,765.28,debit card,3,6,448.3,1,0
+TXN00003,2026-03-27,CUST030,"Rodriguez, Turner and Stewart",travel,853.25,UPI,3,4,431.19,1,0
+TXN00007,2026-04-07,CUST030,Hunter-Oliver,shopping,77.41,UPI,4,1,369.37,1,0
+TXN01626,2026-04-21,CUST030,Scott Ltd,utilities,481.5,net banking,4,1,434.92,1,0
+TXN01008,2026-04-29,CUST030,Clark-Thomas,groceries,870.38,net banking,4,2,506.56,1,0
+TXN00287,2026-05-22,CUST030,Young-Gonzalez,dining,558.17,credit card,5,4,554.79,1,0
+TXN00475,2026-05-28,CUST030,Anderson-Ramirez,entertainment,176.34,credit card,5,3,540.33,1,0
+TXN01351,2026-06-02,CUST030,Rice-Silva,dining,328.97,UPI,6,1,478.0,1,0
+TXN00546,2025-07-07,CUST031,Morales Group,shopping,318.03,debit card,7,0,318.03,1,0
+TXN01798,2025-08-07,CUST031,Knapp-Stone,dining,44.87,UPI,8,3,181.45,1,0
+TXN01134,2025-08-22,CUST031,Nelson-Williams,utilities,739.83,net banking,8,4,367.58,1,0
+TXN00516,2025-08-25,CUST031,Franklin and Sons,utilities,598.52,credit card,8,0,425.31,1,0
+TXN01729,2025-08-30,CUST031,"Phillips, Michael and Flynn",entertainment,399.45,credit card,8,5,420.14,1,0
+TXN01730,2025-08-31,CUST031,"Davis, Moore and Peters",dining,454.82,UPI,8,6,425.92,1,0
+TXN01811,2025-09-06,CUST031,Lee Inc,travel,292.56,debit card,9,5,406.87,1,0
+TXN00373,2025-09-14,CUST031,Turner Group,utilities,27.15,UPI,9,6,365.31,1,0
+TXN00583,2025-09-14,CUST031,Williams-Vasquez,travel,836.44,net banking,9,6,478.4,1,0
+TXN00390,2025-09-17,CUST031,Johnson PLC,dining,777.25,debit card,9,2,483.74,1,0
+TXN00743,2025-09-23,CUST031,Johnson-Nolan,dining,978.27,debit card,9,1,537.99,1,0
+TXN01296,2025-09-23,CUST031,"Bryan, Thomas and Andrews",groceries,671.84,net banking,9,1,576.9,1,0
+TXN00263,2025-10-08,CUST031,Baird Ltd,dining,152.71,net banking,10,2,533.75,1,0
+TXN00496,2025-10-20,CUST031,"Martinez, Gibson and Jimenez",entertainment,484.41,credit card,10,0,561.15,1,0
+TXN00579,2025-10-30,CUST031,Franklin PLC,travel,978.36,UPI,10,3,697.04,1,0
+TXN01615,2025-10-31,CUST031,Lopez Ltd,utilities,934.09,debit card,10,4,710.99,1,0
+TXN01381,2025-11-15,CUST031,James-Thompson,utilities,864.19,UPI,11,5,723.41,1,0
+TXN01072,2025-11-19,CUST031,"Horn, Perez and Rodriguez",entertainment,111.0,UPI,11,2,599.51,1,0
+TXN01341,2025-11-22,CUST031,Wright LLC,travel,450.03,net banking,11,5,567.83,1,0
+TXN00872,2025-11-28,CUST031,Moore Group,travel,10.69,debit card,11,4,547.54,1,0
+TXN00664,2025-11-29,CUST031,Oneill-Fox,shopping,271.29,net banking,11,5,517.09,1,0
+TXN00984,2025-12-01,CUST031,Unknown Merchant,utilities,890.8,debit card,12,0,504.58,1,0
+TXN00106,2025-12-09,CUST031,"Murphy, Ware and Frost",entertainment,461.47,UPI,12,1,437.07,1,0
+TXN01906,2025-12-12,CUST031,"Cunningham, Patterson and Cantu",travel,527.61,credit card,12,4,388.98,1,0
+TXN01369,2025-12-13,CUST031,"Massey, Burns and Daniels",shopping,18.76,net banking,12,5,375.81,1,0
+TXN01893,2025-12-16,CUST031,"Mercer, Walker and Jones",travel,18.51,debit card,12,1,314.16,1,0
+TXN00377,2026-01-05,CUST031,Cooper Ltd,dining,417.72,credit card,1,0,372.31,1,0
+TXN01922,2026-01-05,CUST031,"Mcdowell, Anderson and Bonilla",groceries,776.99,UPI,1,0,444.55,1,0
+TXN00118,2026-01-10,CUST031,"Pacheco, Boyer and Fuentes",travel,26.83,credit card,1,5,321.13,1,0
+TXN01306,2026-01-19,CUST031,"Keller, Norris and Contreras",entertainment,477.76,net banking,1,0,323.45,1,0
+TXN01609,2026-02-17,CUST031,Stark and Sons,utilities,727.49,debit card,2,1,352.01,1,0
+TXN01438,2026-02-27,CUST031,Gonzalez-Christensen,dining,129.22,debit card,2,4,367.79,1,0
+TXN00562,2026-03-17,CUST031,"Rios, Jenkins and Taylor",shopping,650.14,net banking,3,1,458.02,1,0
+TXN01396,2026-03-27,CUST031,Petersen-Nunez,utilities,660.26,credit card,3,4,492.67,1,0
+TXN01692,2026-03-29,CUST031,"King, Hernandez and Miller",travel,254.18,credit card,3,6,417.98,1,0
+TXN01536,2026-04-07,CUST031,Bass-Martinez,travel,916.19,UPI,4,1,545.03,1,0
+TXN00905,2026-04-18,CUST031,Lopez-Camacho,shopping,600.53,net banking,4,5,562.57,1,0
+TXN00479,2026-04-19,CUST031,"Roberts, Carter and Mueller",dining,518.87,UPI,4,6,532.77,1,0
+TXN01970,2026-04-24,CUST031,Williams PLC,shopping,876.71,UPI,4,4,639.55,1,0
+TXN01883,2026-04-27,CUST031,Chambers and Sons,travel,423.11,net banking,4,0,607.12,1,0
+TXN00043,2026-05-12,CUST031,Gillespie-Hart,travel,961.49,credit card,5,1,650.15,1,0
+TXN01231,2026-05-16,CUST031,"Hill, Hoffman and Parker",travel,315.65,net banking,5,5,658.94,1,0
+TXN01956,2026-05-22,CUST031,"Cannon, Shelton and Diaz",utilities,598.01,net banking,5,4,613.48,1,0
+TXN01433,2026-05-27,CUST031,Herring Group,groceries,285.7,UPI,5,2,568.51,1,0
+TXN00241,2026-06-05,CUST031,"Hayes, Cabrera and Bailey",dining,538.55,UPI,6,4,571.32,1,0
+TXN00165,2026-06-10,CUST031,"Miller, Griffin and Mcgee",groceries,955.93,credit card,6,2,582.63,1,0
+TXN01467,2026-06-10,CUST031,"Garcia, Woodard and Bond",utilities,402.12,debit card,6,2,579.64,1,0
+TXN01968,2026-06-10,CUST031,Bradshaw LLC,dining,310.47,UPI,6,2,486.63,1,0
+TXN00350,2026-06-13,CUST031,Wagner LLC,dining,662.34,net banking,6,5,536.16,1,0
+TXN01446,2025-06-18,CUST032,Gonzalez-Davis,travel,111.49,net banking,6,2,111.49,1,0
+TXN00430,2025-06-24,CUST032,Anderson-Martinez,entertainment,920.33,debit card,6,1,515.91,1,0
+TXN00289,2025-07-02,CUST032,Hubbard Ltd,travel,537.91,credit card,7,2,523.24,1,0
+TXN00454,2025-07-09,CUST032,Kaufman Inc,entertainment,37.09,UPI,7,2,401.7,1,0
+TXN01685,2025-07-11,CUST032,Rhodes Inc,shopping,64.05,UPI,7,4,334.17,1,0
+TXN01383,2025-07-15,CUST032,"Williams, Garner and Krause",shopping,771.06,credit card,7,1,406.99,1,0
+TXN00348,2025-07-21,CUST032,White Inc,utilities,832.17,credit card,7,0,467.73,1,0
+TXN00879,2025-08-02,CUST032,"Rodriguez, Day and Mendez",shopping,857.44,credit card,8,5,574.29,1,0
+TXN00110,2025-08-08,CUST032,Knight-Odonnell,utilities,352.54,debit card,8,4,493.18,1,0
+TXN01732,2025-08-08,CUST032,Mclean Inc,utilities,859.63,UPI,8,4,539.14,1,0
+TXN01324,2025-08-23,CUST032,Morrison-Duran,utilities,387.97,UPI,8,5,589.27,1,0
+TXN00336,2025-09-14,CUST032,Peterson LLC,travel,154.44,net banking,9,6,602.18,1,0
+TXN01417,2025-09-15,CUST032,Dominguez Ltd,shopping,525.66,credit card,9,0,567.12,1,0
+TXN01653,2025-09-15,CUST032,Johnson PLC,utilities,548.29,UPI,9,0,526.57,1,0
+TXN00208,2025-09-18,CUST032,Bennett Inc,groceries,713.9,net banking,9,3,506.06,1,0
+TXN00924,2025-09-19,CUST032,Roach LLC,groceries,101.81,UPI,9,4,470.24,1,0
+TXN01315,2025-09-26,CUST032,"Andrade, Blevins and Brown",travel,436.39,UPI,9,4,409.78,1,0
+TXN01986,2025-10-13,CUST032,Bowen-Carter,dining,683.41,net banking,10,0,451.99,1,0
+TXN00760,2025-10-17,CUST032,"Shelton, Smith and Robinson",utilities,789.4,net banking,10,4,542.69,1,0
+TXN00102,2025-10-26,CUST032,Terry-Martinez,groceries,406.58,UPI,10,6,525.68,1,0
+TXN01443,2025-11-03,CUST032,"Reese, Myers and Boyd",shopping,652.37,net banking,11,0,540.55,1,0
+TXN01116,2025-11-19,CUST032,Anderson-Love,entertainment,964.82,net banking,11,2,576.4,1,0
+TXN00228,2025-11-24,CUST032,Hutchinson Inc,dining,700.83,net banking,11,0,661.97,1,0
+TXN00894,2025-12-15,CUST032,Mullins Ltd,entertainment,795.57,UPI,12,0,713.28,1,0
+TXN00070,2025-12-30,CUST032,Davenport-Garcia,utilities,95.73,net banking,12,1,629.33,1,0
+TXN00957,2025-12-30,CUST032,Nelson Inc,shopping,421.97,debit card,12,1,576.84,1,0
+TXN01830,2025-12-30,CUST032,Lewis Group,dining,282.07,net banking,12,1,559.05,1,0
+TXN01169,2026-01-05,CUST032,"Smith, Chen and Pope",entertainment,497.14,credit card,1,0,536.88,1,0
+TXN01616,2026-01-11,CUST032,"Rice, Howe and Thomas",dining,789.49,UPI,1,6,511.83,1,0
+TXN00710,2026-01-20,CUST032,"Elliott, Dickerson and Choi",utilities,848.01,credit card,1,1,532.85,1,0
+TXN01847,2026-01-26,CUST032,Taylor-Jones,shopping,658.36,UPI,1,0,513.25,1,0
+TXN01406,2026-02-03,CUST032,Williams-Kelly,utilities,507.16,credit card,2,1,572.03,1,0
+TXN01221,2026-02-04,CUST032,Edwards-Clark,groceries,675.32,credit card,2,2,608.22,1,0
+TXN01919,2026-02-11,CUST032,Cox-Taylor,utilities,931.77,net banking,2,2,701.04,1,0
+TXN00665,2026-02-17,CUST032,Harris-Barron,shopping,467.77,credit card,2,1,696.84,1,0
+TXN00319,2026-02-21,CUST032,"Herrera, Beltran and Schwartz",groceries,462.11,credit card,2,5,650.07,1,0
+TXN00061,2026-03-09,CUST032,Hill and Sons,travel,230.94,credit card,3,0,561.92,1,0
+TXN00316,2026-03-13,CUST032,Weeks Inc,groceries,514.98,credit card,3,4,541.44,1,0
+TXN00309,2026-04-11,CUST032,"Jimenez, Jackson and Martinez",travel,310.15,net banking,4,5,513.29,1,0
+TXN00275,2026-04-12,CUST032,Koch-Santos,shopping,713.15,net banking,4,6,518.7,1,0
+TXN01541,2026-04-17,CUST032,Oneill-Diaz,dining,797.09,credit card,4,4,499.46,1,0
+TXN01085,2026-04-18,CUST032,Hall PLC,shopping,595.6,credit card,4,5,517.72,1,0
+TXN00792,2026-05-19,CUST032,Bray-Haley,shopping,220.68,credit card,5,1,483.23,1,0
+TXN00298,2026-05-22,CUST032,Atkinson-Douglas,shopping,390.21,net banking,5,4,505.98,1,0
+TXN01345,2026-05-31,CUST032,Marks-Graves,groceries,914.6,debit card,5,6,563.07,1,0
+TXN01628,2026-06-03,CUST032,"Chavez, Hanson and Browning",travel,579.66,UPI,6,2,601.57,1,0
+TXN01720,2026-06-05,CUST032,"Shaw, Ortega and Melton",shopping,995.85,debit card,6,4,641.96,1,0
+TXN01602,2026-06-11,CUST032,"Mcintosh, Miller and Ruiz",utilities,175.09,credit card,6,3,553.1,1,0
+TXN00031,2026-06-15,CUST032,Robinson-Hester,groceries,166.42,net banking,6,0,491.79,1,0
+TXN01573,2025-06-29,CUST033,"Wright, Hill and Tucker",entertainment,392.23,credit card,6,6,392.23,1,0
+TXN01037,2025-06-30,CUST033,Romero-Bennett,groceries,19.02,UPI,6,0,205.62,1,0
+TXN01067,2025-07-04,CUST033,Moore Inc,utilities,726.42,debit card,7,4,379.22,1,0
+TXN00834,2025-07-05,CUST033,"Bullock, Robinson and Barron",dining,985.22,credit card,7,5,530.72,1,0
+TXN01667,2025-07-20,CUST033,Willis Group,travel,501.24,net banking,7,6,524.83,1,0
+TXN01532,2025-08-29,CUST033,Boyd-Lam,utilities,452.48,credit card,8,4,512.77,1,0
+TXN00284,2025-09-01,CUST033,"Patton, Barnes and Jefferson",utilities,112.16,net banking,9,0,455.54,1,0
+TXN00786,2025-09-14,CUST033,Stanton-Todd,utilities,134.87,UPI,9,6,418.77,1,0
+TXN00214,2025-09-18,CUST033,Hodges-Reid,shopping,831.03,credit card,9,3,534.77,1,0
+TXN01901,2025-09-25,CUST033,Jordan-Schwartz,utilities,6265.36,debit card,9,3,1326.05,-1,1
+TXN01091,2025-09-30,CUST033,"Wilson, Burgess and Parker",dining,275.1,debit card,9,1,1224.61,1,0
+TXN01162,2025-10-02,CUST033,"Reyes, Perry and Peck",travel,197.04,debit card,10,3,1181.15,1,0
+TXN01808,2025-10-04,CUST033,"Cunningham, Bailey and Pacheco",dining,718.7,debit card,10,5,1219.18,1,0
+TXN00835,2025-10-06,CUST033,"Cox, Moore and Lewis",shopping,314.6,debit card,10,0,1248.1,1,0
+TXN00549,2025-10-17,CUST033,"Smith, Perry and Espinoza",dining,622.02,credit card,10,4,1317.69,1,0
+TXN00824,2025-10-18,CUST033,"Kaufman, Allison and Hart",dining,497.46,credit card,10,5,1270.04,1,0
+TXN00759,2025-10-21,CUST033,Kelley LLC,dining,308.78,debit card,10,1,419.1,1,0
+TXN01279,2025-10-23,CUST033,"Edwards, Sellers and Jones",travel,575.96,net banking,10,3,462.08,1,0
+TXN01326,2025-10-25,CUST033,Cook LLC,shopping,37.66,debit card,10,5,439.31,1,0
+TXN01404,2025-11-17,CUST033,"Adams, Scott and Patton",shopping,921.65,UPI,11,0,468.3,1,0
+TXN00807,2025-11-23,CUST033,"Torres, Conley and Wang",groceries,299.57,credit card,11,6,466.16,1,0
+TXN00993,2025-11-29,CUST033,Ford-Williams,shopping,520.76,UPI,11,5,451.69,1,0
+TXN00154,2025-11-30,CUST033,"Harmon, Sutton and Wu",shopping,754.47,net banking,11,6,488.41,1,0
+TXN01245,2025-12-01,CUST033,"Hernandez, Shaffer and Hall",entertainment,271.7,debit card,12,0,483.11,1,0
+TXN01334,2025-12-01,CUST033,Lewis-Moreno,shopping,925.06,credit card,12,0,532.98,1,0
+TXN01127,2025-12-09,CUST033,Perry-Giles,groceries,457.02,credit card,12,1,592.89,1,0
+TXN01888,2025-12-17,CUST033,Stout-Hurley,dining,863.93,net banking,12,2,584.64,1,0
+TXN00574,2025-12-21,CUST033,"Novak, Gould and Chan",shopping,145.02,UPI,12,6,562.57,1,0
+TXN00428,2025-12-27,CUST033,Ross Inc,travel,611.55,credit card,12,5,575.54,1,0
+TXN00248,2026-01-16,CUST033,White PLC,groceries,881.95,credit card,1,4,593.75,1,0
+TXN00968,2026-01-21,CUST033,"Morris, Hooper and Zhang",utilities,710.2,debit card,1,2,656.39,1,0
+TXN00021,2026-01-30,CUST033,Williams-Lee,groceries,950.19,net banking,1,4,659.98,1,0
+TXN00340,2026-01-30,CUST033,Davis-Meyers,shopping,702.67,debit card,1,4,695.07,1,0
+TXN01736,2026-01-31,CUST033,"Baker, Terrell and Larson",groceries,864.85,debit card,1,5,695.2,1,0
+TXN00035,2026-02-02,CUST033,Romero Group,groceries,730.33,credit card,2,0,778.82,1,0
+TXN01319,2026-02-03,CUST033,Wood-Ramirez,utilities,532.34,net banking,2,1,767.5,1,0
+TXN00095,2026-03-02,CUST033,Williams-Maldonado,shopping,918.07,net banking,3,0,772.66,1,0
+TXN01575,2026-03-03,CUST033,Dawson and Sons,groceries,956.93,net banking,3,1,807.91,1,0
+TXN00230,2026-03-07,CUST033,Hall and Sons,travel,607.1,credit card,3,5,758.9,1,0
+TXN00740,2026-03-09,CUST033,Grant-Villa,entertainment,452.98,net banking,3,0,723.23,1,0
+TXN00909,2026-03-13,CUST033,Unknown Merchant,groceries,157.29,UPI,3,4,622.15,1,0
+TXN00909,2026-03-13,CUST033,Simpson Ltd,groceries,157.29,UPI,3,4,540.29,1,0
+TXN00862,2026-03-17,CUST033,Carter-Tucker,shopping,292.18,debit card,3,1,505.98,1,0
+TXN00249,2026-03-25,CUST033,Hayes-Wagner,entertainment,883.1,UPI,3,2,500.98,1,0
+TXN01177,2026-03-25,CUST033,"Fox, Webb and Haney",entertainment,807.08,UPI,3,2,479.57,1,0
+TXN01428,2026-03-31,CUST033,"Carson, Mcgee and Wells",travel,727.23,debit card,3,1,496.74,1,0
+TXN01608,2026-04-01,CUST033,"Hernandez, Ward and Frazier",entertainment,114.21,credit card,4,2,448.34,1,0
+TXN01608,2026-04-01,CUST033,"Hernandez, Ward and Frazier",groceries,114.21,credit card,4,2,442.19,1,0
+TXN01735,2026-04-12,CUST033,Peterson-Graves,dining,280.19,net banking,4,6,459.74,1,0
+TXN00644,2026-05-09,CUST033,Pacheco-Schaefer,utilities,771.69,net banking,5,5,528.24,1,0
+TXN00052,2026-05-26,CUST033,Keller LLC,groceries,549.4,net banking,5,1,480.57,1,0
+TXN00371,2026-06-11,CUST033,Bradley PLC,groceries,833.38,UPI,6,3,484.33,1,0
+TXN00518,2025-06-20,CUST034,"Watkins, Kirk and Rodriguez",dining,474.89,UPI,6,4,474.89,1,0
+TXN01820,2025-06-21,CUST034,"Cruz, Ellis and Allison",travel,624.71,credit card,6,5,549.8,1,0
+TXN01358,2025-06-30,CUST034,"Jackson, Burton and Ward",utilities,457.31,UPI,6,0,518.97,1,0
+TXN00596,2025-07-01,CUST034,"Williams, Duncan and Byrd",groceries,598.14,credit card,7,1,538.76,1,0
+TXN00852,2025-07-16,CUST034,Brooks-Perez,shopping,88.16,UPI,7,2,448.64,1,0
+TXN01140,2025-07-22,CUST034,Moyer-Lopez,dining,942.17,debit card,7,1,530.9,1,0
+TXN00680,2025-07-23,CUST034,Garcia-Wilson,groceries,828.78,credit card,7,2,573.45,1,0
+TXN01094,2025-08-05,CUST034,Barajas-Hernandez,entertainment,416.07,net banking,8,1,565.05,1,0
+TXN00802,2025-09-02,CUST034,"Day, Holland and Jackson",utilities,821.23,credit card,9,1,593.12,1,0
+TXN01855,2025-09-03,CUST034,Hanson-Rios,utilities,938.01,credit card,9,2,661.79,1,0
+TXN01225,2025-09-04,CUST034,Snow-Johns,entertainment,590.34,net banking,9,3,660.68,1,0
+TXN00485,2025-09-23,CUST034,Phelps-Mcintyre,shopping,153.34,UPI,9,1,669.99,1,0
+TXN00116,2025-09-29,CUST034,"Castillo, Butler and Hernandez",groceries,948.26,net banking,9,0,670.86,1,0
+TXN01882,2025-10-07,CUST034,Dominguez Group,shopping,498.16,credit card,10,1,623.63,1,0
+TXN00338,2025-10-13,CUST034,"Johnson, Rodriguez and Rodriguez",dining,338.47,net banking,10,0,612.54,1,0
+TXN00635,2025-11-09,CUST034,Smith-Murray,shopping,345.5,UPI,11,6,544.58,1,0
+TXN00914,2025-11-24,CUST034,"Spencer, Santiago and Nichols",groceries,845.22,credit card,11,0,531.33,1,0
+TXN00253,2025-12-04,CUST034,Li LLC,utilities,915.09,net banking,12,3,577.72,1,0
+TXN00113,2025-12-06,CUST034,Hall and Sons,groceries,652.16,UPI,12,5,648.98,1,0
+TXN01388,2025-12-17,CUST034,"Smith, Miller and Perez",utilities,759.0,UPI,12,2,621.94,1,0
+TXN00726,2025-12-27,CUST034,Rogers-Shannon,dining,809.46,UPI,12,5,666.41,1,0
+TXN01175,2026-01-03,CUST034,Montes Group,entertainment,982.11,net banking,1,5,758.36,1,0
+TXN00367,2026-01-15,CUST034,"Rodriguez, Gonzalez and Jones",shopping,297.83,UPI,1,3,751.55,1,0
+TXN01024,2026-01-15,CUST034,Mcfarland Group,dining,202.16,net banking,1,3,659.69,1,0
+TXN01995,2026-01-16,CUST034,"Hanson, Johnson and Lloyd",dining,282.12,net banking,1,4,569.26,1,0
+TXN00132,2026-01-20,CUST034,Mccarthy-Davis,utilities,960.75,UPI,1,1,613.35,1,0
+TXN00869,2026-02-03,CUST034,"Small, Stark and Ford",shopping,592.2,debit card,2,1,589.52,1,0
+TXN01139,2026-02-10,CUST034,Alvarez Group,entertainment,598.4,debit card,2,1,559.37,1,0
+TXN00407,2026-02-21,CUST034,Rivera-Ramos,dining,300.33,debit card,2,5,461.97,1,0
+TXN01274,2026-03-05,CUST034,Cochran Ltd,travel,284.48,UPI,3,3,460.06,1,0
+TXN01989,2026-03-31,CUST034,Crawford-Randall,entertainment,179.4,net banking,3,1,456.81,1,0
+TXN00623,2026-06-03,CUST034,Hayes Ltd,utilities,360.93,credit card,6,2,468.07,1,0
+TXN00752,2026-06-09,CUST034,"Carter, Greene and Donaldson",groceries,112.09,UPI,6,1,346.83,1,0
+TXN01317,2025-07-03,CUST035,Dean-Kennedy,travel,6976.65,credit card,7,3,6976.65,-1,1
+TXN00328,2025-07-23,CUST035,"Riley, Adams and Wagner",utilities,19.9,UPI,7,2,3498.27,-1,1
+TXN01156,2025-08-01,CUST035,Perez-Hines,travel,306.08,credit card,8,4,2434.21,-1,1
+TXN01258,2025-08-16,CUST035,Unknown Merchant,groceries,964.41,credit card,8,5,2066.76,-1,1
+TXN01075,2025-08-20,CUST035,"Lopez, Arnold and Price",travel,622.94,debit card,8,2,1778.0,-1,1
+TXN01738,2025-08-26,CUST035,Reed-Smith,utilities,488.14,net banking,8,1,1563.02,1,0
+TXN00138,2025-08-30,CUST035,Cooper Group,entertainment,527.24,net banking,8,5,1415.05,1,0
+TXN00510,2025-09-01,CUST035,Unknown Merchant,dining,81.37,UPI,9,0,430.01,1,0
+TXN00864,2025-09-04,CUST035,Cooke-Dean,utilities,254.85,credit card,9,3,463.58,1,0
+TXN01411,2025-10-08,CUST035,Lee-Boyer,shopping,485.08,UPI,10,2,489.15,1,0
+TXN01863,2025-10-16,CUST035,"Garcia, Martinez and Hodges",entertainment,531.37,UPI,10,3,427.28,1,0
+TXN01895,2025-10-18,CUST035,Mathis-Medina,groceries,595.09,net banking,10,5,423.31,1,0
+TXN00799,2025-10-21,CUST035,Gregory-Gross,travel,616.81,credit card,10,1,441.69,1,0
+TXN01173,2025-10-24,CUST035,Watkins-Prince,groceries,737.12,UPI,10,4,471.67,1,0
+TXN00489,2025-10-27,CUST035,Vasquez-Harmon,dining,197.46,debit card,10,0,488.25,1,0
+TXN00499,2025-11-01,CUST035,"Reilly, Mann and Williams",entertainment,108.06,credit card,11,5,467.28,1,0
+TXN00867,2025-11-01,CUST035,Bryant-Johnson,shopping,755.41,debit card,11,5,505.9,1,0
+TXN01157,2025-11-15,CUST035,"Sanders, Garcia and Gomez",dining,195.84,UPI,11,5,457.97,1,0
+TXN01856,2025-11-18,CUST035,"Wood, Goodwin and Thomas",shopping,664.6,net banking,11,1,467.9,1,0
+TXN00145,2025-12-03,CUST035,"Mcbride, Owen and Duarte",groceries,272.94,net banking,12,2,418.78,1,0
+TXN01695,2025-12-05,CUST035,Unknown Merchant,shopping,917.12,credit card,12,4,444.49,1,0
+TXN01164,2025-12-06,CUST035,"Taylor, Herrera and Dawson",entertainment,258.75,credit card,12,5,453.25,1,0
+TXN00359,2025-12-14,CUST035,"Rivera, Lee and Nash",utilities,39.87,debit card,12,6,443.5,1,0
+TXN00018,2025-12-25,CUST035,Ramirez Inc,travel,871.08,credit card,12,3,460.03,1,0
+TXN00697,2025-12-30,CUST035,Brown-White,entertainment,372.81,credit card,12,1,485.31,1,0
+TXN01314,2026-01-17,CUST035,Jacobson-Edwards,shopping,843.26,credit card,1,5,510.83,1,0
+TXN01086,2026-01-21,CUST035,"Pope, Butler and Clay",entertainment,865.0,debit card,1,2,595.41,1,0
+TXN01983,2026-01-31,CUST035,Spence LLC,groceries,766.9,credit card,1,5,573.95,1,0
+TXN01948,2026-02-23,CUST035,Dunn-Wright,travel,864.27,credit card,2,0,660.46,1,0
+TXN00243,2026-03-13,CUST035,Crane LLC,groceries,540.59,debit card,3,4,731.99,1,0
+TXN01014,2026-03-18,CUST035,Proctor and Sons,travel,912.87,UPI,3,2,737.96,1,0
+TXN01954,2026-03-30,CUST035,Brown-Brown,travel,804.6,credit card,3,0,799.64,1,0
+TXN00037,2026-04-04,CUST035,Unknown Merchant,dining,247.14,net banking,4,5,714.48,1,0
+TXN00696,2026-04-04,CUST035,"Singh, Mullins and Coleman",travel,321.28,credit card,4,5,636.81,1,0
+TXN01754,2026-04-13,CUST035,Gonzalez-Rosario,groceries,43.12,credit card,4,0,533.41,1,0
+TXN00853,2026-04-17,CUST035,Hughes-Melendez,utilities,20.86,net banking,4,4,412.92,1,0
+TXN00803,2026-04-28,CUST035,"Thomas, Hensley and Moore",dining,155.58,debit card,4,1,357.92,1,0
+TXN00515,2026-05-01,CUST035,Ortega-Lee,shopping,273.57,credit card,5,4,266.59,1,0
+TXN00661,2026-05-04,CUST035,Smith and Sons,groceries,285.48,net banking,5,0,192.43,1,0
+TXN01757,2026-05-22,CUST035,Kim-Chen,utilities,557.79,net banking,5,4,236.81,1,0
+TXN00460,2025-07-07,CUST036,Johnson Inc,groceries,590.02,debit card,7,0,590.02,1,0
+TXN00670,2025-07-07,CUST036,Unknown Merchant,entertainment,363.07,debit card,7,0,476.54,1,0
+TXN00112,2025-08-12,CUST036,"Johnson, Ramirez and Lewis",utilities,981.31,UPI,8,1,644.8,1,0
+TXN01491,2025-08-24,CUST036,Stone-Hall,groceries,672.22,net banking,8,6,651.66,1,0
+TXN00830,2025-08-25,CUST036,Reynolds and Sons,utilities,300.27,net banking,8,0,581.38,1,0
+TXN00526,2025-08-29,CUST036,Durham-Rubio,dining,975.99,credit card,8,4,647.15,1,0
+TXN01812,2025-09-08,CUST036,Burton-Floyd,dining,843.64,net banking,9,0,675.22,1,0
+TXN00358,2025-09-09,CUST036,"Clark, Bradshaw and Mitchell",utilities,542.22,net banking,9,1,668.39,1,0
+TXN01683,2025-09-11,CUST036,Smith Group,shopping,876.51,net banking,9,3,741.74,1,0
+TXN00940,2025-09-23,CUST036,Unknown Merchant,travel,943.21,debit card,9,1,736.29,1,0
+TXN01183,2025-09-29,CUST036,Zavala LLC,shopping,687.54,debit card,9,0,738.48,1,0
+TXN01380,2025-10-08,CUST036,"Estrada, Johnson and Aguirre",travel,229.63,debit card,10,2,728.39,1,0
+TXN01700,2025-10-10,CUST036,Irwin-Willis,utilities,595.44,net banking,10,4,674.03,1,0
+TXN01239,2025-10-19,CUST036,Luna-Oneal,utilities,388.86,net banking,10,6,609.06,1,0
+TXN00522,2025-10-24,CUST036,"Garcia, Long and Robinson",entertainment,870.61,net banking,10,4,655.97,1,0
+TXN01276,2025-11-10,CUST036,"Shaffer, Drake and Wong",dining,871.42,credit card,11,0,655.24,1,0
+TXN01756,2025-11-16,CUST036,Bartlett LLC,dining,590.73,debit card,11,6,604.89,1,0
+TXN01484,2025-12-31,CUST036,"Martin, Burns and Rogers",dining,254.89,UPI,12,2,543.08,1,0
+TXN00709,2026-01-01,CUST036,"Manning, Walker and Collins",dining,681.43,net banking,1,3,607.63,1,0
+TXN00053,2026-01-03,CUST036,Freeman-Williams,dining,635.6,net banking,1,5,613.36,1,0
+TXN01902,2026-01-09,CUST036,Larson Inc,entertainment,861.47,UPI,1,4,680.88,1,0
+TXN00585,2026-02-24,CUST036,"Henderson, Rivera and Pierce",travel,462.13,net banking,2,1,622.52,1,0
+TXN01872,2026-03-17,CUST036,Morales-Hancock,dining,470.08,net banking,3,1,565.19,1,0
+TXN01171,2026-03-18,CUST036,"Robinson, Baker and Herrera",dining,286.16,UPI,3,2,521.68,1,0
+TXN00258,2026-04-13,CUST036,"Peterson, Davenport and Webster",travel,674.02,credit card,4,0,581.56,1,0
+TXN01689,2026-04-16,CUST036,Peterson Group,dining,317.58,net banking,4,3,529.58,1,0
+TXN00093,2026-04-24,CUST036,Smith LLC,travel,649.12,debit card,4,4,531.51,1,0
+TXN01774,2026-05-07,CUST036,"Perry, Carroll and Wright",entertainment,797.79,UPI,5,3,522.41,1,0
+TXN01398,2026-05-17,CUST036,Thompson Ltd,travel,45.87,UPI,5,6,462.95,1,0
+TXN00923,2026-06-11,CUST036,Jones Inc,shopping,963.09,credit card,6,3,533.38,1,0
+TXN01365,2025-06-18,CUST037,Rogers LLC,dining,313.21,UPI,6,2,313.21,1,0
+TXN01920,2025-06-18,CUST037,Baldwin-Berry,entertainment,223.74,UPI,6,2,268.48,1,0
+TXN00973,2025-06-19,CUST037,Davis-Young,dining,396.65,net banking,6,3,311.2,1,0
+TXN00682,2025-07-08,CUST037,Myers-Hampton,utilities,727.96,net banking,7,1,415.39,1,0
+TXN01647,2025-08-02,CUST037,"Kim, Swanson and Alvarado",dining,156.49,credit card,8,5,363.61,1,0
+TXN00255,2025-08-10,CUST037,"Cooper, Vasquez and Baker",shopping,198.95,net banking,8,6,336.17,1,0
+TXN00982,2025-09-04,CUST037,"Pierce, Patton and Davis",dining,56.66,credit card,9,3,296.24,1,0
+TXN00640,2025-09-18,CUST037,Roberts-Banks,groceries,43.22,credit card,9,3,257.67,1,0
+TXN00019,2025-09-19,CUST037,"Thompson, Arellano and Marquez",travel,495.61,UPI,9,4,296.51,1,0
+TXN01721,2025-09-25,CUST037,Adams-Bauer,shopping,845.14,debit card,9,3,360.58,1,0
+TXN01033,2025-09-26,CUST037,"Walker, Moon and Dean",travel,526.15,net banking,9,4,331.75,1,0
+TXN00195,2025-10-09,CUST037,"Smith, Weeks and Smith",dining,720.42,net banking,10,3,412.31,1,0
+TXN00337,2025-10-10,CUST037,Miller-Washington,dining,357.82,net banking,10,4,435.0,1,0
+TXN01192,2025-10-10,CUST037,"Wagner, Bright and Robinson",travel,345.92,net banking,10,4,476.33,1,0
+TXN01958,2025-10-22,CUST037,Perez and Sons,entertainment,902.0,net banking,10,2,599.01,1,0
+TXN01135,2025-10-23,CUST037,"Knight, Mathis and Hayes",entertainment,466.08,debit card,10,3,594.79,1,0
+TXN01554,2025-11-07,CUST037,Torres-Mcdaniel,shopping,959.34,UPI,11,4,611.1,1,0
+TXN01414,2025-11-19,CUST037,"Clarke, Olson and Benton",travel,715.4,UPI,11,2,638.14,1,0
+TXN01793,2025-12-08,CUST037,Campbell Inc,entertainment,191.55,net banking,12,0,562.59,1,0
+TXN01747,2026-01-11,CUST037,"Phillips, Walls and Thomas",groceries,879.51,UPI,1,6,637.11,1,0
+TXN00757,2026-01-17,CUST037,"Burns, Butler and Rivers",dining,153.68,UPI,1,5,609.65,1,0
+TXN00397,2026-01-18,CUST037,Ewing Group,entertainment,308.09,credit card,1,6,524.81,1,0
+TXN00826,2026-01-20,CUST037,Giles-Hoover,shopping,259.68,net banking,1,1,495.32,1,0
+TXN00343,2026-01-29,CUST037,Hicks LLC,shopping,681.38,credit card,1,3,455.61,1,0
+TXN01372,2026-02-14,CUST037,"Wallace, Santana and Weeks",entertainment,64.11,UPI,2,5,362.57,1,0
+TXN01658,2026-02-16,CUST037,"Jefferson, Guerrero and Mccullough",shopping,158.6,net banking,2,0,357.86,1,0
+TXN00291,2026-02-19,CUST037,"Kerr, Foster and Wilkinson",shopping,690.46,net banking,2,3,330.86,1,0
+TXN01669,2026-03-06,CUST037,"Morrison, Johnson and Smith",dining,418.2,UPI,3,4,368.65,1,0
+TXN01806,2026-03-10,CUST037,Cruz-Fernandez,shopping,269.21,net banking,3,1,363.09,1,0
+TXN01796,2026-03-17,CUST037,Carter-Hughes,entertainment,952.53,debit card,3,1,462.07,1,0
+TXN01232,2026-03-22,CUST037,Scott-Baird,shopping,168.64,net banking,3,6,388.82,1,0
+TXN01370,2026-03-22,CUST037,Foster Inc,shopping,553.64,UPI,3,6,458.75,1,0
+TXN00588,2026-04-13,CUST037,Miller PLC,shopping,668.97,net banking,4,0,531.66,1,0
+TXN01923,2026-04-18,CUST037,Morgan Inc,entertainment,673.77,credit card,4,5,529.28,1,0
+TXN01527,2026-04-23,CUST037,Harris Ltd,dining,111.37,debit card,4,3,485.45,1,0
+TXN01132,2026-04-27,CUST037,"Green, Walter and Oneill",groceries,269.26,debit card,4,0,485.45,1,0
+TXN01460,2026-06-11,CUST037,"Heath, Gonzalez and Garrett",groceries,107.68,net banking,6,3,364.76,1,0
+TXN01282,2025-06-27,CUST038,Hancock Ltd,dining,401.74,debit card,6,4,401.74,1,0
+TXN01558,2025-07-05,CUST038,"Daniels, Oliver and Gutierrez",shopping,627.86,UPI,7,5,514.8,1,0
+TXN00355,2025-07-18,CUST038,"Garrett, Cruz and Daniels",entertainment,491.69,credit card,7,4,507.1,1,0
+TXN00083,2025-07-20,CUST038,Vargas-Murray,groceries,262.22,credit card,7,6,445.88,1,0
+TXN00038,2025-07-29,CUST038,"Cooper, Guerrero and Williams",travel,954.7,debit card,7,1,547.64,1,0
+TXN00105,2025-08-08,CUST038,Cruz-Campbell,groceries,142.71,debit card,8,4,480.15,1,0
+TXN00747,2025-08-14,CUST038,Cowan LLC,groceries,137.09,UPI,8,3,431.14,1,0
+TXN01450,2025-08-15,CUST038,Watkins LLC,travel,782.64,net banking,8,4,485.56,1,0
+TXN00274,2025-08-16,CUST038,Collins Inc,groceries,765.96,credit card,8,5,505.29,1,0
+TXN00135,2025-08-27,CUST038,Mckay Group,entertainment,693.45,debit card,8,2,534.11,1,0
+TXN01523,2025-08-29,CUST038,Escobar-Miller,groceries,603.14,net banking,8,4,582.81,1,0
+TXN01421,2025-09-01,CUST038,Long Ltd,dining,248.47,net banking,9,0,481.92,1,0
+TXN01949,2025-09-19,CUST038,Smith Inc,groceries,989.31,net banking,9,4,602.87,1,0
+TXN01133,2025-09-23,CUST038,Nolan Ltd,groceries,533.73,debit card,9,1,659.53,1,0
+TXN00342,2025-09-29,CUST038,"Morris, James and Clark",utilities,930.11,UPI,9,0,680.6,1,0
+TXN00876,2025-10-07,CUST038,Wagner Inc,shopping,872.52,UPI,10,1,695.82,1,0
+TXN01206,2025-10-20,CUST038,"Palmer, Graham and Jackson",utilities,580.82,UPI,10,0,679.73,1,0
+TXN01680,2025-11-02,CUST038,Buchanan Ltd,utilities,119.19,UPI,11,6,610.59,1,0
+TXN01636,2025-11-26,CUST038,"Olson, Ramirez and White",entertainment,211.84,net banking,11,2,605.36,1,0
+TXN01976,2025-12-07,CUST038,Patterson LLC,entertainment,307.97,UPI,12,6,508.03,1,0
+TXN00509,2026-01-02,CUST038,Patterson-Levine,entertainment,40.94,UPI,1,4,437.63,1,0
+TXN00648,2026-01-08,CUST038,Smith-Gordon,travel,100.14,net banking,1,3,319.06,1,0
+TXN00859,2026-01-08,CUST038,Franklin LLC,utilities,106.33,credit card,1,3,209.6,1,0
+TXN01350,2026-01-08,CUST038,Vance PLC,utilities,479.2,UPI,1,3,195.09,1,0
+TXN00943,2026-01-14,CUST038,Lopez-Smith,utilities,175.41,net banking,1,2,203.12,1,0
+TXN01780,2026-01-16,CUST038,Johnson-Arellano,entertainment,417.62,UPI,1,4,232.52,1,0
+TXN01941,2026-01-23,CUST038,"Gallagher, Walker and Anderson",groceries,132.95,credit card,1,4,207.51,1,0
+TXN00169,2026-01-24,CUST038,Horn-Lowe,shopping,387.9,debit card,1,5,257.08,1,0
+TXN01884,2026-01-25,CUST038,Spencer Inc,entertainment,247.93,debit card,1,6,278.19,1,0
+TXN00468,2026-02-03,CUST038,Rose-Thomas,travel,548.83,UPI,2,1,341.41,1,0
+TXN01277,2026-02-07,CUST038,"Landry, Jones and Morgan",dining,349.44,net banking,2,5,322.87,1,0
+TXN00555,2026-02-08,CUST038,"Smith, Hancock and Long",utilities,178.34,net banking,2,6,323.29,1,0
+TXN01572,2026-02-11,CUST038,"Valdez, Jackson and Parks",entertainment,575.32,credit card,2,2,345.82,1,0
+TXN01255,2026-02-17,CUST038,Thompson Inc,groceries,738.72,debit card,2,1,432.35,1,0
+TXN00767,2026-02-24,CUST038,Mcdonald-Chang,groceries,764.24,debit card,2,1,486.12,1,0
+TXN00028,2026-02-26,CUST038,Grant Inc,dining,50.19,net banking,2,3,457.87,1,0
+TXN01179,2026-03-08,CUST038,Stafford-Mccann,entertainment,939.8,credit card,3,6,513.72,1,0
+TXN00573,2026-03-10,CUST038,"Powell, Abbott and Morrison",utilities,856.72,net banking,3,1,586.19,1,0
+TXN01938,2026-03-12,CUST038,Miller-Burnett,groceries,2912.49,credit card,3,3,976.78,-1,1
+TXN01395,2026-04-04,CUST038,"Clark, Brown and Sharp",utilities,216.94,net banking,4,5,925.59,1,0
+TXN01988,2026-04-04,CUST038,"Lane, Gonzalez and Martinez",travel,997.99,net banking,4,5,962.62,1,0
+TXN00108,2026-04-06,CUST038,Peters-Carpenter,entertainment,721.55,credit card,4,0,956.53,1,0
+TXN00442,2026-04-08,CUST038,Porter Group,travel,849.67,credit card,4,2,1070.74,1,0
+TXN01113,2026-04-18,CUST038,"Smith, Ayala and Moran",dining,658.72,credit card,4,5,1030.58,1,0
+TXN00784,2026-04-24,CUST038,Macdonald and Sons,shopping,758.62,credit card,4,4,1016.57,1,0
+TXN00863,2026-05-21,CUST038,Gonzalez-Conley,dining,245.23,debit card,5,3,635.53,1,0
+TXN00465,2026-06-01,CUST038,"Smith, Walsh and White",dining,394.39,debit card,6,0,660.88,1,0
+TXN01927,2026-06-08,CUST038,"Kennedy, Forbes and Green",dining,861.93,net banking,6,0,641.44,1,0
+TXN00604,2026-06-15,CUST038,Lawrence-Reyes,entertainment,417.07,UPI,6,0,597.95,1,0
+TXN00676,2025-06-22,CUST039,"Hunter, Williams and Lyons",shopping,452.49,net banking,6,6,452.49,1,0
+TXN01939,2025-06-25,CUST039,Gonzalez Ltd,shopping,555.43,debit card,6,2,503.96,1,0
+TXN01147,2025-06-28,CUST039,"Garcia, Johnson and Chavez",travel,953.54,credit card,6,5,653.82,1,0
+TXN00994,2025-07-26,CUST039,Mccarthy Inc,utilities,510.03,debit card,7,5,617.87,1,0
+TXN00469,2025-07-27,CUST039,"Fox, Zuniga and Wilson",groceries,488.85,credit card,7,6,592.07,1,0
+TXN01068,2025-08-12,CUST039,Haley Ltd,dining,993.47,debit card,8,1,658.97,1,0
+TXN01555,2025-08-14,CUST039,Smith-Walker,entertainment,237.04,credit card,8,3,598.69,1,0
+TXN01409,2025-08-18,CUST039,Salazar-Sullivan,groceries,335.44,debit card,8,0,581.97,1,0
+TXN00250,2025-08-27,CUST039,Stein-Ortiz,dining,235.26,UPI,8,2,536.23,1,0
+TXN00434,2025-09-21,CUST039,"Mckee, Horn and George",dining,637.48,net banking,9,6,491.08,1,0
+TXN01339,2025-09-26,CUST039,Taylor-Smith,travel,653.99,debit card,9,4,511.65,1,0
+TXN00124,2025-10-31,CUST039,"Ware, Rogers and Crane",utilities,388.44,net banking,10,4,497.3,1,0
+TXN01859,2025-11-01,CUST039,Johnson Group,groceries,438.07,net banking,11,5,417.96,1,0
+TXN01529,2025-11-08,CUST039,"Tyler, Moore and Henderson",shopping,152.33,debit card,11,5,405.86,1,0
+TXN01130,2025-11-15,CUST039,Martinez-Smith,shopping,873.12,debit card,11,5,482.67,1,0
+TXN01767,2025-11-19,CUST039,Oliver Group,travel,123.03,net banking,11,2,466.64,1,0
+TXN01903,2025-11-28,CUST039,Williams Ltd,entertainment,556.99,credit card,11,4,455.14,1,0
+TXN01665,2025-12-06,CUST039,Jackson-Jackson,entertainment,233.29,credit card,12,5,395.04,1,0
+TXN00386,2025-12-23,CUST039,Sanchez PLC,groceries,496.91,credit card,12,1,410.53,1,0
+TXN00955,2025-12-29,CUST039,Clark-Stevenson,entertainment,714.41,debit card,12,0,450.01,1,0
+TXN01952,2025-12-30,CUST039,Pierce-Kennedy,groceries,861.83,UPI,12,1,551.37,1,0
+TXN00439,2026-01-11,CUST039,Perry-Robles,dining,966.54,credit card,1,6,564.71,1,0
+TXN00085,2026-01-15,CUST039,"Bray, Jones and Madden",utilities,715.76,debit card,1,3,649.39,1,0
+TXN00153,2026-01-15,CUST039,Miller Group,travel,671.71,credit card,1,3,665.78,1,0
+TXN00956,2026-01-19,CUST039,Davis-Branch,utilities,980.86,debit card,1,0,772.57,-1,1
+TXN00907,2026-01-21,CUST039,"West, Diaz and Davis",groceries,116.98,net banking,1,2,718.3,1,0
+TXN00577,2026-01-31,CUST039,Hurst LLC,travel,719.67,credit card,1,5,719.05,1,0
+TXN01668,2026-03-03,CUST039,Robles-Booth,groceries,76.68,debit card,3,1,606.89,1,0
+TXN01402,2026-04-06,CUST039,Chaney-Hogan,travel,937.18,credit card,4,0,602.69,1,0
+TXN01785,2026-05-07,CUST039,Mitchell-Cabrera,travel,187.34,UPI,5,3,527.2,1,0
+TXN00916,2026-05-11,CUST039,Carlson PLC,shopping,387.59,debit card,5,0,486.61,1,0
+TXN00472,2026-05-17,CUST039,"Stevenson, Hoover and Munoz",shopping,824.9,credit card,5,6,464.33,1,0
+TXN01686,2026-05-18,CUST039,Strickland-Gray,shopping,334.69,credit card,5,0,495.44,1,0
+TXN00965,2026-06-02,CUST039,Cook-Campbell,entertainment,845.47,net banking,6,1,513.41,1,0
+TXN00933,2026-06-03,CUST039,Norman and Sons,groceries,184.13,debit card,6,2,528.76,1,0
+TXN00626,2026-06-09,CUST039,Mueller-Miller,groceries,893.91,credit card,6,1,522.58,1,0
+TXN00117,2025-06-22,CUST040,Stevenson-Cunningham,entertainment,269.1,credit card,6,6,269.1,1,0
+TXN00339,2025-06-26,CUST040,"Mann, Saunders and Williams",shopping,688.96,credit card,6,3,479.03,1,0
+TXN01498,2025-06-27,CUST040,"Steele, Jones and Neal",travel,242.02,net banking,6,4,400.03,1,0
+TXN00320,2025-07-02,CUST040,Arnold PLC,entertainment,459.76,debit card,7,2,414.96,1,0
+TXN00265,2025-07-12,CUST040,Rogers Inc,utilities,32.65,credit card,7,5,338.5,1,0
+TXN00888,2025-08-07,CUST040,West-Reed,entertainment,826.8,credit card,8,3,419.88,1,0
+TXN01333,2025-08-13,CUST040,Padilla-Miller,travel,6289.87,net banking,8,2,1258.45,-1,1
+TXN01333,2025-08-13,CUST040,Padilla-Miller,travel,366.96,net banking,8,2,1272.43,1,0
+TXN01480,2025-08-27,CUST040,"Sweeney, Morse and Stark",entertainment,143.38,credit card,8,2,1194.49,1,0
+TXN01062,2025-09-07,CUST040,Aguilar-Franklin,entertainment,188.21,credit card,9,6,1186.8,1,0
+TXN01877,2025-09-27,CUST040,Garcia and Sons,travel,215.83,net banking,9,5,1151.96,1,0
+TXN00409,2025-10-03,CUST040,Neal and Sons,dining,168.63,debit card,10,4,1171.38,1,0
+TXN01725,2025-10-07,CUST040,Burch-Hopkins,groceries,223.9,debit card,10,1,1085.25,1,0
+TXN00836,2025-10-20,CUST040,"Murphy, Gonzalez and Miller",entertainment,727.93,net banking,10,0,290.69,1,0
+TXN01829,2025-11-10,CUST040,Schultz-Barrera,travel,276.33,credit card,11,0,277.74,1,0
+TXN00917,2025-11-17,CUST040,"Johnson, Bartlett and Diaz",groceries,761.34,debit card,11,0,366.02,1,0
+TXN01980,2025-11-23,CUST040,Mccormick Inc,travel,297.14,UPI,11,6,381.59,1,0
+TXN00575,2025-12-01,CUST040,Martin-Acosta,shopping,112.62,debit card,12,0,366.84,1,0
+TXN01088,2025-12-14,CUST040,Perez PLC,shopping,373.38,UPI,12,6,396.09,1,0
+TXN00204,2025-12-27,CUST040,Wright Inc,shopping,551.26,UPI,12,5,442.86,1,0
+TXN00689,2026-01-12,CUST040,Wells-Zamora,dining,552.38,UPI,1,0,417.78,1,0
+TXN00597,2026-01-21,CUST040,"Bryant, Delgado and Lewis",shopping,415.78,debit card,1,2,437.7,1,0
+TXN01835,2026-01-27,CUST040,Ramirez Group,travel,224.46,net banking,1,1,361.0,1,0
+TXN00517,2026-01-29,CUST040,Dougherty Inc,shopping,283.07,credit card,1,3,358.99,1,0
+TXN00902,2026-02-02,CUST040,Brown-Webster,shopping,794.56,debit card,2,0,456.41,1,0
+TXN00027,2026-02-12,CUST040,Lee-Smith,groceries,268.22,debit card,2,3,441.39,1,0
+TXN00474,2026-02-12,CUST040,Gutierrez Group,utilities,129.17,debit card,2,3,381.09,1,0
+TXN01042,2026-02-18,CUST040,Patterson-Edwards,travel,270.21,credit card,2,2,340.78,1,0
+TXN00087,2026-03-14,CUST040,"Fields, Drake and Wright",shopping,117.97,net banking,3,5,298.24,1,0
+TXN01095,2026-03-26,CUST040,Allison-Larson,utilities,419.84,debit card,3,3,326.15,1,0
+TXN01674,2026-04-04,CUST040,Lawson-Jones,dining,320.08,UPI,4,5,331.44,1,0
+TXN00950,2026-04-15,CUST040,"Buchanan, Peters and King",dining,35.12,net banking,4,2,222.94,1,0
+TXN01764,2026-04-15,CUST040,"Fisher, Becker and Vargas",utilities,321.08,UPI,4,2,230.5,1,0
+TXN00400,2026-04-23,CUST040,Campbell-Chan,utilities,73.84,credit card,4,3,222.59,1,0
+TXN01021,2026-05-09,CUST040,Young-Durham,utilities,827.35,UPI,5,5,302.18,1,0
+TXN01152,2026-05-10,CUST040,Bennett-Smith,travel,611.84,net banking,5,6,372.74,1,0
+TXN01336,2026-05-13,CUST040,"Davis, Johnson and Hale",entertainment,786.07,net banking,5,2,425.05,1,0
+TXN01437,2026-05-24,CUST040,"James, Brown and Silva",utilities,832.33,UPI,5,6,498.23,1,0
+TXN00975,2026-05-29,CUST040,Campbell-Thompson,utilities,340.17,credit card,5,4,541.81,1,0
+TXN01452,2026-06-09,CUST040,"Jennings, Good and Gordon",groceries,225.95,net banking,6,1,528.22,1,0
+TXN01482,2025-06-18,CUST041,Hall-Dudley,entertainment,985.46,debit card,6,2,985.46,1,0
+TXN01235,2025-06-25,CUST041,Higgins Inc,travel,279.12,credit card,6,2,632.29,1,0
+TXN01676,2025-06-28,CUST041,Santana-Wilson,travel,903.07,debit card,6,5,722.55,1,0
+TXN00586,2025-07-03,CUST041,Johnston-Jones,entertainment,978.41,credit card,7,3,786.52,1,0
+TXN00804,2025-07-08,CUST041,Moran-Howard,travel,707.89,net banking,7,1,770.79,1,0
+TXN00109,2025-07-21,CUST041,Bell-Garcia,dining,629.61,debit card,7,0,747.26,1,0
+TXN00738,2025-08-05,CUST041,Lawrence PLC,groceries,629.31,net banking,8,1,730.41,1,0
+TXN00815,2025-08-26,CUST041,Nunez-Wright,shopping,386.63,debit card,8,1,644.86,1,0
+TXN01049,2025-09-03,CUST041,"Prince, Becker and Miller",entertainment,316.96,net banking,9,2,650.27,1,0
+TXN01984,2025-09-03,CUST041,Watkins Ltd,entertainment,341.12,credit card,9,2,569.99,1,0
+TXN00674,2025-09-24,CUST041,Gross-Roberts,entertainment,241.11,net banking,9,2,464.66,1,0
+TXN01304,2025-09-26,CUST041,"Cortez, Diaz and Stewart",shopping,811.42,debit card,9,4,479.45,1,0
+TXN00188,2025-09-30,CUST041,Simmons-Norton,entertainment,608.14,debit card,9,1,476.38,1,0
+TXN00211,2025-09-30,CUST041,Horn Group,entertainment,598.04,debit card,9,1,471.92,1,0
+TXN00016,2025-10-08,CUST041,"Merritt, Taylor and Boyd",shopping,466.18,credit card,10,2,483.28,1,0
+TXN00194,2025-10-16,CUST041,Lopez and Sons,entertainment,549.0,UPI,10,3,516.43,1,0
+TXN01762,2025-10-23,CUST041,"Allen, Thomas and Preston",travel,723.07,debit card,10,3,570.99,1,0
+TXN00827,2025-10-24,CUST041,"Dunn, Hall and Green",groceries,250.39,credit card,10,4,572.32,1,0
+TXN01889,2025-11-01,CUST041,"Mcneil, Gomez and Porter",entertainment,344.36,credit card,11,5,505.6,1,0
+TXN01839,2025-11-03,CUST041,Garcia LLC,groceries,923.82,net banking,11,0,550.69,1,0
+TXN00963,2025-11-11,CUST041,Miller-Chang,utilities,583.36,debit card,11,1,548.6,1,0
+TXN00236,2025-12-07,CUST041,Johnson and Sons,shopping,577.05,debit card,12,6,564.44,1,0
+TXN00281,2025-12-11,CUST041,Hubbard PLC,travel,573.83,debit card,12,3,567.98,1,0
+TXN00564,2025-12-17,CUST041,Ochoa and Sons,shopping,316.93,credit card,12,2,509.96,1,0
+TXN01338,2025-12-31,CUST041,Stevenson-Brown,travel,936.44,debit card,12,2,607.97,1,0
+TXN01368,2026-01-06,CUST041,Smith Inc,travel,106.03,debit card,1,1,573.92,1,0
+TXN00561,2026-01-10,CUST041,Walker-Smith,shopping,795.54,credit card,1,5,555.6,1,0
+TXN01634,2026-01-10,CUST041,Barnes and Sons,travel,214.39,net banking,1,5,502.89,1,0
+TXN00335,2026-01-11,CUST041,Price-Bullock,shopping,806.71,credit card,1,6,535.7,1,0
+TXN00520,2026-01-17,CUST041,Leonard Ltd,entertainment,463.28,debit card,1,5,519.9,1,0
+TXN00663,2026-01-17,CUST041,"Rodgers, Nunez and Rosales",groceries,272.53,credit card,1,5,513.56,1,0
+TXN00383,2026-01-25,CUST041,Jones-Smith,dining,258.38,net banking,1,6,416.69,1,0
+TXN01698,2026-01-30,CUST041,Conley-Mcintosh,shopping,304.13,UPI,1,4,444.99,1,0
+TXN01465,2026-02-10,CUST041,Rowe-Gay,travel,211.69,UPI,2,1,361.59,1,0
+TXN01300,2026-03-25,CUST041,Parker Ltd,utilities,211.21,credit card,3,2,361.13,1,0
+TXN01909,2026-03-27,CUST041,Pham-Salas,entertainment,311.93,UPI,3,4,290.45,1,0
+TXN00662,2026-04-09,CUST041,Johnson-Garner,travel,617.79,net banking,4,3,312.52,1,0
+TXN00477,2026-04-15,CUST041,Newton-Brown,dining,355.71,UPI,4,2,324.41,1,0
+TXN01466,2026-04-22,CUST041,Unknown Merchant,utilities,792.38,credit card,4,2,400.69,1,0
+TXN00951,2026-05-01,CUST041,"Shelton, Martinez and Petty",entertainment,54.58,UPI,5,4,365.04,1,0
+TXN01083,2026-05-19,CUST041,"Carter, Conley and Woods",travel,599.1,debit card,5,1,420.39,1,0
+TXN00506,2026-05-31,CUST041,Boyd-Paul,entertainment,966.59,credit card,5,6,528.3,1,0
+TXN00922,2026-06-03,CUST041,"Oneal, Phillips and Espinoza",travel,728.8,net banking,6,2,587.85,1,0
+TXN01122,2025-06-25,CUST042,Stephens Ltd,groceries,6565.69,credit card,6,2,6565.69,-1,1
+TXN00415,2025-06-30,CUST042,Soto and Sons,travel,476.36,UPI,6,0,3521.02,-1,1
+TXN00463,2025-07-19,CUST042,"Maxwell, Lucas and Lewis",utilities,316.23,net banking,7,5,2452.76,-1,1
+TXN00908,2025-07-26,CUST042,"Hudson, Acosta and Brown",shopping,4213.66,UPI,7,5,2892.98,-1,1
+TXN01576,2025-08-12,CUST042,Pena-Riley,dining,940.94,UPI,8,1,2502.58,-1,1
+TXN00381,2025-09-08,CUST042,Duke LLC,dining,292.6,UPI,9,0,2134.25,-1,1
+TXN01149,2025-09-08,CUST042,Jacobs and Sons,travel,733.98,debit card,9,0,1934.21,-1,1
+TXN01330,2025-09-09,CUST042,"Roberts, Mitchell and Chandler",shopping,441.64,credit card,9,1,1059.34,1,0
+TXN00311,2025-09-10,CUST042,Poole PLC,travel,398.14,credit card,9,2,1048.17,1,0
+TXN00471,2025-09-16,CUST042,Taylor and Sons,utilities,870.66,UPI,9,1,1127.37,1,0
+TXN00447,2025-09-19,CUST042,Garcia-Smith,dining,946.1,credit card,9,4,660.58,1,0
+TXN01823,2025-09-25,CUST042,Hansen-Barry,entertainment,560.71,debit card,9,3,606.26,1,0
+TXN01887,2025-09-28,CUST042,"Reynolds, Middleton and Goodman",dining,252.4,net banking,9,6,600.52,1,0
+TXN01318,2025-10-11,CUST042,Johnson LLC,dining,704.87,debit card,10,5,596.36,1,0
+TXN00878,2025-10-15,CUST042,Casey Ltd,shopping,568.72,UPI,10,2,614.51,1,0
+TXN00885,2025-10-29,CUST042,"Perez, Collins and Miller",groceries,667.73,UPI,10,2,653.03,1,0
+TXN01426,2025-11-04,CUST042,Cooper-Mccann,dining,212.27,credit card,11,1,558.97,1,0
+TXN00741,2025-11-05,CUST042,"Carpenter, Martin and Wise",utilities,867.34,UPI,11,2,547.72,1,0
+TXN01009,2025-11-14,CUST042,Phillips Inc,dining,833.75,credit card,11,4,586.73,1,0
+TXN00912,2025-11-18,CUST042,"Johnson, Martin and Le",groceries,639.57,UPI,11,1,642.04,1,0
+TXN01346,2025-11-29,CUST042,"Black, Rivera and Patel",entertainment,716.5,debit card,11,5,643.7,1,0
+TXN01218,2025-12-01,CUST042,Gould-Moore,utilities,715.18,net banking,12,0,664.62,1,0
+TXN01288,2025-12-05,CUST042,"Rivera, Harris and Palmer",entertainment,340.53,credit card,12,4,617.88,1,0
+TXN01065,2025-12-12,CUST042,Snyder-Day,shopping,145.55,debit card,12,4,608.35,1,0
+TXN01951,2025-12-24,CUST042,Sawyer-Jones,dining,931.04,net banking,12,2,617.45,1,0
+TXN00702,2026-01-01,CUST042,"Contreras, Mcdaniel and Clark",travel,455.76,debit card,1,3,563.45,1,0
+TXN00023,2026-01-08,CUST042,Hinton Inc,entertainment,116.22,debit card,1,3,488.68,1,0
+TXN00896,2026-01-11,CUST042,Moore Ltd,groceries,718.66,credit card,1,6,488.99,1,0
+TXN00226,2026-01-30,CUST042,"Zavala, Lawson and Wright",dining,669.11,UPI,1,4,482.41,1,0
+TXN00649,2026-02-04,CUST042,Kim-Leblanc,entertainment,685.66,debit card,2,2,531.71,1,0
+TXN00977,2026-02-09,CUST042,Melendez Ltd,dining,445.14,debit card,2,0,574.51,1,0
+TXN01638,2026-02-12,CUST042,Hunt-Combs,travel,340.92,credit card,2,3,490.21,1,0
+TXN00322,2026-03-22,CUST042,Johnson Inc,dining,145.87,net banking,3,6,445.94,1,0
+TXN01879,2026-03-22,CUST042,Trevino-Jones,travel,19.87,net banking,3,6,432.18,1,0
+TXN01357,2026-03-28,CUST042,"Brown, Owens and Huber",utilities,68.02,net banking,3,5,339.23,1,0
+TXN00655,2026-04-02,CUST042,Bishop-Sanchez,travel,86.55,UPI,4,3,256.0,1,0
+TXN00871,2026-05-24,CUST042,Burns Group,shopping,245.26,debit card,5,6,193.09,1,0
+TXN00633,2025-06-20,CUST043,Arnold Inc,groceries,774.36,debit card,6,4,774.36,1,0
+TXN00634,2025-07-05,CUST043,"Anderson, Caldwell and Bowers",utilities,524.96,UPI,7,5,649.66,1,0
+TXN01331,2025-07-11,CUST043,"Brown, Butler and Patton",groceries,321.14,credit card,7,4,540.15,1,0
+TXN00874,2025-07-23,CUST043,"Price, Moreno and Williams",entertainment,521.93,net banking,7,2,535.6,1,0
+TXN00934,2025-07-25,CUST043,"Ward, Long and Sanchez",groceries,347.75,UPI,7,4,498.03,1,0
+TXN00628,2025-07-26,CUST043,"Knight, Wilson and Gonzalez",groceries,302.9,debit card,7,5,465.51,1,0
+TXN01237,2025-07-30,CUST043,Hutchinson Ltd,shopping,726.2,UPI,7,2,502.75,1,0
+TXN01335,2025-07-31,CUST043,Hogan and Sons,entertainment,326.04,debit card,7,3,438.7,1,0
+TXN00851,2025-08-03,CUST043,Jenkins PLC,entertainment,47.01,credit card,8,6,370.42,1,0
+TXN00694,2025-08-12,CUST043,Nguyen-Underwood,dining,557.37,debit card,8,1,404.17,1,0
+TXN01880,2025-08-20,CUST043,Park-Mayer,groceries,929.6,net banking,8,2,462.41,1,0
+TXN00272,2025-08-30,CUST043,Walker PLC,dining,3774.59,UPI,8,5,951.96,-1,1
+TXN00486,2025-09-08,CUST043,Fisher Group,shopping,746.42,debit card,9,0,1015.32,1,0
+TXN01661,2025-09-10,CUST043,Suarez Group,groceries,319.09,UPI,9,2,957.16,1,0
+TXN00928,2025-09-20,CUST043,"Vang, Murillo and James",travel,853.44,net banking,9,5,1032.5,1,0
+TXN01290,2025-09-22,CUST043,Pearson PLC,groceries,650.18,net banking,9,0,1118.67,1,0
+TXN01266,2025-09-29,CUST043,Thomas Inc,dining,979.47,credit card,9,0,1178.97,-1,1
+TXN01320,2025-10-05,CUST043,Rodriguez-Martin,dining,547.71,credit card,10,6,1124.41,1,0
+TXN01268,2025-10-16,CUST043,Pineda-Bell,shopping,459.45,UPI,10,3,650.82,1,0
+TXN01250,2025-11-01,CUST043,"Fitzpatrick, Duffy and Parker",groceries,466.62,UPI,11,5,610.85,1,0
+TXN00046,2025-11-09,CUST043,Cantu-Rhodes,entertainment,45.41,net banking,11,6,571.75,1,0
+TXN00773,2025-11-20,CUST043,Morgan Group,groceries,437.59,debit card,11,3,512.35,1,0
+TXN01633,2025-11-24,CUST043,"Schwartz, Grant and Pacheco",groceries,718.39,UPI,11,0,522.09,1,0
+TXN01281,2025-12-04,CUST043,"Collins, Marshall and Dominguez",groceries,183.92,debit card,12,3,408.44,1,0
+TXN01631,2025-12-06,CUST043,Sanders and Sons,dining,900.21,net banking,12,5,458.8,1,0
+TXN00403,2025-12-09,CUST043,Clay LLC,utilities,863.4,debit card,12,1,516.51,1,0
+TXN00422,2025-12-11,CUST043,"Wagner, Gilmore and Oneill",travel,413.51,net banking,12,3,508.92,1,0
+TXN00299,2025-12-17,CUST043,"Smith, Moore and Mitchell",dining,435.74,credit card,12,2,564.68,1,0
+TXN01606,2025-12-30,CUST043,Hahn and Sons,shopping,501.5,net banking,12,1,573.81,1,0
+TXN00900,2026-01-08,CUST043,Lopez-Morgan,entertainment,10.35,net banking,1,3,472.66,1,0
+TXN00557,2026-01-16,CUST043,"Parker, Carlson and Greene",groceries,308.58,debit card,1,4,490.47,1,0
+TXN01618,2026-02-10,CUST043,Garcia Group,dining,51.45,net banking,2,1,369.22,1,0
+TXN00849,2026-02-18,CUST043,Todd-Walter,entertainment,535.91,credit card,2,2,322.43,1,0
+TXN01656,2026-02-25,CUST043,"Sexton, Brown and Stevens",entertainment,243.55,UPI,2,2,298.15,1,0
+TXN01816,2026-02-25,CUST043,Nichols and Sons,shopping,548.5,UPI,2,2,314.26,1,0
+TXN00317,2026-03-06,CUST043,Thompson Group,shopping,857.87,net banking,3,4,365.17,1,0
+TXN00860,2026-03-09,CUST043,Morgan PLC,utilities,687.26,credit card,3,0,461.87,1,0
+TXN00137,2026-03-10,CUST043,Hughes-Wilson,groceries,912.68,UPI,3,1,548.17,1,0
+TXN00234,2026-03-21,CUST043,Hunt Inc,entertainment,263.81,debit card,3,5,578.51,1,0
+TXN00528,2026-03-27,CUST043,Larson-Mason,travel,611.26,credit card,3,4,589.28,1,0
+TXN00229,2026-04-04,CUST043,"Brown, Drake and English",dining,510.38,credit card,4,5,627.39,1,0
+TXN01187,2026-04-04,CUST043,Maldonado Ltd,groceries,801.74,credit card,4,5,663.57,1,0
+TXN01495,2026-04-25,CUST043,Smith-Sims,groceries,228.24,net banking,4,5,573.62,1,0
+TXN01045,2026-05-07,CUST043,"Gutierrez, Wilson and Parsons",dining,328.09,debit card,5,3,522.31,1,0
+TXN01726,2026-05-16,CUST043,"Cohen, Thornton and Williams",entertainment,548.57,credit card,5,5,470.3,1,0
+TXN01066,2026-05-21,CUST043,Smith Ltd,shopping,66.0,UPI,5,3,442.04,1,0
+TXN01592,2026-05-23,CUST043,Sharp LLC,entertainment,551.17,credit card,5,5,433.46,1,0
+TXN01850,2026-05-23,CUST043,Parsons Group,travel,107.95,credit card,5,5,375.97,1,0
+TXN01444,2026-05-28,CUST043,"Chavez, Hall and Bryan",shopping,968.17,net banking,5,3,399.74,1,0
+TXN01886,2026-06-02,CUST043,Williams and Sons,dining,942.94,debit card,6,1,501.84,1,0
+TXN01353,2026-06-07,CUST043,Davis-English,shopping,825.93,debit card,6,6,572.96,1,0
+TXN00897,2025-06-22,CUST044,Robinson Inc,groceries,593.78,debit card,6,6,593.78,1,0
+TXN01542,2025-07-05,CUST044,Wolf-Lee,utilities,432.11,net banking,7,5,512.94,1,0
+TXN00097,2025-07-09,CUST044,Calderon-Walls,groceries,956.47,debit card,7,2,660.79,1,0
+TXN01644,2025-07-09,CUST044,Graham-Khan,shopping,572.28,debit card,7,2,638.66,1,0
+TXN00071,2025-07-15,CUST044,"Hudson, Franco and Little",shopping,232.63,debit card,7,1,557.45,1,0
+TXN01053,2025-07-18,CUST044,Wiggins and Sons,travel,253.43,credit card,7,4,506.78,1,0
+TXN00423,2025-07-28,CUST044,"Choi, Johnson and Mendoza",groceries,683.07,net banking,7,0,531.97,1,0
+TXN01822,2025-08-03,CUST044,"Adams, Boyer and Reese",dining,334.82,debit card,8,6,494.97,1,0
+TXN01441,2025-08-06,CUST044,"Grant, Jones and Rodriguez",dining,614.56,debit card,8,2,521.04,1,0
+TXN00978,2025-08-08,CUST044,Anderson Inc,dining,156.26,UPI,8,4,406.72,1,0
+TXN01748,2025-08-11,CUST044,Ellis-Cook,dining,91.94,debit card,8,0,338.1,1,0
+TXN01581,2025-08-21,CUST044,"Davis, Johnson and Fletcher",utilities,867.83,debit card,8,3,428.84,1,0
+TXN01718,2025-08-26,CUST044,Smith-Young,shopping,655.86,credit card,8,1,486.33,1,0
+TXN01048,2025-09-09,CUST044,Meyers-Pineda,travel,665.07,credit card,9,1,483.76,1,0
+TXN00886,2025-09-11,CUST044,Powell Group,dining,605.65,net banking,9,3,522.45,1,0
+TXN01303,2025-09-14,CUST044,Richardson Ltd,shopping,839.8,UPI,9,6,554.63,1,0
+TXN00539,2025-09-15,CUST044,"Johnson, Stokes and Gardner",shopping,245.86,debit card,9,0,567.43,1,0
+TXN00296,2025-09-16,CUST044,Davis Inc,shopping,286.09,debit card,9,1,595.17,1,0
+TXN01604,2025-10-13,CUST044,"Duncan, Edwards and Waters",travel,103.29,debit card,10,0,485.95,1,0
+TXN00609,2025-10-16,CUST044,Tran-Moreno,travel,536.15,net banking,10,3,468.84,1,0
+TXN00283,2025-10-18,CUST044,Gardner Group,entertainment,206.63,credit card,10,5,403.35,1,0
+TXN01447,2025-10-30,CUST044,"Alvarez, Fritz and Wilson",groceries,784.13,net banking,10,3,428.85,1,0
+TXN01672,2025-11-02,CUST044,Williams Group,utilities,506.61,UPI,11,6,381.25,1,0
+TXN01854,2025-11-11,CUST044,King-Mcconnell,dining,231.04,UPI,11,1,379.13,1,0
+TXN01982,2025-11-11,CUST044,Arnold PLC,groceries,866.83,credit card,11,1,462.1,1,0
+TXN00353,2025-11-26,CUST044,Williams-Baker,travel,942.03,credit card,11,2,581.92,1,0
+TXN01415,2025-12-13,CUST044,Wilson-Miller,travel,525.65,net banking,12,5,580.42,1,0
+TXN00698,2026-01-04,CUST044,Butler-Mosley,utilities,507.72,debit card,1,6,623.43,1,0
+TXN01076,2026-01-09,CUST044,"Martin, Oliver and Mills",groceries,5038.9,UPI,1,4,1231.25,-1,1
+TXN00429,2026-01-26,CUST044,Mitchell-Campos,utilities,732.25,credit card,1,0,1263.49,-1,1
+TXN00667,2026-02-03,CUST044,Mercado-Dean,groceries,629.55,debit card,2,1,1320.42,1,0
+TXN00769,2026-02-11,CUST044,"Ramirez, Holt and Mclaughlin",entertainment,666.06,debit card,2,2,1291.74,1,0
+TXN00873,2026-02-14,CUST044,"Potter, Davis and Sharp",utilities,810.21,net banking,2,5,1272.91,1,0
+TXN00899,2026-02-20,CUST044,"Glover, Johnson and Martinez",dining,454.75,credit card,2,4,1262.78,1,0
+TXN01054,2026-03-08,CUST044,Johnson-Hunt,groceries,983.13,debit card,3,6,1330.69,-1,1
+TXN01860,2026-04-06,CUST044,"Clark, Gardner and Reese",groceries,238.34,debit card,4,0,644.9,1,0
+TXN01298,2026-04-07,CUST044,Gentry and Sons,dining,614.32,net banking,4,1,628.05,1,0
+TXN01385,2026-04-16,CUST044,Myers LLC,travel,178.38,net banking,4,3,563.6,1,0
+TXN01435,2026-04-23,CUST044,Hess-Downs,dining,115.95,UPI,4,3,485.01,1,0
+TXN00074,2026-05-05,CUST044,Landry-Sanchez,utilities,244.29,debit card,5,1,404.17,1,0
+TXN01325,2026-05-22,CUST044,Anderson-Jimenez,travel,680.92,credit card,5,4,436.48,1,0
+TXN01026,2026-05-27,CUST044,"Hudson, Bradley and Miller",shopping,550.0,credit card,5,2,374.6,1,0
+TXN01269,2026-06-04,CUST044,"Castro, Davis and Pennington",shopping,621.75,debit card,6,3,429.37,1,0
+TXN01271,2026-06-04,CUST044,Barry Ltd,entertainment,222.46,credit card,6,3,373.39,1,0
+TXN00711,2026-06-05,CUST044,Ward Group,travel,769.15,credit card,6,4,457.79,1,0
+TXN00727,2025-06-19,CUST045,"Reed, Calderon and Evans",entertainment,589.75,UPI,6,3,589.75,1,0
+TXN00290,2025-07-01,CUST045,Hopkins-Johnson,groceries,217.1,UPI,7,1,403.42,1,0
+TXN00996,2025-07-09,CUST045,"Berg, Fitzgerald and Carlson",dining,775.53,debit card,7,2,527.46,1,0
+TXN00432,2025-07-11,CUST045,Anderson-Anderson,utilities,20.55,UPI,7,4,400.73,1,0
+TXN00692,2025-08-03,CUST045,Moore LLC,groceries,436.58,debit card,8,6,407.9,1,0
+TXN01154,2025-08-10,CUST045,Cook-Wright,utilities,339.22,credit card,8,6,396.46,1,0
+TXN01666,2025-08-13,CUST045,Knight-Evans,groceries,254.7,credit card,8,2,376.2,1,0
+TXN01256,2025-08-16,CUST045,Newman LLC,shopping,227.78,UPI,8,5,324.49,1,0
+TXN01915,2025-08-20,CUST045,Smith and Sons,shopping,326.37,debit card,8,2,340.1,1,0
+TXN01249,2025-08-26,CUST045,Morris Group,shopping,89.42,debit card,8,1,242.09,1,0
+TXN01485,2025-08-27,CUST045,Berry-Silva,utilities,330.31,debit card,8,2,286.34,1,0
+TXN00960,2025-08-28,CUST045,Moody Inc,shopping,148.67,credit card,8,3,245.21,1,0
+TXN00464,2025-08-31,CUST045,"Mccarty, Smith and White",utilities,935.49,net banking,8,6,330.39,1,0
+TXN01397,2025-09-08,CUST045,Oliver Ltd,dining,939.46,UPI,9,0,428.21,1,0
+TXN01912,2025-09-22,CUST045,West LLC,entertainment,332.67,debit card,9,0,443.2,1,0
+TXN01867,2025-09-30,CUST045,Lam-Walker,travel,670.18,UPI,9,1,492.31,1,0
+TXN01722,2025-10-01,CUST045,Gillespie-Carter,travel,5566.12,credit card,10,2,1274.7,-1,1
+TXN00650,2025-10-12,CUST045,Curry-Brown,travel,668.46,net banking,10,6,1323.01,-1,1
+TXN00394,2025-10-20,CUST045,Watkins LLC,utilities,985.67,UPI,10,0,1442.58,-1,1
+TXN01516,2025-10-26,CUST045,Hernandez Group,groceries,917.2,UPI,10,6,1439.97,-1,1
+TXN00276,2025-11-07,CUST045,"Roth, Bowen and Green",groceries,230.56,net banking,11,4,1338.69,1,0
+TXN00077,2025-11-11,CUST045,Odonnell-Kirk,utilities,424.21,net banking,11,1,1351.77,1,0
+TXN01354,2025-11-25,CUST045,Harris-Reyes,travel,405.22,UPI,11,1,1313.92,1,0
+TXN00410,2025-11-28,CUST045,"Payne, Juarez and French",entertainment,786.37,net banking,11,4,631.1,1,0
+TXN00152,2025-12-01,CUST045,Brown-Fernandez,dining,620.59,debit card,12,0,624.26,1,0
+TXN00831,2025-12-28,CUST045,Williams-Hughes,utilities,379.14,credit card,12,6,537.61,1,0
+TXN01061,2026-01-07,CUST045,Stark-Estrada,entertainment,735.56,credit card,1,2,511.66,1,0
+TXN01284,2026-01-30,CUST045,Smith-Davis,utilities,308.01,credit card,1,4,522.73,1,0
+TXN01034,2026-02-21,CUST045,Hughes Inc,travel,929.1,net banking,2,5,594.86,1,0
+TXN01654,2026-02-25,CUST045,Wong PLC,utilities,913.62,net banking,2,2,667.48,1,0
+TXN00660,2026-03-05,CUST045,Williams-Rodriguez,groceries,489.35,net banking,3,3,625.05,1,0
+TXN01742,2026-03-09,CUST045,"Mitchell, Smith and Phillips",groceries,55.54,credit card,3,0,544.33,1,0
+TXN01163,2026-03-13,CUST045,"Graham, Bolton and Maxwell",groceries,791.17,debit card,3,4,603.19,1,0
+TXN00606,2026-03-18,CUST045,Henderson-Gonzalez,shopping,37.88,UPI,3,2,503.52,1,0
+TXN01087,2026-04-20,CUST045,Green-Banks,utilities,36.99,debit card,4,0,464.81,1,0
+TXN00036,2026-04-30,CUST045,Williams LLC,shopping,485.53,UPI,4,3,401.44,1,0
+TXN00953,2026-05-08,CUST045,"Jordan, Gordon and Harrison",utilities,890.7,debit card,5,4,398.17,1,0
+TXN00590,2026-05-12,CUST045,Klein-Russell,shopping,532.92,debit card,5,1,404.39,1,0
+TXN00128,2026-05-14,CUST045,Fields and Sons,dining,281.88,debit card,5,3,436.72,1,0
+TXN00128,2026-05-14,CUST045,Fields and Sons,dining,4428.97,debit card,5,3,956.41,-1,1
+TXN00012,2026-05-26,CUST045,Walls-Wong,groceries,739.9,debit card,5,1,1056.7,1,0
+TXN01082,2025-07-01,CUST046,Rowland-Fletcher,shopping,350.08,debit card,7,1,350.08,1,0
+TXN01770,2025-07-03,CUST046,"Campos, Peck and Stevens",groceries,651.45,debit card,7,3,500.76,1,0
+TXN00620,2025-07-06,CUST046,Gonzalez PLC,groceries,924.66,UPI,7,6,642.06,1,0
+TXN01596,2025-07-06,CUST046,"Price, Gibson and Foster",groceries,566.41,credit card,7,6,623.15,1,0
+TXN01219,2025-07-07,CUST046,Mercer-Morgan,travel,494.95,UPI,7,0,597.51,1,0
+TXN01188,2025-07-10,CUST046,Kirby-Branch,dining,178.78,credit card,7,3,527.72,1,0
+TXN01826,2025-07-24,CUST046,Cortez Inc,travel,23.28,UPI,7,3,455.66,1,0
+TXN00607,2025-08-05,CUST046,Garcia LLC,shopping,7328.96,debit card,8,1,1452.64,-1,1
+TXN00149,2025-08-08,CUST046,"Perez, Ferrell and Cardenas",shopping,152.8,debit card,8,4,1381.41,1,0
+TXN00707,2025-08-12,CUST046,"Pearson, Delgado and Cochran",shopping,500.37,debit card,8,1,1320.79,1,0
+TXN01352,2025-08-12,CUST046,Robinson-Jordan,entertainment,974.41,UPI,8,1,1379.08,1,0
+TXN00363,2025-08-20,CUST046,Smith-Gibson,shopping,709.11,debit card,8,2,1409.67,1,0
+TXN01029,2025-08-23,CUST046,Hoffman Group,entertainment,614.8,debit card,8,5,1471.96,1,0
+TXN00131,2025-08-30,CUST046,Davis Group,travel,733.07,net banking,8,5,1573.36,1,0
+TXN01036,2025-09-01,CUST046,Williams and Sons,utilities,954.03,debit card,9,0,662.66,1,0
+TXN00231,2025-09-23,CUST046,Schultz-Walls,utilities,249.28,credit card,9,1,676.44,1,0
+TXN01810,2025-09-28,CUST046,Taylor-Jensen,utilities,779.89,net banking,9,6,716.37,1,0
+TXN01944,2025-10-01,CUST046,Mcguire-Castro,entertainment,690.84,net banking,10,2,675.86,1,0
+TXN01851,2025-10-11,CUST046,"Jackson, Morales and Dunn",travel,707.12,UPI,10,5,675.58,1,0
+TXN00513,2025-10-14,CUST046,"Cruz, Williamson and Taylor",groceries,455.91,credit card,10,1,652.88,1,0
+TXN00779,2025-10-19,CUST046,Williamson-Morgan,entertainment,14886.13,UPI,10,6,2674.74,-1,1
+TXN00062,2025-11-08,CUST046,"Williams, Wilson and Harris",entertainment,96.2,net banking,11,5,2552.2,-1,1
+TXN01364,2025-11-10,CUST046,Unknown Merchant,utilities,693.54,net banking,11,0,2615.66,-1,1
+TXN00176,2025-11-17,CUST046,"Nash, Hill and Joseph",groceries,566.78,credit card,11,0,2585.22,-1,1
+TXN00461,2025-11-28,CUST046,"White, Cobb and Sims",groceries,57.15,net banking,11,4,2494.69,-1,1
+TXN00540,2025-11-29,CUST046,Orozco-Stein,travel,432.69,UPI,11,5,2455.49,-1,1
+TXN01504,2025-12-02,CUST046,"Wallace, Frank and Jenkins",entertainment,241.75,net banking,12,1,2424.89,-1,1
+TXN00495,2025-12-06,CUST046,Scott-Haley,shopping,27.05,debit card,12,5,302.17,1,0
+TXN01405,2025-12-09,CUST046,Forbes-Bowen,shopping,823.55,credit card,12,1,406.07,1,0
+TXN01673,2025-12-09,CUST046,Lynch Inc,entertainment,732.47,net banking,12,1,411.63,1,0
+TXN00420,2025-12-10,CUST046,"Myers, Schmitt and Wiggins",entertainment,142.5,UPI,12,2,351.02,1,0
+TXN00889,2025-12-21,CUST046,Hunt-Lara,travel,289.15,debit card,12,6,384.17,1,0
+TXN00699,2025-12-28,CUST046,"Rogers, Garza and Spencer",utilities,780.17,debit card,12,6,433.81,1,0
+TXN00818,2026-01-08,CUST046,Hunt-Kline,utilities,92.91,debit card,1,3,412.54,1,0
+TXN00683,2026-01-17,CUST046,Hunter-Beck,utilities,623.71,debit card,1,5,497.78,1,0
+TXN01641,2026-01-17,CUST046,Green LLC,shopping,817.84,debit card,1,5,496.96,1,0
+TXN00158,2026-01-19,CUST046,"Thomas, Everett and Martinez",shopping,531.55,debit card,1,0,468.26,1,0
+TXN00893,2026-01-20,CUST046,Sandoval-Byrd,shopping,399.45,net banking,1,1,504.97,1,0
+TXN01500,2026-01-21,CUST046,"Scott, Chen and Butler",shopping,407.19,credit card,1,2,521.83,1,0
+TXN01621,2026-02-24,CUST046,Peterson LLC,utilities,408.05,debit card,2,1,468.67,1,0
+TXN00233,2026-03-04,CUST046,Wilson-Mayo,utilities,887.91,credit card,3,2,582.24,1,0
+TXN01861,2026-03-14,CUST046,Gibbs Inc,entertainment,858.44,UPI,3,5,615.78,1,0
+TXN00488,2026-03-20,CUST046,"Newman, Love and Hodges",groceries,730.38,UPI,3,4,603.28,1,0
+TXN00693,2026-03-21,CUST046,Smith-Russell,utilities,802.65,debit card,3,5,642.01,1,0
+TXN01323,2026-04-20,CUST046,Rivera Inc,travel,489.92,debit card,4,0,654.93,1,0
+TXN00209,2026-04-27,CUST046,"Ramirez, Smith and Wallace",shopping,460.14,debit card,4,0,662.5,1,0
+TXN01153,2026-05-15,CUST046,"Maxwell, Delgado and Walsh",groceries,383.64,UPI,5,4,659.01,1,0
+TXN01217,2026-05-17,CUST046,Lynch PLC,dining,171.29,debit card,5,6,556.64,1,0
+TXN00992,2026-05-18,CUST046,Garcia Ltd,dining,600.75,credit card,5,0,519.82,1,0
+TXN01425,2026-05-21,CUST046,Robertson-Zavala,travel,9198.0,credit card,5,3,1729.48,-1,1
+TXN00426,2026-05-23,CUST046,Taylor Ltd,shopping,429.16,net banking,5,5,1676.13,1,0
+TXN01639,2026-05-25,CUST046,"White, Porter and House",travel,747.24,UPI,5,0,1712.89,-1,1
+TXN00123,2026-06-04,CUST046,Martinez Group,dining,438.91,credit card,6,3,1709.86,1,0
+TXN01445,2026-06-10,CUST046,Payne PLC,shopping,522.21,UPI,6,2,1729.65,1,0
+TXN01502,2025-06-16,CUST047,"Price, Scott and Nguyen",travel,91.67,debit card,6,0,91.67,1,0
+TXN00618,2025-06-17,CUST047,Allen Ltd,utilities,764.32,net banking,6,1,428.0,1,0
+TXN01198,2025-06-17,CUST047,"Hoffman, Ramos and Butler",shopping,6457.14,credit card,6,1,2437.71,-1,1
+TXN00619,2025-06-23,CUST047,Thomas-Bell,entertainment,34.29,net banking,6,0,1836.86,-1,1
+TXN00801,2025-06-25,CUST047,"Franco, Black and Sullivan",utilities,584.11,UPI,6,2,1586.31,1,0
+TXN01876,2025-06-25,CUST047,"Cobb, Sutton and Johnson",shopping,223.72,UPI,6,2,1359.21,1,0
+TXN00861,2025-07-08,CUST047,Moore-Jones,dining,987.65,net banking,7,1,1306.13,1,0
+TXN01342,2025-07-08,CUST047,Hines Group,dining,503.9,net banking,7,1,1365.02,1,0
+TXN00066,2025-07-19,CUST047,Jackson-Hamilton,utilities,372.66,UPI,7,5,1309.07,1,0
+TXN00389,2025-07-19,CUST047,Keller-Duncan,entertainment,746.0,net banking,7,5,493.19,1,0
+TXN01416,2025-07-21,CUST047,Cantu-Wallace,travel,213.49,debit card,7,0,518.79,1,0
+TXN00856,2025-07-25,CUST047,"White, Snyder and James",travel,443.3,net banking,7,4,498.67,1,0
+TXN00099,2025-10-06,CUST047,Hardy and Sons,entertainment,287.8,UPI,10,0,507.83,1,0
+TXN00632,2025-10-30,CUST047,Vazquez Group,utilities,34.36,net banking,10,3,371.64,1,0
+TXN01454,2025-11-04,CUST047,"Obrien, Sutton and Jones",shopping,139.84,credit card,11,1,319.64,1,0
+TXN01955,2025-11-07,CUST047,Gibson-Bennett,groceries,145.51,UPI,11,4,287.19,1,0
+TXN00072,2025-11-11,CUST047,Montes and Sons,entertainment,168.53,debit card,11,1,204.69,1,0
+TXN01131,2025-11-20,CUST047,"Thomas, Knight and Roth",shopping,808.09,UPI,11,3,289.63,1,0
+TXN00903,2025-11-25,CUST047,"Briggs, Hughes and Brooks",dining,824.13,net banking,11,1,344.04,1,0
+TXN01768,2025-12-18,CUST047,Francis PLC,travel,828.67,net banking,12,3,421.3,1,0
+TXN01050,2026-01-03,CUST047,"Maxwell, Clark and Duke",travel,231.31,credit card,1,5,449.44,1,0
+TXN00232,2026-01-13,CUST047,Mullen Group,entertainment,830.86,credit card,1,1,548.16,1,0
+TXN00344,2026-01-13,CUST047,Sanchez Ltd,shopping,706.68,UPI,1,1,628.32,1,0
+TXN00402,2026-01-14,CUST047,"Carrillo, Espinoza and Ward",utilities,661.77,net banking,1,2,698.79,1,0
+TXN00088,2026-01-16,CUST047,Carey-Smith,groceries,359.91,net banking,1,4,634.76,1,0
+TXN00487,2026-01-27,CUST047,Jackson Ltd,travel,593.12,debit card,1,1,601.76,1,0
+TXN01845,2026-01-27,CUST047,"White, Hall and Lucas",entertainment,740.74,net banking,1,1,589.2,1,0
+TXN00972,2026-02-05,CUST047,Estrada-Wong,travel,411.15,UPI,2,3,614.89,1,0
+TXN01344,2026-02-14,CUST047,Baker-Gutierrez,shopping,26.22,debit card,2,5,499.94,1,0
+TXN01972,2026-02-23,CUST047,Crawford Inc,travel,31.45,net banking,2,0,403.48,1,0
+TXN00850,2026-03-07,CUST047,Hobbs PLC,groceries,167.3,net banking,3,5,332.84,1,0
+TXN00224,2026-03-11,CUST047,Dean LLC,shopping,389.64,UPI,3,2,337.09,1,0
+TXN01789,2026-03-30,CUST047,Dixon Group,entertainment,340.66,net banking,3,0,301.02,1,0
+TXN00731,2026-04-15,CUST047,White Inc,dining,14828.42,credit card,4,2,2313.55,-1,1
+TXN01081,2026-05-02,CUST047,Medina-Reyes,groceries,916.58,UPI,5,5,2385.75,-1,1
+TXN01635,2026-05-12,CUST047,Price PLC,dining,71.68,credit card,5,1,2392.25,-1,1
+TXN01513,2026-06-01,CUST047,"Crawford, Cameron and Ferrell",groceries,620.43,UPI,6,0,2476.39,-1,1
+TXN01769,2026-06-07,CUST047,Calderon and Sons,entertainment,609.67,net banking,6,6,2539.58,-1,1
+TXN01910,2025-06-18,CUST048,"Cummings, Rivera and Cox",groceries,296.67,UPI,6,2,296.67,1,0
+TXN01731,2025-06-28,CUST048,Deleon-Garcia,dining,223.15,debit card,6,5,259.91,1,0
+TXN00180,2025-07-12,CUST048,"Romero, Gray and Wagner",entertainment,88.11,debit card,7,5,202.64,1,0
+TXN01393,2025-07-21,CUST048,Reeves Group,entertainment,116.97,net banking,7,0,181.22,1,0
+TXN01375,2025-07-22,CUST048,Mills and Sons,groceries,722.14,debit card,7,1,289.41,1,0
+TXN00365,2025-08-08,CUST048,Moore-Alvarado,dining,88.94,net banking,8,4,256.0,1,0
+TXN01423,2025-08-10,CUST048,Clark LLC,entertainment,997.29,credit card,8,6,361.9,1,0
+TXN01819,2025-08-18,CUST048,Serrano-Richard,utilities,999.01,debit card,8,0,462.23,1,0
+TXN01819,2025-08-18,CUST048,Serrano-Richard,utilities,18316.39,debit card,8,0,3046.98,-1,1
+TXN01220,2025-09-07,CUST048,Ruiz Ltd,groceries,100.6,debit card,9,6,3048.76,-1,1
+TXN00734,2025-09-25,CUST048,Campbell-Ryan,travel,772.94,net banking,9,3,3142.47,-1,1
+TXN00405,2025-09-28,CUST048,Torres-Owen,shopping,440.36,net banking,9,6,3102.22,-1,1
+TXN00462,2025-09-28,CUST048,Moss LLC,groceries,61.83,net banking,9,6,3098.35,-1,1
+TXN00050,2025-10-08,CUST048,Griffin PLC,travel,751.67,net banking,10,2,3063.26,-1,1
+TXN01497,2025-10-28,CUST048,Chan Inc,groceries,904.41,net banking,10,1,3049.74,-1,1
+TXN00002,2025-11-06,CUST048,Bennett and Sons,groceries,658.15,UPI,11,3,527.14,1,0
+TXN01918,2025-11-28,CUST048,Fisher Inc,groceries,636.52,net banking,11,4,603.7,1,0
+TXN00961,2025-12-10,CUST048,Lopez LLC,utilities,981.72,net banking,12,2,633.52,1,0
+TXN01593,2025-12-13,CUST048,Quinn Ltd,groceries,386.75,debit card,12,5,625.86,1,0
+TXN01582,2025-12-17,CUST048,"Steele, Thomas and Gray",groceries,147.2,UPI,12,2,638.06,1,0
+TXN01578,2026-01-06,CUST048,Smith Group,groceries,20.3,debit card,1,1,533.58,1,0
+TXN00822,2026-01-11,CUST048,Smith-Rivera,shopping,176.8,credit card,1,6,429.63,1,0
+TXN01526,2026-02-01,CUST048,Morris-Hooper,entertainment,673.19,debit card,2,6,431.78,1,0
+TXN01707,2026-02-05,CUST048,Hudson-Keller,shopping,452.18,credit card,2,3,405.45,1,0
+TXN01151,2026-02-08,CUST048,Ray-Williams,dining,941.65,debit card,2,6,399.72,1,0
+TXN01356,2026-02-26,CUST048,Merritt-Hardin,dining,232.59,credit card,2,3,377.7,1,0
+TXN01150,2026-03-06,CUST048,Shea-Mercer,dining,551.86,UPI,3,4,435.51,1,0
+TXN00089,2026-03-20,CUST048,"Ferguson, Garcia and Clayton",travel,810.25,credit card,3,4,548.36,1,0
+TXN01999,2026-03-27,CUST048,Smith-Mckinney,travel,289.64,UPI,3,4,564.48,1,0
+TXN01285,2026-04-02,CUST048,"Perez, Delacruz and Perry",travel,708.14,credit card,4,3,569.47,1,0
+TXN01440,2026-04-12,CUST048,Russell-Austin,travel,192.19,debit card,4,6,532.33,1,0
+TXN01706,2026-04-22,CUST048,"Walker, Simmons and Hunt",shopping,279.41,net banking,4,2,437.73,1,0
+TXN00647,2026-05-04,CUST048,"Vaughn, Phillips and Francis",travel,60.06,debit card,5,0,413.08,1,0
+TXN00708,2026-05-08,CUST048,Garcia-Ray,travel,722.58,credit card,5,4,437.47,1,0
+TXN01620,2026-06-02,CUST048,Tran-Vasquez,travel,814.11,credit card,6,1,438.02,1,0
+TXN00190,2025-07-14,CUST049,Lee and Sons,travel,884.24,UPI,7,0,884.24,1,0
+TXN00514,2025-07-22,CUST049,Waters-Lucas,utilities,876.81,credit card,7,1,880.52,1,0
+TXN00589,2025-08-02,CUST049,George and Sons,shopping,46.83,credit card,8,5,602.63,1,0
+TXN00937,2025-08-19,CUST049,"Harris, Young and Larson",groceries,437.42,UPI,8,1,561.33,1,0
+TXN01355,2025-08-24,CUST049,Klein LLC,groceries,90.42,credit card,8,6,467.14,1,0
+TXN00005,2025-09-13,CUST049,"Kent, Banks and Rivera",dining,317.12,UPI,9,5,442.14,1,0
+TXN01030,2025-09-16,CUST049,"Andrews, Harris and Pearson",shopping,725.78,credit card,9,1,482.66,1,0
+TXN01209,2025-09-22,CUST049,Cooper Ltd,shopping,807.99,UPI,9,0,471.77,1,0
+TXN00838,2025-10-03,CUST049,"Burton, Summers and Ramsey",groceries,301.84,debit card,10,4,389.63,1,0
+TXN01299,2025-10-09,CUST049,"Cummings, Schaefer and Williams",travel,893.85,credit card,10,3,510.63,1,0
+TXN00324,2025-10-15,CUST049,"Cooper, Reed and Dickerson",dining,805.25,net banking,10,2,563.18,1,0
+TXN01431,2025-10-26,CUST049,Johnson LLC,shopping,29.34,UPI,10,6,554.45,1,0
+TXN01913,2025-11-07,CUST049,"Taylor, Hall and Barnes",shopping,693.16,net banking,11,4,608.17,1,0
+TXN00686,2025-11-21,CUST049,"Russell, Ellis and Jackson",shopping,133.79,credit card,11,4,523.6,1,0
+TXN00039,2025-12-08,CUST049,Kaufman-Allen,dining,961.93,credit card,12,0,545.59,1,0
+TXN01392,2025-12-21,CUST049,Woodard-Smith,travel,517.97,net banking,12,6,576.47,1,0
+TXN00375,2025-12-22,CUST049,Sandoval Group,groceries,938.24,net banking,12,0,582.81,1,0
+TXN00608,2025-12-25,CUST049,Turner Ltd,dining,320.64,debit card,12,3,513.58,1,0
+TXN00545,2026-01-01,CUST049,"Butler, Johnson and Cervantes",entertainment,611.21,net banking,1,3,596.71,1,0
+TXN00846,2026-01-02,CUST049,Johnston-Carey,utilities,677.28,debit card,1,4,594.44,1,0
+TXN01791,2026-01-03,CUST049,Lam Ltd,entertainment,871.87,net banking,1,5,699.88,1,0
+TXN01070,2026-01-18,CUST049,Bowen-Alexander,entertainment,733.06,debit card,1,6,667.18,1,0
+TXN00193,2026-02-06,CUST049,Brown-Parsons,entertainment,640.47,debit card,2,4,684.68,1,0
+TXN01568,2026-02-17,CUST049,Sherman Group,travel,102.27,net banking,2,1,565.26,1,0
+TXN01448,2026-02-28,CUST049,Pope PLC,entertainment,564.2,credit card,2,5,600.05,1,0
+TXN00033,2026-03-14,CUST049,Black LLC,utilities,871.99,debit card,3,5,637.31,1,0
+TXN00690,2026-03-27,CUST049,Davis-Ruiz,travel,836.91,UPI,3,4,660.11,1,0
+TXN00183,2026-04-04,CUST049,Davis-Edwards,shopping,385.93,net banking,4,5,590.69,1,0
+TXN00946,2026-04-04,CUST049,"Todd, Lawson and Middleton",utilities,202.36,debit card,4,5,514.88,1,0
+TXN01801,2026-04-08,CUST049,Gordon PLC,groceries,265.63,debit card,4,2,461.33,1,0
+TXN00222,2026-04-14,CUST049,Welch Group,entertainment,521.1,net banking,4,1,521.16,1,0
+TXN01205,2026-04-19,CUST049,"Johnson, Parker and Jones",shopping,222.7,UPI,4,6,472.37,1,0
+TXN01056,2026-04-29,CUST049,Jones LLC,groceries,274.93,credit card,4,2,387.08,1,0
+TXN01486,2026-04-29,CUST049,Hart PLC,dining,973.03,UPI,4,2,406.53,1,0
+TXN00883,2026-05-11,CUST049,"Johnson, Jackson and Hernandez",utilities,193.36,credit card,5,0,379.02,1,0
+TXN00521,2026-05-26,CUST049,Mcmillan Ltd,shopping,3033.95,credit card,5,1,783.53,1,0
+TXN00591,2026-06-01,CUST049,Davis and Sons,shopping,252.48,net banking,6,0,781.65,1,0
+TXN01329,2025-06-21,CUST050,"Warren, Browning and Stone",groceries,857.49,debit card,6,5,857.49,1,0
+TXN01043,2025-06-24,CUST050,"Roach, Howard and Jones",groceries,358.39,net banking,6,1,607.94,1,0
+TXN00059,2025-07-16,CUST050,"Miller, Raymond and Banks",entertainment,759.0,net banking,7,2,658.29,1,0
+TXN00523,2025-07-20,CUST050,"Jones, Contreras and Jordan",entertainment,897.63,credit card,7,6,718.13,1,0
+TXN00819,2025-07-21,CUST050,Morgan-Nichols,utilities,275.03,credit card,7,0,629.51,1,0
+TXN01625,2025-08-23,CUST050,Valenzuela-Jones,dining,286.59,debit card,8,5,572.36,1,0
+TXN00333,2025-08-29,CUST050,"Davis, Valenzuela and Gomez",shopping,78.92,debit card,8,4,501.86,1,0
+TXN01166,2025-08-30,CUST050,Snyder PLC,travel,678.97,UPI,8,5,476.36,1,0
+TXN00494,2025-09-13,CUST050,Jimenez PLC,travel,719.35,debit card,9,5,527.93,1,0
+TXN01259,2025-09-20,CUST050,"Brown, Mack and Harris",travel,711.21,net banking,9,5,521.1,1,0
+TXN00143,2025-10-19,CUST050,"Frey, Harrison and Gregory",utilities,700.84,credit card,10,6,492.99,1,0
+TXN01547,2025-10-19,CUST050,"Hamilton, Rodriguez and Dougherty",groceries,669.93,net banking,10,6,549.4,1,0
+TXN00848,2025-11-24,CUST050,Bell and Sons,dining,516.0,UPI,11,0,582.17,1,0
+TXN01834,2025-11-24,CUST050,"Ellis, Cummings and Lopez",shopping,894.3,debit card,11,0,698.66,1,0
+TXN01332,2025-12-13,CUST050,Thompson Group,groceries,956.22,UPI,12,5,738.26,1,0
+TXN00470,2025-12-15,CUST050,Hughes-Richards,groceries,530.54,net banking,12,0,711.29,1,0
+TXN00703,2025-12-21,CUST050,Malone-Taylor,entertainment,498.3,debit card,12,6,680.88,1,0
+TXN01305,2025-12-23,CUST050,Suarez-Ross,shopping,244.11,UPI,12,1,615.63,1,0
+TXN01170,2025-12-30,CUST050,"Maldonado, Warner and Green",groceries,222.48,credit card,12,1,551.71,1,0
+TXN01105,2026-01-23,CUST050,Barber-Carr,utilities,536.66,net banking,1,4,554.66,1,0
+TXN00601,2026-02-16,CUST050,"Cruz, Collins and Rivers",travel,183.55,credit card,2,0,453.12,1,0
+TXN01476,2026-02-16,CUST050,"Jones, Wells and Cross",groceries,891.14,debit card,2,0,443.83,1,0
+TXN00560,2026-03-01,CUST050,Reilly Group,groceries,188.28,UPI,3,6,394.93,1,0
+TXN01869,2026-03-10,CUST050,Ware Inc,travel,129.03,UPI,3,1,342.18,1,0
+TXN00720,2026-03-13,CUST050,Wilcox PLC,dining,212.83,net banking,3,4,337.71,1,0
+TXN01586,2026-04-12,CUST050,"Sheppard, Horton and Kennedy",shopping,267.96,UPI,4,6,344.21,1,0
+TXN01642,2026-04-15,CUST050,Wilson Ltd,utilities,366.22,debit card,4,2,319.86,1,0
+TXN00161,2026-04-29,CUST050,Thomas Ltd,shopping,21.84,net banking,4,2,296.76,1,0
+TXN01904,2026-04-30,CUST050,Shepherd-Watson,dining,954.07,UPI,4,3,305.75,1,0
+TXN01475,2026-05-10,CUST050,"Hall, Solomon and Barnes",utilities,399.41,UPI,5,6,335.91,1,0
+TXN01112,2026-05-21,CUST050,Murray-Padilla,dining,931.77,UPI,5,3,450.59,1,0
+TXN01348,2026-05-25,CUST050,"Fuller, Lucas and Johnson",utilities,5611.32,UPI,5,0,1221.8,-1,1

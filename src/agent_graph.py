@@ -1,0 +1,73 @@
+from typing import TypedDict
+from langgraph.graph import StateGraph, END
+from langchain_ollama import ChatOllama
+
+llm = ChatOllama(model="phi3")
+
+class State(TypedDict):
+    customer_id: str
+    amount: float
+    rolling_avg_7d: float
+    category: str
+    pattern_finding: str
+    rule_finding: str
+    final_explanation: str
+
+def pattern_node(state):
+    prompt = f"""A customer typically spends around ${state['rolling_avg_7d']} on average.
+This transaction was ${state['amount']} in the category {state['category']}.
+In one short sentence, describe how unusual this transaction is compared to their typical spending."""
+    
+    response = llm.invoke(prompt)
+    return {"pattern_finding": response.content}
+
+
+def rule_node(state):
+    ratio = state["amount"] / state["rolling_avg_7d"]
+    
+    if ratio > 5:
+        finding = f"Transaction is {ratio:.1f}x the rolling average, exceeds high risk threshold of 5x."
+    elif ratio > 2:
+        finding = f"Transaction is {ratio:.1f}x the rolling average, exceeds moderate risk threshold of 2x."
+    else:
+        finding = f"Transaction is {ratio:.1f}x the rolling average, within normal range."
+    
+    return {"rule_finding": finding}
+
+
+def explainer_node(state):
+    prompt = f"""Based on these two findings, write a single short professional explanation for why this transaction was flagged as anomalous.
+
+Pattern finding: {state['pattern_finding']}
+Rule finding: {state['rule_finding']}
+
+Write only the final explanation, 1-2 sentences, no preamble."""
+    
+    response = llm.invoke(prompt)
+    return {"final_explanation": response.content}
+
+test_state = {
+    "customer_id": "CUST002",
+    "amount": 7954.23,
+    "rolling_avg_7d": 1279.00,
+    "category": "utilities",
+    "pattern_finding": "",
+    "rule_finding": "",
+    "final_explanation": ""
+}
+
+graph_builder = StateGraph(State)
+graph_builder.add_node("pattern", pattern_node)
+graph_builder.add_node("rule", rule_node)
+graph_builder.add_node("explainer", explainer_node)
+
+graph_builder.set_entry_point("pattern")
+graph_builder.add_edge("pattern", "rule")
+graph_builder.add_edge("rule", "explainer")
+graph_builder.add_edge("explainer", END)
+
+graph = graph_builder.compile()
+
+result = graph.invoke(test_state)
+print("\nFINAL EXPLANATION:")
+print(result["final_explanation"])
