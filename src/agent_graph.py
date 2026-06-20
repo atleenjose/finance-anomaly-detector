@@ -1,6 +1,7 @@
 from typing import TypedDict
 from langgraph.graph import StateGraph, END
 from langchain_ollama import ChatOllama
+import pandas as pd
 
 llm = ChatOllama(model="phi3")
 
@@ -46,16 +47,6 @@ Write only the final explanation, 1-2 sentences, no preamble."""
     response = llm.invoke(prompt)
     return {"final_explanation": response.content}
 
-test_state = {
-    "customer_id": "CUST002",
-    "amount": 7954.23,
-    "rolling_avg_7d": 1279.00,
-    "category": "utilities",
-    "pattern_finding": "",
-    "rule_finding": "",
-    "final_explanation": ""
-}
-
 graph_builder = StateGraph(State)
 graph_builder.add_node("pattern", pattern_node)
 graph_builder.add_node("rule", rule_node)
@@ -68,6 +59,25 @@ graph_builder.add_edge("explainer", END)
 
 graph = graph_builder.compile()
 
-result = graph.invoke(test_state)
-print("\nFINAL EXPLANATION:")
-print(result["final_explanation"])
+df = pd.read_csv("data/transactions_anomalies.csv")
+df = df[df["anomaly_flag"] == 1].reset_index(drop=True)
+
+explanations = []
+
+for i, row in df.iterrows():
+    state = {
+        "customer_id": row["customer_id"],
+        "amount": row["amount"],
+        "rolling_avg_7d": row["rolling_avg_7d"],
+        "category": row["category"],
+        "pattern_finding": "",
+        "rule_finding": "",
+        "final_explanation": ""
+    }
+    print(f"Processing row {i}")
+    result = graph.invoke(state)
+    explanations.append(result["final_explanation"])
+
+df["final_explanation"] = explanations
+df.to_csv("data/transactions_with_explanations.csv", index=False)
+print("Done, saved to transactions_with_explanations.csv")
