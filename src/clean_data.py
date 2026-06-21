@@ -1,7 +1,7 @@
 import pandas as pd
 
 df = pd.read_csv("data/transactions_messy.csv")
-df = df.drop_duplicates().reset_index(drop=True)
+df = df.drop_duplicates(subset="transaction_id", keep="first").reset_index(drop=True)
 
 df["merchant"] = df["merchant"].fillna("Unknown Merchant")
 df["category"] = df["category"].fillna(df["category"].mode()[0])

@@ -20,6 +20,8 @@ This transaction was ${state['amount']} in the category {state['category']}.
 In one short sentence, describe how unusual this transaction is compared to their typical spending."""
     
     response = llm.invoke(prompt)
+    print(f"\n[Pattern Agent] Investigating spending pattern...")
+    print(f"  → {response.content}")
     return {"pattern_finding": response.content}
 
 
@@ -33,6 +35,8 @@ def rule_node(state):
     else:
         finding = f"Transaction is {ratio:.1f}x the rolling average, within normal range."
     
+    print(f"\n[Rule Agent] Evaluating transaction...")
+    print(f"  → {finding}")
     return {"rule_finding": finding}
 
 
@@ -45,6 +49,8 @@ Rule finding: {state['rule_finding']}
 Write only the final explanation, 1-2 sentences, no preamble."""
     
     response = llm.invoke(prompt)
+    print(f"\n[Explainer Agent] Generating final explanation...")
+    print(f"  → {response.content}")
     return {"final_explanation": response.content}
 
 graph_builder = StateGraph(State)
@@ -61,10 +67,14 @@ graph = graph_builder.compile()
 
 df = pd.read_csv("data/transactions_anomalies.csv")
 df = df[df["anomaly_flag"] == 1].reset_index(drop=True)
+# df = df.head(5)
 
 explanations = []
 
 for i, row in df.iterrows():
+    # print(f"\n{'='*60}")
+    # print(f"Transaction: {row['transaction_id']} | Customer: {row['customer_id']} | Amount: ${row['amount']}")
+    # print(f"{'='*60}")
     state = {
         "customer_id": row["customer_id"],
         "amount": row["amount"],
@@ -79,5 +89,7 @@ for i, row in df.iterrows():
     explanations.append(result["final_explanation"])
 
 df["final_explanation"] = explanations
+# df.to_csv("data/demo_explanations.csv", index=False)
+# print("Done, saved to demo_explanations.csv")
 df.to_csv("data/transactions_with_explanations.csv", index=False)
 print("Done, saved to transactions_with_explanations.csv")
