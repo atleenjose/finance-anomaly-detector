@@ -65,31 +65,32 @@ graph_builder.add_edge("explainer", END)
 
 graph = graph_builder.compile()
 
-df = pd.read_csv("data/transactions_anomalies.csv")
-df = df[df["anomaly_flag"] == 1].reset_index(drop=True)
-# df = df.head(5)
+if __name__ == "__main__":
+    df = pd.read_csv("data/transactions_anomalies.csv")
+    df = df[df["anomaly_flag"] == 1].reset_index(drop=True)
+    # df = df.head(5)
 
-explanations = []
+    explanations = []
 
-for i, row in df.iterrows():
-    # print(f"\n{'='*60}")
-    # print(f"Transaction: {row['transaction_id']} | Customer: {row['customer_id']} | Amount: ${row['amount']}")
-    # print(f"{'='*60}")
-    state = {
-        "customer_id": row["customer_id"],
-        "amount": row["amount"],
-        "rolling_avg_7d": row["rolling_avg_7d"],
-        "category": row["category"],
-        "pattern_finding": "",
-        "rule_finding": "",
-        "final_explanation": ""
-    }
-    print(f"Processing row {i}")
-    result = graph.invoke(state)
-    explanations.append(result["final_explanation"])
+    for i, row in df.iterrows():
+        # print(f"\n{'='*60}")
+        # print(f"Transaction: {row['transaction_id']} | Customer: {row['customer_id']} | Amount: ${row['amount']}")
+        # print(f"{'='*60}")
+        state = {
+            "customer_id": row["customer_id"],
+            "amount": row["amount"],
+            "rolling_avg_7d": row["rolling_avg_7d"],
+            "category": row["category"],
+            "pattern_finding": "",
+            "rule_finding": "",
+            "final_explanation": ""
+        }
+        print(f"Processing row {i}")
+        result = graph.invoke(state)
+        explanations.append(result["final_explanation"])
 
-df["final_explanation"] = explanations
-# df.to_csv("data/demo_explanations.csv", index=False)
-# print("Done, saved to demo_explanations.csv")
-df.to_csv("data/transactions_with_explanations.csv", index=False)
-print("Done, saved to transactions_with_explanations.csv")
+    df["final_explanation"] = explanations
+    # df.to_csv("data/demo_explanations.csv", index=False)
+    # print("Done, saved to demo_explanations.csv")
+    df.to_csv("data/transactions_with_explanations.csv", index=False)
+    print("Done, saved to transactions_with_explanations.csv")
